@@ -20,7 +20,7 @@
             "疑似花萼「工造司」",
             "疑似花萼「ホテル・『レバリー』-夢境」",
             "疑似花萼「『囁きの密林』神悟の樹庭」",
-            "疑似花萼「{TextID#FloorName_20503001}」",
+            "疑似花萼「{RUBY_B#はとがわく}鳩川区{RUBY_E#}」",
             "クエスト報酬",
             "依頼報酬",
             "エンバー交換"
@@ -245,7 +245,7 @@
             "疑似花萼「流雲渡し」",
             "疑似花萼「ドリームボーダー」",
             "疑似花萼「『神託の聖地』ヤヌサポリス」",
-            "疑似花萼「{TextID#FloorName_20501001}」",
+            "疑似花萼「グラフィエ{RUBY_B#がくいん}学院{RUBY_E#}」",
             "依頼報酬"
         ]
     },
@@ -261,7 +261,7 @@
             "疑似花萼「流雲渡し」",
             "疑似花萼「ドリームボーダー」",
             "疑似花萼「『神託の聖地』ヤヌサポリス」",
-            "疑似花萼「{TextID#FloorName_20501001}」",
+            "疑似花萼「グラフィエ{RUBY_B#がくいん}学院{RUBY_E#}」",
             "デイリー訓練",
             "エンバー交換"
         ]
@@ -278,7 +278,7 @@
             "疑似花萼「流雲渡し」",
             "疑似花萼「ドリームボーダー」",
             "疑似花萼「『神託の聖地』ヤヌサポリス」",
-            "疑似花萼「{TextID#FloorName_20501001}」",
+            "疑似花萼「グラフィエ{RUBY_B#がくいん}学院{RUBY_E#}」",
             "「忘却の庭」"
         ]
     },
@@ -294,7 +294,7 @@
             "疑似花萼「太卜司」",
             "疑似花萼「稚児の夢」",
             "疑似花萼「『紛争の爪痕』クレムノス」",
-            "疑似花萼「{TextID#FloorName_20503001}」",
+            "疑似花萼「{RUBY_B#はとがわく}鳩川区{RUBY_E#}」",
             "依頼報酬"
         ]
     },
@@ -310,7 +310,7 @@
             "疑似花萼「太卜司」",
             "疑似花萼「稚児の夢」",
             "疑似花萼「『紛争の爪痕』クレムノス」",
-            "疑似花萼「{TextID#FloorName_20503001}」",
+            "疑似花萼「{RUBY_B#はとがわく}鳩川区{RUBY_E#}」",
             "エンバー交換"
         ]
     },
@@ -326,7 +326,7 @@
             "疑似花萼「太卜司」",
             "疑似花萼「稚児の夢」",
             "疑似花萼「『紛争の爪痕』クレムノス」",
-            "疑似花萼「{TextID#FloorName_20503001}」",
+            "疑似花萼「{RUBY_B#はとがわく}鳩川区{RUBY_E#}」",
             "「忘却の庭」"
         ]
     },
@@ -481,7 +481,11 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/281.png",
-        "come_from": ["星魂が上限に達した★5キャラクターを新たに2回獲得すると交換可能", "星魂が上限に達した★5キャラクターを新たに2回獲得すると交換可能"]
+        "come_from": [
+            "星魂が上限に達した★5キャラクターを新たに2回獲得すると交換可能",
+            "星魂が上限に達した★5キャラクターを新たに2回獲得すると交換可能",
+            "千星、旅は道づれ"
+        ]
     },
     "282": {
         "id": "282",
@@ -508,7 +512,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/291.png",
-        "come_from": ["「ぽんぽこ通信」のサービスレベル報酬で獲得できる", "開拓クエスト報酬"]
+        "come_from": []
     },
     "503": {
         "id": "503",
@@ -553,6 +557,15 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/803.png",
+        "come_from": []
+    },
+    "804": {
+        "id": "804",
+        "name": "幻楽の祝福",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/804.png",
         "come_from": []
     },
     "821": {
@@ -1275,6 +1288,24 @@
         "icon": "icon/item/11003.png",
         "come_from": []
     },
+    "11505": {
+        "id": "11505",
+        "name": "「緋英」の星魂",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11506": {
+        "id": "11506",
+        "name": "「銀狼LV.999」の星魂",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
     "18001": {
         "id": "18001",
         "name": "「壊滅」の影",
@@ -1345,6 +1376,24 @@
         "sub_type": "Eidolon",
         "rarity": 5,
         "icon": "icon/item/18007.png",
+        "come_from": []
+    },
+    "18009": {
+        "id": "18009",
+        "name": "「愉悦」の影",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/18009.png",
+        "come_from": ["「ぽんぽこ通信」のサービスレベル報酬で獲得できる", "開拓クエスト報酬"]
+    },
+    "18010": {
+        "id": "18010",
+        "name": "「愉悦」の影",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/18009.png",
         "come_from": []
     },
     "71000": {
@@ -2497,7 +2546,10 @@
         "sub_type": "RelicSetShowOnly",
         "rarity": 5,
         "icon": "icon/item/71048.png",
-        "come_from": ["侵蝕トンネル「{TextID#FloorName_20462001}」", "「万能合成マシン」- 遺物合成"]
+        "come_from": [
+            "侵蝕トンネル「「{RUBY_B#ばんしょう}万象{RUBY_E#}のマトリクス」{RUBY_B#むめい}無名{RUBY_E#}のタイタンの{RUBY_B#たいぼ}大墓{RUBY_E#}」",
+            "「万能合成マシン」- 遺物合成"
+        ]
     },
     "81281": {
         "id": "81281",
@@ -2533,7 +2585,10 @@
         "sub_type": "RelicSetShowOnly",
         "rarity": 5,
         "icon": "icon/item/71049.png",
-        "come_from": ["侵蝕トンネル「{TextID#FloorName_20462001}」", "「万能合成マシン」- 遺物合成"]
+        "come_from": [
+            "侵蝕トンネル「「{RUBY_B#ばんしょう}万象{RUBY_E#}のマトリクス」{RUBY_B#むめい}無名{RUBY_E#}のタイタンの{RUBY_B#たいぼ}大墓{RUBY_E#}」",
+            "「万能合成マシン」- 遺物合成"
+        ]
     },
     "81291": {
         "id": "81291",
@@ -2569,7 +2624,7 @@
         "sub_type": "RelicSetShowOnly",
         "rarity": 5,
         "icon": "icon/item/71052.png",
-        "come_from": ["侵蝕トンネル「{TextID#FloorName_20501001}」", "「万能合成マシン」- 遺物合成"]
+        "come_from": ["侵蝕トンネル「グラフィエ{RUBY_B#がくいん}学院{RUBY_E#}」", "「万能合成マシン」- 遺物合成"]
     },
     "81301": {
         "id": "81301",
@@ -2605,7 +2660,7 @@
         "sub_type": "RelicSetShowOnly",
         "rarity": 5,
         "icon": "icon/item/71053.png",
-        "come_from": ["侵蝕トンネル「{TextID#FloorName_20501001}」", "「万能合成マシン」- 遺物合成"]
+        "come_from": ["侵蝕トンネル「グラフィエ{RUBY_B#がくいん}学院{RUBY_E#}」", "「万能合成マシン」- 遺物合成"]
     },
     "83011": {
         "id": "83011",
@@ -4009,12 +4064,7 @@
         "sub_type": "TracePath",
         "rarity": 2,
         "icon": "icon/item/110261.png",
-        "come_from": [
-            "「万能合成マシン」- 等量交換",
-            "疑似花萼「{TextID#FloorName_20502001}」",
-            "エンバー交換",
-            "「万能合成マシン」- 素材交換"
-        ]
+        "come_from": ["疑似花萼「パブ「ワールドエンド」」", "エンバー交換", "「万能合成マシン」- 素材交換"]
     },
     "110262": {
         "id": "110262",
@@ -4023,13 +4073,7 @@
         "sub_type": "TracePath",
         "rarity": 3,
         "icon": "icon/item/110262.png",
-        "come_from": [
-            "「万能合成マシン」- 等量交換",
-            "疑似花萼「{TextID#FloorName_20502001}」",
-            "「万能合成マシン」- 素材合成",
-            "エンバー交換",
-            "「万能合成マシン」- 素材交換"
-        ]
+        "come_from": ["疑似花萼「パブ「ワールドエンド」」", "「万能合成マシン」- 素材合成", "エンバー交換", "「万能合成マシン」- 素材交換"]
     },
     "110263": {
         "id": "110263",
@@ -4038,12 +4082,7 @@
         "sub_type": "TracePath",
         "rarity": 4,
         "icon": "icon/item/110263.png",
-        "come_from": [
-            "「万能合成マシン」- 等量交換",
-            "疑似花萼「{TextID#FloorName_20502001}」",
-            "「万能合成マシン」- 素材合成",
-            "「万能合成マシン」- 素材交換"
-        ]
+        "come_from": ["疑似花萼「パブ「ワールドエンド」」", "「万能合成マシン」- 素材合成", "「万能合成マシン」- 素材交換"]
     },
     "110271": {
         "id": "110271",
@@ -4052,7 +4091,11 @@
         "sub_type": "TracePath",
         "rarity": 2,
         "icon": "icon/item/110271.png",
-        "come_from": ["疑似花萼「{TextID#FloorName_20481001}」", "エンバー交換", "「万能合成マシン」- 素材交換"]
+        "come_from": [
+            "疑似花萼「「{RUBY_B#ほうむ}葬{RUBY_E#}られし{RUBY_B#きおく}記憶{RUBY_E#}の{RUBY_B#ひがん}彼岸{RUBY_E#}」{RUBY_B#とき}時{RUBY_E#}の{RUBY_B#は}果{RUBY_E#}て」",
+            "エンバー交換",
+            "「万能合成マシン」- 素材交換"
+        ]
     },
     "110272": {
         "id": "110272",
@@ -4062,7 +4105,7 @@
         "rarity": 3,
         "icon": "icon/item/110272.png",
         "come_from": [
-            "疑似花萼「{TextID#FloorName_20481001}」",
+            "疑似花萼「「{RUBY_B#ほうむ}葬{RUBY_E#}られし{RUBY_B#きおく}記憶{RUBY_E#}の{RUBY_B#ひがん}彼岸{RUBY_E#}」{RUBY_B#とき}時{RUBY_E#}の{RUBY_B#は}果{RUBY_E#}て」",
             "「万能合成マシン」- 素材合成",
             "エンバー交換",
             "「万能合成マシン」- 素材交換"
@@ -4075,7 +4118,51 @@
         "sub_type": "TracePath",
         "rarity": 4,
         "icon": "icon/item/110273.png",
-        "come_from": ["疑似花萼「{TextID#FloorName_20481001}」", "「万能合成マシン」- 素材合成", "「万能合成マシン」- 素材交換"]
+        "come_from": [
+            "疑似花萼「「{RUBY_B#ほうむ}葬{RUBY_E#}られし{RUBY_B#きおく}記憶{RUBY_E#}の{RUBY_B#ひがん}彼岸{RUBY_E#}」{RUBY_B#とき}時{RUBY_E#}の{RUBY_B#は}果{RUBY_E#}て」",
+            "「万能合成マシン」- 素材合成",
+            "「万能合成マシン」- 素材交換"
+        ]
+    },
+    "110311": {
+        "id": "110311",
+        "name": "ファジェイナの涙",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 2,
+        "icon": "icon/item/110311.png",
+        "come_from": [
+            "疑似花萼「「{RUBY_B#あとかがや}痕輝{RUBY_E#}ける{RUBY_B#せいりん}聖林{RUBY_E#}」{RUBY_B#しんご}神悟{RUBY_E#}の{RUBY_B#じゅてい}樹庭{RUBY_E#}」",
+            "エンバー交換",
+            "「万能合成マシン」- 素材交換"
+        ]
+    },
+    "110312": {
+        "id": "110312",
+        "name": "ファジェイナの酒",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 3,
+        "icon": "icon/item/110312.png",
+        "come_from": [
+            "疑似花萼「「{RUBY_B#あとかがや}痕輝{RUBY_E#}ける{RUBY_B#せいりん}聖林{RUBY_E#}」{RUBY_B#しんご}神悟{RUBY_E#}の{RUBY_B#じゅてい}樹庭{RUBY_E#}」",
+            "「万能合成マシン」- 素材合成",
+            "エンバー交換",
+            "「万能合成マシン」- 素材交換"
+        ]
+    },
+    "110313": {
+        "id": "110313",
+        "name": "ファジェイナの心",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 4,
+        "icon": "icon/item/110313.png",
+        "come_from": [
+            "疑似花萼「「{RUBY_B#あとかがや}痕輝{RUBY_E#}ける{RUBY_B#せいりん}聖林{RUBY_E#}」{RUBY_B#しんご}神悟{RUBY_E#}の{RUBY_B#じゅてい}樹庭{RUBY_E#}」",
+            "「万能合成マシン」- 素材合成",
+            "「万能合成マシン」- 素材交換"
+        ]
     },
     "110400": {
         "id": "110400",
@@ -4291,7 +4378,10 @@
         "sub_type": "AvatarRank",
         "rarity": 4,
         "icon": "icon/item/110432.png",
-        "come_from": ["凝結虚影「{TextID#FloorName_20422001}」", "「万能合成マシン」- 素材交換"]
+        "come_from": [
+            "凝結虚影「「{RUBY_B#しんたく}神託{RUBY_E#}の{RUBY_B#せいち}聖地{RUBY_E#}」ヤヌサポリス」",
+            "「万能合成マシン」- 素材交換"
+        ]
     },
     "110433": {
         "id": "110433",
@@ -4300,7 +4390,10 @@
         "sub_type": "AvatarRank",
         "rarity": 4,
         "icon": "icon/item/110433.png",
-        "come_from": ["凝結虚影「{TextID#FloorName_20451001}」", "「万能合成マシン」- 素材交換"]
+        "come_from": [
+            "凝結虚影「「{RUBY_B#うたひび}歌響{RUBY_E#}く{RUBY_B#たいかい}大海{RUBY_E#}」スティコシア」",
+            "「万能合成マシン」- 素材交換"
+        ]
     },
     "110434": {
         "id": "110434",
@@ -4309,7 +4402,7 @@
         "sub_type": "AvatarRank",
         "rarity": 4,
         "icon": "icon/item/110434.png",
-        "come_from": ["凝結虚影「{TextID#FloorName_20503001}」", "「万能合成マシン」- 素材交換"]
+        "come_from": ["凝結虚影「{RUBY_B#はとがわく}鳩川区{RUBY_E#}」", "「万能合成マシン」- 素材交換"]
     },
     "110435": {
         "id": "110435",
@@ -4408,7 +4501,9 @@
         "sub_type": "WeeklyMonsterDrop",
         "rarity": 4,
         "icon": "icon/item/110508.png",
-        "come_from": ["歴戦余韻「{TextID#FloorName_20481001}」"]
+        "come_from": [
+            "歴戦余韻「「{RUBY_B#ほうむ}葬{RUBY_E#}られし{RUBY_B#きおく}記憶{RUBY_E#}の{RUBY_B#ひがん}彼岸{RUBY_E#}」{RUBY_B#とき}時{RUBY_E#}の{RUBY_B#は}果{RUBY_E#}て」"
+        ]
     },
     "111000": {
         "id": "111000",
@@ -5068,6 +5163,15 @@
         "icon": "icon/item/121006.png",
         "come_from": []
     },
+    "121007": {
+        "id": "121007",
+        "name": "記念カセット",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/121007.png",
+        "come_from": []
+    },
     "122000": {
         "id": "122000",
         "name": "エディオンコイン",
@@ -5094,6 +5198,15 @@
         "rarity": 3,
         "icon": "icon/item/123001.png",
         "come_from": []
+    },
+    "123002": {
+        "id": "123002",
+        "name": "アクセスカード",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/123000.png",
+        "come_from": ["イベント「奇物宝庫トレジャー」で獲得"]
     },
     "140000": {
         "id": "140000",
@@ -9811,6 +9924,24 @@
         "icon": "icon/item/140609.png",
         "come_from": []
     },
+    "140610": {
+        "id": "140610",
+        "name": "開拓の妖精の丸い手（左）",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140610.png",
+        "come_from": []
+    },
+    "140611": {
+        "id": "140611",
+        "name": "トロフィー「アクア星の守護者」",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140611.png",
+        "come_from": []
+    },
     "149957": {
         "id": "149957",
         "name": "三月なのかとのツーショット",
@@ -10952,6 +11083,15 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/150100.png",
+        "come_from": []
+    },
+    "150101": {
+        "id": "150101",
+        "name": "『週刊タヌキ』の缶バッジ",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/150101.png",
         "come_from": []
     },
     "180001": {
@@ -20267,6 +20407,276 @@
         "icon": "icon/item/190022.png",
         "come_from": []
     },
+    "192061": {
+        "id": "192061",
+        "name": "幻月遊儀システムに関する合理的仮説",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192062": {
+        "id": "192062",
+        "name": "グワラ興業会社概要",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192063": {
+        "id": "192063",
+        "name": "雷龍稼働状況観測ハンドブック",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192064": {
+        "id": "192064",
+        "name": "基礎願力学序説",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192065": {
+        "id": "192065",
+        "name": "海原市の画中形態復元についての協同請願書",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192066": {
+        "id": "192066",
+        "name": "被験体Aの培養記録",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192067": {
+        "id": "192067",
+        "name": "1984年度卒業記念アルバム・満願",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192068": {
+        "id": "192068",
+        "name": "満願に関するバラエティ企画",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192069": {
+        "id": "192069",
+        "name": "花火人形のタグ",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192070": {
+        "id": "192070",
+        "name": "エキストラの心得",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192071": {
+        "id": "192071",
+        "name": "術前心理診療記録",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192072": {
+        "id": "192072",
+        "name": "海流異変についての報告書",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192073": {
+        "id": "192073",
+        "name": "海原テレビ沿革",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192074": {
+        "id": "192074",
+        "name": "探偵宛の手紙",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192075": {
+        "id": "192075",
+        "name": "歴代最強カセット",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192076": {
+        "id": "192076",
+        "name": "未着物語集",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192077": {
+        "id": "192077",
+        "name": "お知らせだぴょん",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192078": {
+        "id": "192078",
+        "name": "満願テレビ局の内部通知",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192079": {
+        "id": "192079",
+        "name": "スマイル研究会について語ろう",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192080": {
+        "id": "192080",
+        "name": "悠への手紙",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192081": {
+        "id": "192081",
+        "name": "科学に迫る：謎のダークゾーン",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192082": {
+        "id": "192082",
+        "name": "「クラーケン」の足跡を辿って",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192083": {
+        "id": "192083",
+        "name": "近くて美しい、海原へ行こう",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192084": {
+        "id": "192084",
+        "name": "港の掲示板",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192085": {
+        "id": "192085",
+        "name": "空飛ぶ島の神木伝説",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192086": {
+        "id": "192086",
+        "name": "海原の幸せの約束",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192087": {
+        "id": "192087",
+        "name": "深夜ラジオの放送原稿",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192088": {
+        "id": "192088",
+        "name": "「無量塔」文化考",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192089": {
+        "id": "192089",
+        "name": "浮脂紀事 蛙の章 其の3",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192090": {
+        "id": "192090",
+        "name": "浮脂紀事 狐の章 其の7",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
     "210001": {
         "id": "210001",
         "name": "『禍災の黎明』",
@@ -22175,6 +22585,78 @@
         "icon": "icon/item/210001.png",
         "come_from": []
     },
+    "210462": {
+        "id": "210462",
+        "name": "『虚しい電波』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210463": {
+        "id": "210463",
+        "name": "『娯楽に殺される』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210464": {
+        "id": "210464",
+        "name": "『メディアの時代』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210465": {
+        "id": "210465",
+        "name": "『高みから見下ろす』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210466": {
+        "id": "210466",
+        "name": "『シーサイド・タウン』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210467": {
+        "id": "210467",
+        "name": "『ただよう』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210468": {
+        "id": "210468",
+        "name": "『戒めなき繁茂』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210469": {
+        "id": "210469",
+        "name": "『死と新生』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
     "215001": {
         "id": "215001",
         "name": "『ひらりはらり』",
@@ -22205,6 +22687,15 @@
     "215004": {
         "id": "215004",
         "name": "『ささやき』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "215008": {
+        "id": "215008",
+        "name": "『樹々のことば』",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -24891,7 +25382,7 @@
         "sub_type": "PlayerOutfit",
         "rarity": 5,
         "icon": "icon/item/227007.png",
-        "come_from": ["「流行りのヘッドアクセサリー」ギフトボックス"]
+        "come_from": ["ショップ「ファッションアイテム」で獲得"]
     },
     "227008": {
         "id": "227008",
@@ -24901,6 +25392,42 @@
         "rarity": 4,
         "icon": "icon/item/227008.png",
         "come_from": ["「ぽんぽこ通信」の販売計画レベルアップ報酬で獲得できる開拓コーデ"]
+    },
+    "227009": {
+        "id": "227009",
+        "name": "宇宙トップスター・ネオン猫耳ヘッドホン",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227009.png",
+        "come_from": ["ショップ「星屑の贈り物」で獲得"]
+    },
+    "227010": {
+        "id": "227010",
+        "name": "はなこん監修ラクーン",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 5,
+        "icon": "icon/item/227010.png",
+        "come_from": ["ギフトボックス「緋狐ノ影」", "ショップ「ファッションアイテム」で獲得"]
+    },
+    "227012": {
+        "id": "227012",
+        "name": "ぽんぽこメガネ",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227012.png",
+        "come_from": ["ショップ「星屑の贈り物」で獲得"]
+    },
+    "227013": {
+        "id": "227013",
+        "name": "超クールゴーグル",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 5,
+        "icon": "icon/item/227013.png",
+        "come_from": ["ギフトボックス「銀河スピードクリア」"]
     },
     "229001": {
         "id": "229001",
@@ -27026,6 +27553,15 @@
         "icon": "icon/item/251003.png",
         "come_from": []
     },
+    "251004": {
+        "id": "251004",
+        "name": "たぬき記者団",
+        "type": "Pet",
+        "sub_type": "NormalPet",
+        "rarity": 5,
+        "icon": "icon/item/251004.png",
+        "come_from": []
+    },
     "252000": {
         "id": "252000",
         "name": "厳かな深紅！車掌制服",
@@ -27051,6 +27587,24 @@
         "sub_type": "PamSkin",
         "rarity": 4,
         "icon": "icon/item/252002.png",
+        "come_from": ["ショップ「星屑の贈り物」で獲得"]
+    },
+    "252003": {
+        "id": "252003",
+        "name": "開拓の日々！フォーマルウェアセット",
+        "type": "Usable",
+        "sub_type": "PamSkin",
+        "rarity": 4,
+        "icon": "icon/item/252003.png",
+        "come_from": ["「おたすけパム」でパムと会話して獲得"]
+    },
+    "252004": {
+        "id": "252004",
+        "name": "黄金の夢！フォーマルウェアセット",
+        "type": "Usable",
+        "sub_type": "PamSkin",
+        "rarity": 5,
+        "icon": "icon/item/252004.png",
         "come_from": ["ショップ「星屑の贈り物」で獲得"]
     },
     "252100": {
@@ -28709,6 +29263,15 @@
         "icon": "icon/item/253003.png",
         "come_from": []
     },
+    "253004": {
+        "id": "253004",
+        "name": "楽園レッツラゴー",
+        "type": "Usable",
+        "sub_type": "PersonalCard",
+        "rarity": 5,
+        "icon": "icon/item/253004.png",
+        "come_from": ["ギフトボックス「銀河スピードクリア」"]
+    },
     "254000": {
         "id": "254000",
         "name": "{NICKNAME}の自由意志",
@@ -29402,6 +29965,96 @@
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": ["コズミック・フォースショップの「拡張パック・1」で購入"]
     },
+    "264026": {
+        "id": "264026",
+        "name": "銀狼LV.999",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["コズミック・フォースショップの「拡張パック・2」で購入"]
+    },
+    "264027": {
+        "id": "264027",
+        "name": "緋英",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["コズミック・フォースショップの「拡張パック・2」で購入"]
+    },
+    "264028": {
+        "id": "264028",
+        "name": "{NICKNAME}",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["コズミック・フォースショップの「拡張パック・2」で購入"]
+    },
+    "264029": {
+        "id": "264029",
+        "name": "不死途",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["コズミック・フォースショップの「拡張パック・2」で購入"]
+    },
+    "264030": {
+        "id": "264030",
+        "name": "サンデー",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["コズミック・フォースショップの「拡張パック・2」で購入"]
+    },
+    "264031": {
+        "id": "264031",
+        "name": "刃",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["コズミック・フォースショップの「拡張パック・2」で購入"]
+    },
+    "264032": {
+        "id": "264032",
+        "name": "セイレンス",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["コズミック・フォースショップの「拡張パック・2」で購入"]
+    },
+    "264033": {
+        "id": "264033",
+        "name": "トリビー",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["コズミック・フォースショップの「拡張パック・2」で購入"]
+    },
+    "264034": {
+        "id": "264034",
+        "name": "ルアン・メェイ",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["コズミック・フォースショップの「拡張パック・2」で購入"]
+    },
+    "264035": {
+        "id": "264035",
+        "name": "姫子",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/264035.png",
+        "come_from": ["クエスト「一匹狼の血」をクリア"]
+    },
     "264101": {
         "id": "264101",
         "name": "",
@@ -29471,7 +30124,7 @@
         "type": "Material",
         "sub_type": "DiceCombatDice",
         "rarity": 3,
-        "icon": "icon/item/264405.png",
+        "icon": "icon/item/264428.png",
         "come_from": ["コズミック・フォースショップの「拡張パック・1」で購入"]
     },
     "264406": {
@@ -29609,6 +30262,60 @@
         "icon": "icon/item/264422.png",
         "come_from": ["コズミック・フォースショップの「拡張パック・1」で購入"]
     },
+    "264423": {
+        "id": "264423",
+        "name": "「真・毒液」",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264423.png",
+        "come_from": ["コズミック・フォースショップの「拡張パック・2」で購入"]
+    },
+    "264424": {
+        "id": "264424",
+        "name": "「真・チャージ」",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264426.png",
+        "come_from": ["コズミック・フォースショップの「拡張パック・2」で購入"]
+    },
+    "264425": {
+        "id": "264425",
+        "name": "「真・幸運」",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264425.png",
+        "come_from": ["コズミック・フォースショップの「拡張パック・2」で購入"]
+    },
+    "264426": {
+        "id": "264426",
+        "name": "「真・猛攻」",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264424.png",
+        "come_from": ["コズミック・フォースショップの「拡張パック・2」で購入"]
+    },
+    "264427": {
+        "id": "264427",
+        "name": "「真・堅守」",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264427.png",
+        "come_from": ["コズミック・フォースショップの「拡張パック・2」で購入"]
+    },
+    "264428": {
+        "id": "264428",
+        "name": "「真・忍耐」",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264428.png",
+        "come_from": ["コズミック・フォースショップの「拡張パック・2」で購入"]
+    },
     "264502": {
         "id": "264502",
         "name": "",
@@ -29642,7 +30349,7 @@
         "type": "Material",
         "sub_type": "DiceCombatDice",
         "rarity": 3,
-        "icon": "icon/item/264405.png",
+        "icon": "icon/item/264428.png",
         "come_from": []
     },
     "264506": {
@@ -29780,6 +30487,24 @@
         "icon": "icon/item/264422.png",
         "come_from": []
     },
+    "264523": {
+        "id": "264523",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264426.png",
+        "come_from": []
+    },
+    "264524": {
+        "id": "264524",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264423.png",
+        "come_from": []
+    },
     "264996": {
         "id": "264996",
         "name": "戦力コイン",
@@ -29805,7 +30530,11 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/264998.png",
-        "come_from": ["イベント「サイコロ最高！コズミック・フォース！」に参加して獲得", "「二相楽園」での探索中にカードゲームプレイヤーと対戦して獲得"]
+        "come_from": [
+            "イベント「サイコロ最高！コズミック・フォース！」に参加して獲得",
+            "「二相楽園」での探索中にカードゲームプレイヤーと対戦して獲得",
+            "イベント「ふたたび！サイコロ最高！コズミック・フォース！」に参加して獲得"
+        ]
     },
     "264999": {
         "id": "264999",
@@ -29814,7 +30543,11 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/264999.png",
-        "come_from": ["イベント「サイコロ最高！コズミック・フォース！」に参加して獲得", "「二相楽園」での探索中にカードゲームプレイヤーと対戦して獲得"]
+        "come_from": [
+            "イベント「サイコロ最高！コズミック・フォース！」に参加して獲得",
+            "「二相楽園」での探索中にカードゲームプレイヤーと対戦して獲得",
+            "イベント「ふたたび！サイコロ最高！コズミック・フォース！」に参加して獲得"
+        ]
     },
     "265001": {
         "id": "265001",
@@ -30248,6 +30981,51 @@
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
     },
+    "266001": {
+        "id": "266001",
+        "name": "コイン",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266001.png",
+        "come_from": []
+    },
+    "266002": {
+        "id": "266002",
+        "name": "天賦ポイント",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266002.png",
+        "come_from": []
+    },
+    "266003": {
+        "id": "266003",
+        "name": "サプライズボックス",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266003.png",
+        "come_from": []
+    },
+    "266004": {
+        "id": "266004",
+        "name": "",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/300103.png",
+        "come_from": []
+    },
+    "266005": {
+        "id": "266005",
+        "name": "ジュエル",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266005.png",
+        "come_from": []
+    },
     "267001": {
         "id": "267001",
         "name": "",
@@ -30256,6 +31034,15 @@
         "rarity": 4,
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
+    },
+    "269001": {
+        "id": "269001",
+        "name": "彩色戦力コイン",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/269001.png",
+        "come_from": ["イベント「ふたたび！サイコロ最高！コズミック・フォース！」に参加して獲得"]
     },
     "270000": {
         "id": "270000",
@@ -31074,6 +31861,15 @@
         "sub_type": "Gift",
         "rarity": 5,
         "icon": "icon/item/310013.png",
+        "come_from": []
+    },
+    "310014": {
+        "id": "310014",
+        "name": "ギフトボックス「銀河スピードクリア」",
+        "type": "Usable",
+        "sub_type": "Gift",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
     },
     "311000": {

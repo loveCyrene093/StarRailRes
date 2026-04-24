@@ -20,7 +20,7 @@
             "Cálice: Comissão de Artesanato",
             "Cálice: Devaneio (Mundonírico)",
             "Cálice: \"Floresta dos Murmúrios\" do Bosque da Epifania",
-            "Cálice: {TextID#FloorName_20503001}",
+            "Cálice: Distrito Solaranjas",
             "Recompensas de Missão",
             "Recompensas de Atribuição",
             "Troca de Brasas"
@@ -245,7 +245,7 @@
             "Cálice: Vau-nuvem",
             "Cálice: Margem do Sonho",
             "Cálice: \"Santuário da Profecia\" de Janusópolis",
-            "Cálice: {TextID#FloorName_20501001}",
+            "Cálice: Academia Graphia",
             "Recompensas de Atribuição"
         ]
     },
@@ -261,7 +261,7 @@
             "Cálice: Vau-nuvem",
             "Cálice: Margem do Sonho",
             "Cálice: \"Santuário da Profecia\" de Janusópolis",
-            "Cálice: {TextID#FloorName_20501001}",
+            "Cálice: Academia Graphia",
             "Treinamento Diário",
             "Troca de Brasas"
         ]
@@ -278,7 +278,7 @@
             "Cálice: Vau-nuvem",
             "Cálice: Margem do Sonho",
             "Cálice: \"Santuário da Profecia\" de Janusópolis",
-            "Cálice: {TextID#FloorName_20501001}",
+            "Cálice: Academia Graphia",
             "Salão Esquecido"
         ]
     },
@@ -294,7 +294,7 @@
             "Cálice: Comissão de Divinação",
             "Cálice: Sonho de Uma Criança",
             "Cálice: \"Ruínas do Conflito\" de Castrum Kremnos",
-            "Cálice: {TextID#FloorName_20503001}",
+            "Cálice: Distrito Solaranjas",
             "Recompensas de Atribuição"
         ]
     },
@@ -310,7 +310,7 @@
             "Cálice: Comissão de Divinação",
             "Cálice: Sonho de Uma Criança",
             "Cálice: \"Ruínas do Conflito\" de Castrum Kremnos",
-            "Cálice: {TextID#FloorName_20503001}",
+            "Cálice: Distrito Solaranjas",
             "Troca de Brasas"
         ]
     },
@@ -326,7 +326,7 @@
             "Cálice: Comissão de Divinação",
             "Cálice: Sonho de Uma Criança",
             "Cálice: \"Ruínas do Conflito\" de Castrum Kremnos",
-            "Cálice: {TextID#FloorName_20503001}",
+            "Cálice: Distrito Solaranjas",
             "Salão Esquecido"
         ]
     },
@@ -494,7 +494,8 @@
         "icon": "icon/item/281.png",
         "come_from": [
             "Resgatável após obter um duplicado de um personagem de 5 estrelas com o máximo de Eidolons duas vezes",
-            "Resgatável após obter um duplicado de um personagem de 5 estrelas com o máximo de Eidolons duas vezes"
+            "Resgatável após obter um duplicado de um personagem de 5 estrelas com o máximo de Eidolons duas vezes",
+            "Companheiros Estelares"
         ]
     },
     "282": {
@@ -524,10 +525,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/291.png",
-        "come_from": [
-            "Recompensa de Nível de Bem-estar de \"Pelônline\"",
-            "Recompensas de Missão de Desbravamento"
-        ]
+        "come_from": []
     },
     "503": {
         "id": "503",
@@ -575,6 +573,15 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/803.png",
+        "come_from": []
+    },
+    "804": {
+        "id": "804",
+        "name": "Bênção da Música Fantasmagórica",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/804.png",
         "come_from": []
     },
     "821": {
@@ -1300,6 +1307,24 @@
         "icon": "icon/item/11003.png",
         "come_from": []
     },
+    "11505": {
+        "id": "11505",
+        "name": "Eidolon de Evanescia",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11506": {
+        "id": "11506",
+        "name": "Eidolon da Loba Prateada Nv. 999",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
     "18001": {
         "id": "18001",
         "name": "Sombra de Destruição",
@@ -1382,6 +1407,27 @@
         "sub_type": "Eidolon",
         "rarity": 5,
         "icon": "icon/item/18007.png",
+        "come_from": []
+    },
+    "18009": {
+        "id": "18009",
+        "name": "Sombra da Euforia",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/18009.png",
+        "come_from": [
+            "Recompensa de Nível de Bem-estar da \"Pelônline\" Obtida",
+            "Recompensas de Missão de Desbravamento"
+        ]
+    },
+    "18010": {
+        "id": "18010",
+        "name": "Sombra da Euforia",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/18009.png",
         "come_from": []
     },
     "71000": {
@@ -2607,7 +2653,7 @@
         "rarity": 5,
         "icon": "icon/item/71048.png",
         "come_from": [
-            "Caverna da Corrosão \"{TextID#FloorName_20462001}\"",
+            "Caverna da Corrosão \"Matriz Universal: Grande Túmulo do Titã Sem Nome\"",
             "Sintetizador Omni — Síntese de Relíquia"
         ]
     },
@@ -2646,7 +2692,7 @@
         "rarity": 5,
         "icon": "icon/item/71049.png",
         "come_from": [
-            "Caverna da Corrosão \"{TextID#FloorName_20462001}\"",
+            "Caverna da Corrosão \"Matriz Universal: Grande Túmulo do Titã Sem Nome\"",
             "Sintetizador Omni — Síntese de Relíquia"
         ]
     },
@@ -2685,7 +2731,7 @@
         "rarity": 5,
         "icon": "icon/item/71052.png",
         "come_from": [
-            "Caverna da Corrosão \"{TextID#FloorName_20501001}\"",
+            "Caverna da Corrosão \"Academia Graphia\"",
             "Sintetizador Omni — Síntese de Relíquia"
         ]
     },
@@ -2724,7 +2770,7 @@
         "rarity": 5,
         "icon": "icon/item/71053.png",
         "come_from": [
-            "Caverna da Corrosão \"{TextID#FloorName_20501001}\"",
+            "Caverna da Corrosão \"Academia Graphia\"",
             "Sintetizador Omni — Síntese de Relíquia"
         ]
     },
@@ -4418,8 +4464,7 @@
         "rarity": 2,
         "icon": "icon/item/110261.png",
         "come_from": [
-            "Sintetizador - Troca Equivalente",
-            "Cálice: {TextID#FloorName_20502001}",
+            "Cálice: Taverna Fim do Mundo",
             "Troca de Brasas",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -4432,8 +4477,7 @@
         "rarity": 3,
         "icon": "icon/item/110262.png",
         "come_from": [
-            "Sintetizador - Troca Equivalente",
-            "Cálice: {TextID#FloorName_20502001}",
+            "Cálice: Taverna Fim do Mundo",
             "Sintetizador Omni — Síntese de Material",
             "Troca de Brasas",
             "Sintetizador Omni — Troca de Material"
@@ -4447,8 +4491,7 @@
         "rarity": 4,
         "icon": "icon/item/110263.png",
         "come_from": [
-            "Sintetizador - Troca Equivalente",
-            "Cálice: {TextID#FloorName_20502001}",
+            "Cálice: Taverna Fim do Mundo",
             "Sintetizador Omni — Síntese de Material",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -4461,7 +4504,7 @@
         "rarity": 2,
         "icon": "icon/item/110271.png",
         "come_from": [
-            "Cálice: {TextID#FloorName_20481001}",
+            "Cálice: Túmulo da Memória, Ruínas do Tempo",
             "Troca de Brasas",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -4474,7 +4517,7 @@
         "rarity": 3,
         "icon": "icon/item/110272.png",
         "come_from": [
-            "Cálice: {TextID#FloorName_20481001}",
+            "Cálice: Túmulo da Memória, Ruínas do Tempo",
             "Sintetizador Omni — Síntese de Material",
             "Troca de Brasas",
             "Sintetizador Omni — Troca de Material"
@@ -4488,7 +4531,47 @@
         "rarity": 4,
         "icon": "icon/item/110273.png",
         "come_from": [
-            "Cálice: {TextID#FloorName_20481001}",
+            "Cálice: Túmulo da Memória, Ruínas do Tempo",
+            "Sintetizador Omni — Síntese de Material",
+            "Sintetizador Omni — Troca de Material"
+        ]
+    },
+    "110311": {
+        "id": "110311",
+        "name": "Lágrima de Phagousa",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 2,
+        "icon": "icon/item/110311.png",
+        "come_from": [
+            "Cálice \"Bosque da Epifania, Floresta dos Vestígios Luminosos\"",
+            "Troca de Brasas",
+            "Sintetizador Omni — Troca de Material"
+        ]
+    },
+    "110312": {
+        "id": "110312",
+        "name": "Vinho de Phagousa",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 3,
+        "icon": "icon/item/110312.png",
+        "come_from": [
+            "Cálice \"Bosque da Epifania, Floresta dos Vestígios Luminosos\"",
+            "Sintetizador Omni — Síntese de Material",
+            "Troca de Brasas",
+            "Sintetizador Omni — Troca de Material"
+        ]
+    },
+    "110313": {
+        "id": "110313",
+        "name": "Coração de Phagousa",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 4,
+        "icon": "icon/item/110313.png",
+        "come_from": [
+            "Cálice \"Bosque da Epifania, Floresta dos Vestígios Luminosos\"",
             "Sintetizador Omni — Síntese de Material",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -4744,7 +4827,7 @@
         "rarity": 4,
         "icon": "icon/item/110432.png",
         "come_from": [
-            "Sombra Estagnada: {TextID#FloorName_20422001}",
+            "Sombra Estagnada: Janusópolis, Santuário da Profecia",
             "Sintetizador Omni — Troca de Material"
         ]
     },
@@ -4756,7 +4839,7 @@
         "rarity": 4,
         "icon": "icon/item/110433.png",
         "come_from": [
-            "Sombra Estagnada: {TextID#FloorName_20451001}",
+            "Sombra Estagnada: Styxia, Margens Ondulantes",
             "Sintetizador Omni — Troca de Material"
         ]
     },
@@ -4767,10 +4850,7 @@
         "sub_type": "AvatarRank",
         "rarity": 4,
         "icon": "icon/item/110434.png",
-        "come_from": [
-            "Sombra Estagnada: {TextID#FloorName_20503001}",
-            "Sintetizador Omni — Troca de Material"
-        ]
+        "come_from": ["Sombra Estagnada: Distrito Solaranjas", "Sintetizador Omni — Troca de Material"]
     },
     "110435": {
         "id": "110435",
@@ -4878,7 +4958,7 @@
         "sub_type": "WeeklyMonsterDrop",
         "rarity": 4,
         "icon": "icon/item/110508.png",
-        "come_from": ["Eco da Guerra: {TextID#FloorName_20481001}"]
+        "come_from": ["Eco da Guerra: Túmulo da Memória, Ruínas do Tempo"]
     },
     "111000": {
         "id": "111000",
@@ -5542,6 +5622,15 @@
         "icon": "icon/item/121006.png",
         "come_from": []
     },
+    "121007": {
+        "id": "121007",
+        "name": "Cartucho Comemorativo",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/121007.png",
+        "come_from": []
+    },
     "122000": {
         "id": "122000",
         "name": "Fichas Aideen",
@@ -5568,6 +5657,15 @@
         "rarity": 3,
         "icon": "icon/item/123001.png",
         "come_from": []
+    },
+    "123002": {
+        "id": "123002",
+        "name": "Cartão de Acesso",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/123000.png",
+        "come_from": ["Obtido no evento Exploração de Relíquias"]
     },
     "140000": {
         "id": "140000",
@@ -10285,6 +10383,24 @@
         "icon": "icon/item/140609.png",
         "come_from": []
     },
+    "140610": {
+        "id": "140610",
+        "name": "Pata do Desbravamentomon (Esquerda)",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140610.png",
+        "come_from": []
+    },
+    "140611": {
+        "id": "140611",
+        "name": "Troféu do \"Guardião Azul\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140611.png",
+        "come_from": []
+    },
     "149957": {
         "id": "149957",
         "name": "Foto com a 7 de Março",
@@ -11426,6 +11542,15 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/150100.png",
+        "come_from": []
+    },
+    "150101": {
+        "id": "150101",
+        "name": "Pin da \"Pelolôncio Semanal\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/150101.png",
         "come_from": []
     },
     "180001": {
@@ -20839,6 +20964,276 @@
         "icon": "icon/item/190022.png",
         "come_from": []
     },
+    "192061": {
+        "id": "192061",
+        "name": "Conjectura Razoável Sobre a Mecânica dos Jogos da Lua Fantasma",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192062": {
+        "id": "192062",
+        "name": "Visão Geral das Indústrias Patinho",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192063": {
+        "id": "192063",
+        "name": "Manual de Observação de Operações do Raioso",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192064": {
+        "id": "192064",
+        "name": "Prefácio dos Estudos Básicos Sobre Imaginouro",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192065": {
+        "id": "192065",
+        "name": "Petição Conjunta Sobre a Restauração do Estado Pintado da Cidade de Felipe de Noronha",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192066": {
+        "id": "192066",
+        "name": "Registro de Nutrição da Cobaia A",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192067": {
+        "id": "192067",
+        "name": "Anuário dos Ex-Alunos da Turma de 1984: Bendesejo",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192068": {
+        "id": "192068",
+        "name": "Sobre os Planos de Programa de Variedades da Bendesejo",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192069": {
+        "id": "192069",
+        "name": "Etiqueta da Boneca da Sparkle",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192070": {
+        "id": "192070",
+        "name": "Manual dos Figurantes",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192071": {
+        "id": "192071",
+        "name": "Registro de Avaliação Psicológica Pré-Operatória",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192072": {
+        "id": "192072",
+        "name": "Relatório de Anomalia das Correntes Oceânicas",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192073": {
+        "id": "192073",
+        "name": "Crônicas da TV Felipe de Noronha",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192074": {
+        "id": "192074",
+        "name": "Cartas Para o Detetive",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192075": {
+        "id": "192075",
+        "name": "Cartuchos Clássicos de Todos os Tempos",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192076": {
+        "id": "192076",
+        "name": "Histórias de Acaminho",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192077": {
+        "id": "192077",
+        "name": "Lamento Informar... Mas Nem Tanto",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192078": {
+        "id": "192078",
+        "name": "Petição Interna da TV Bendesejo",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192079": {
+        "id": "192079",
+        "name": "Observação da Sociedade dos Sorrisos",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192080": {
+        "id": "192080",
+        "name": "Cartas de Yoyo",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192081": {
+        "id": "192081",
+        "name": "Explorando a Ciência: A Misteriosa Zona Escura",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192082": {
+        "id": "192082",
+        "name": "Encontre o \"Kraken\"",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192083": {
+        "id": "192083",
+        "name": "Cidade de Felipe de Noronha, a cidade que não para.",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192084": {
+        "id": "192084",
+        "name": "Quadro de Avisos do Porto",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192085": {
+        "id": "192085",
+        "name": "Lenda da Árvore Sagrada da Ilha Flutuante",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192086": {
+        "id": "192086",
+        "name": "Promessa de Felicidade de Felipe de Noronha",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192087": {
+        "id": "192087",
+        "name": "Roteiro de Transmissão de Rádio da Madrugada",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192088": {
+        "id": "192088",
+        "name": "Estudo Cultural \"Murata\"",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192089": {
+        "id": "192089",
+        "name": "Crônicas da Gordura Flutuante: Capítulo do Sapo (III)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192090": {
+        "id": "192090",
+        "name": "Crônicas da Gordura Flutuante: Capítulo da Raposa (VII)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
     "210001": {
         "id": "210001",
         "name": "\"Dawn of Disaster\"",
@@ -22747,6 +23142,78 @@
         "icon": "icon/item/210001.png",
         "come_from": []
     },
+    "210462": {
+        "id": "210462",
+        "name": "Hollow Waves",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210463": {
+        "id": "210463",
+        "name": "Amusing Ourselves to Death",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210464": {
+        "id": "210464",
+        "name": "The Age of Mass Media",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210465": {
+        "id": "210465",
+        "name": "Condescending",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210466": {
+        "id": "210466",
+        "name": "Seaside Town",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210467": {
+        "id": "210467",
+        "name": "Floating",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210468": {
+        "id": "210468",
+        "name": "Unbridled Growth",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210469": {
+        "id": "210469",
+        "name": "Death and Rebirth",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
     "215001": {
         "id": "215001",
         "name": "Pitter-Patter",
@@ -22777,6 +23244,15 @@
     "215004": {
         "id": "215004",
         "name": "Murmur",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "215008": {
+        "id": "215008",
+        "name": "Arboreal Whispers",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -25465,7 +25941,7 @@
         "sub_type": "PlayerOutfit",
         "rarity": 5,
         "icon": "icon/item/227007.png",
-        "come_from": ["Caixa de Presentes \"Adereço de Moda\""]
+        "come_from": ["Obtido na loja de Itens de Moda"]
     },
     "227008": {
         "id": "227008",
@@ -25477,6 +25953,45 @@
         "come_from": [
             "Moda do Desbravamento obtida das recompensas de ranque dos mais vendidos de \"Pelônline\""
         ]
+    },
+    "227009": {
+        "id": "227009",
+        "name": "Superestrela do Cosmos: Fones de Orelha de Gatinho Neon",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227009.png",
+        "come_from": ["Disponível na loja Presente da Poeira Estelar"]
+    },
+    "227010": {
+        "id": "227010",
+        "name": "Guaxinim Transformado: Raposevinha",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 5,
+        "icon": "icon/item/227010.png",
+        "come_from": [
+            "Caixa de Presentes \"Sombra Evanescente da Raposa\"",
+            "Obtido na loja de Itens de Moda"
+        ]
+    },
+    "227012": {
+        "id": "227012",
+        "name": "Óculos do Pelôncio",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227012.png",
+        "come_from": ["Disponível na loja Presente da Poeira Estelar"]
+    },
+    "227013": {
+        "id": "227013",
+        "name": "Óculos Super Mega Estilosos",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 5,
+        "icon": "icon/item/227013.png",
+        "come_from": ["Caixa de Presentes \"Corrida Cósmica\""]
     },
     "229001": {
         "id": "229001",
@@ -27602,6 +28117,15 @@
         "icon": "icon/item/251003.png",
         "come_from": []
     },
+    "251004": {
+        "id": "251004",
+        "name": "Corpo de Imprensa dos Pelôncios",
+        "type": "Pet",
+        "sub_type": "NormalPet",
+        "rarity": 5,
+        "icon": "icon/item/251004.png",
+        "come_from": []
+    },
     "252000": {
         "id": "252000",
         "name": "Escarlate Solene! Roupinha do Condutor",
@@ -27627,6 +28151,24 @@
         "sub_type": "PamSkin",
         "rarity": 4,
         "icon": "icon/item/252002.png",
+        "come_from": ["Disponível na loja Presente da Poeira Estelar"]
+    },
+    "252003": {
+        "id": "252003",
+        "name": "Era do Desbravamento! Roupinhas Formais",
+        "type": "Usable",
+        "sub_type": "PamSkin",
+        "rarity": 4,
+        "icon": "icon/item/252003.png",
+        "come_from": ["Obtido ao falar com o Pom-Pom em Ajuda do Pom-Pom"]
+    },
+    "252004": {
+        "id": "252004",
+        "name": "Sonho Dourado! Conjunto de Traje Formal",
+        "type": "Usable",
+        "sub_type": "PamSkin",
+        "rarity": 5,
+        "icon": "icon/item/252004.png",
         "come_from": ["Disponível na loja Presente da Poeira Estelar"]
     },
     "252100": {
@@ -29285,6 +29827,15 @@
         "icon": "icon/item/253003.png",
         "come_from": []
     },
+    "253004": {
+        "id": "253004",
+        "name": "Arcádia, Lá Vamos Nós",
+        "type": "Usable",
+        "sub_type": "PersonalCard",
+        "rarity": 5,
+        "icon": "icon/item/253004.png",
+        "come_from": ["Caixa de Presentes \"Corrida Cósmica\""]
+    },
     "254000": {
         "id": "254000",
         "name": "Livre Arbítrio de {NICKNAME}",
@@ -29859,7 +30410,7 @@
         "sub_type": "DiceCombatAvatar",
         "rarity": 3,
         "icon": "icon/item/Icon_Testmaterial01.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264013": {
         "id": "264013",
@@ -29877,7 +30428,7 @@
         "sub_type": "DiceCombatAvatar",
         "rarity": 3,
         "icon": "icon/item/Icon_Testmaterial01.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264015": {
         "id": "264015",
@@ -29886,7 +30437,7 @@
         "sub_type": "DiceCombatAvatar",
         "rarity": 3,
         "icon": "icon/item/Icon_Testmaterial01.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264016": {
         "id": "264016",
@@ -29895,7 +30446,7 @@
         "sub_type": "DiceCombatAvatar",
         "rarity": 3,
         "icon": "icon/item/Icon_Testmaterial01.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264017": {
         "id": "264017",
@@ -29904,7 +30455,7 @@
         "sub_type": "DiceCombatAvatar",
         "rarity": 3,
         "icon": "icon/item/Icon_Testmaterial01.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264018": {
         "id": "264018",
@@ -29922,7 +30473,7 @@
         "sub_type": "DiceCombatAvatar",
         "rarity": 3,
         "icon": "icon/item/Icon_Testmaterial01.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264020": {
         "id": "264020",
@@ -29931,7 +30482,7 @@
         "sub_type": "DiceCombatAvatar",
         "rarity": 3,
         "icon": "icon/item/Icon_Testmaterial01.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264021": {
         "id": "264021",
@@ -29949,7 +30500,7 @@
         "sub_type": "DiceCombatAvatar",
         "rarity": 3,
         "icon": "icon/item/Icon_Testmaterial01.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264023": {
         "id": "264023",
@@ -29958,7 +30509,7 @@
         "sub_type": "DiceCombatAvatar",
         "rarity": 3,
         "icon": "icon/item/Icon_Testmaterial01.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264024": {
         "id": "264024",
@@ -29967,7 +30518,7 @@
         "sub_type": "DiceCombatAvatar",
         "rarity": 3,
         "icon": "icon/item/Icon_Testmaterial01.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264025": {
         "id": "264025",
@@ -29976,7 +30527,97 @@
         "sub_type": "DiceCombatAvatar",
         "rarity": 3,
         "icon": "icon/item/Icon_Testmaterial01.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
+    },
+    "264026": {
+        "id": "264026",
+        "name": "Loba Prateada Nv. 999",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"]
+    },
+    "264027": {
+        "id": "264027",
+        "name": "Evanescia",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"]
+    },
+    "264028": {
+        "id": "264028",
+        "name": "{NICKNAME}",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"]
+    },
+    "264029": {
+        "id": "264029",
+        "name": "Ashveil",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"]
+    },
+    "264030": {
+        "id": "264030",
+        "name": "Sunday",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"]
+    },
+    "264031": {
+        "id": "264031",
+        "name": "Blade",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"]
+    },
+    "264032": {
+        "id": "264032",
+        "name": "Hysilens",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"]
+    },
+    "264033": {
+        "id": "264033",
+        "name": "Tribbie",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"]
+    },
+    "264034": {
+        "id": "264034",
+        "name": "Ruan Mei",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"]
+    },
+    "264035": {
+        "id": "264035",
+        "name": "Himeko",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/264035.png",
+        "come_from": ["Conclua a missão \"Sangue do Lobo Solitário\""]
     },
     "264101": {
         "id": "264101",
@@ -30047,8 +30688,8 @@
         "type": "Material",
         "sub_type": "DiceCombatDice",
         "rarity": 3,
-        "icon": "icon/item/264405.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "icon": "icon/item/264428.png",
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264406": {
         "id": "264406",
@@ -30057,7 +30698,7 @@
         "sub_type": "DiceCombatDice",
         "rarity": 3,
         "icon": "icon/item/264406.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264407": {
         "id": "264407",
@@ -30066,7 +30707,7 @@
         "sub_type": "DiceCombatDice",
         "rarity": 3,
         "icon": "icon/item/264407.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264408": {
         "id": "264408",
@@ -30075,7 +30716,7 @@
         "sub_type": "DiceCombatDice",
         "rarity": 3,
         "icon": "icon/item/264408.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264409": {
         "id": "264409",
@@ -30084,7 +30725,7 @@
         "sub_type": "DiceCombatDice",
         "rarity": 3,
         "icon": "icon/item/264409.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264410": {
         "id": "264410",
@@ -30093,7 +30734,7 @@
         "sub_type": "DiceCombatDice",
         "rarity": 3,
         "icon": "icon/item/264410.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264411": {
         "id": "264411",
@@ -30102,7 +30743,7 @@
         "sub_type": "DiceCombatDice",
         "rarity": 3,
         "icon": "icon/item/264411.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264412": {
         "id": "264412",
@@ -30111,7 +30752,7 @@
         "sub_type": "DiceCombatDice",
         "rarity": 3,
         "icon": "icon/item/264412.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264413": {
         "id": "264413",
@@ -30120,7 +30761,7 @@
         "sub_type": "DiceCombatDice",
         "rarity": 3,
         "icon": "icon/item/264413.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264416": {
         "id": "264416",
@@ -30138,7 +30779,7 @@
         "sub_type": "DiceCombatDice",
         "rarity": 3,
         "icon": "icon/item/264417.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264418": {
         "id": "264418",
@@ -30147,7 +30788,7 @@
         "sub_type": "DiceCombatDice",
         "rarity": 3,
         "icon": "icon/item/264418.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264419": {
         "id": "264419",
@@ -30156,7 +30797,7 @@
         "sub_type": "DiceCombatDice",
         "rarity": 3,
         "icon": "icon/item/264419.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264420": {
         "id": "264420",
@@ -30165,7 +30806,7 @@
         "sub_type": "DiceCombatDice",
         "rarity": 3,
         "icon": "icon/item/264420.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
     },
     "264421": {
         "id": "264421",
@@ -30183,7 +30824,61 @@
         "sub_type": "DiceCombatDice",
         "rarity": 3,
         "icon": "icon/item/264422.png",
-        "come_from": ["Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"]
+        "come_from": ["Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"]
+    },
+    "264423": {
+        "id": "264423",
+        "name": "Verdade • Toxina",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264423.png",
+        "come_from": ["Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"]
+    },
+    "264424": {
+        "id": "264424",
+        "name": "Verdade • Carregamento",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264426.png",
+        "come_from": ["Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"]
+    },
+    "264425": {
+        "id": "264425",
+        "name": "Verdade • Sorte",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264425.png",
+        "come_from": ["Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"]
+    },
+    "264426": {
+        "id": "264426",
+        "name": "Verdade • Investida",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264424.png",
+        "come_from": ["Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"]
+    },
+    "264427": {
+        "id": "264427",
+        "name": "Verdade • Defesa",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264427.png",
+        "come_from": ["Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"]
+    },
+    "264428": {
+        "id": "264428",
+        "name": "Verdade • Resistência",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264428.png",
+        "come_from": ["Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"]
     },
     "264502": {
         "id": "264502",
@@ -30218,7 +30913,7 @@
         "type": "Material",
         "sub_type": "DiceCombatDice",
         "rarity": 3,
-        "icon": "icon/item/264405.png",
+        "icon": "icon/item/264428.png",
         "come_from": []
     },
     "264506": {
@@ -30356,6 +31051,24 @@
         "icon": "icon/item/264422.png",
         "come_from": []
     },
+    "264523": {
+        "id": "264523",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264426.png",
+        "come_from": []
+    },
+    "264524": {
+        "id": "264524",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264423.png",
+        "come_from": []
+    },
     "264996": {
         "id": "264996",
         "name": "Ficha de Poder",
@@ -30386,7 +31099,8 @@
         "icon": "icon/item/264998.png",
         "come_from": [
             "Obtido ao participar do evento \"Cosmicon, que Rolem os Dados!\"",
-            "Obtém após jogar contra jogadores de cartas enquanto explora Planarcadia"
+            "Obtém após jogar contra jogadores de cartas enquanto explora Planarcadia",
+            "Obtido ao participar do evento \"Cosmicombate! Que Rolem os Dados de Novo!\""
         ]
     },
     "264999": {
@@ -30398,7 +31112,8 @@
         "icon": "icon/item/264999.png",
         "come_from": [
             "Obtido ao participar do evento \"Cosmicon, que Rolem os Dados!\"",
-            "Obtém após jogar contra jogadores de cartas enquanto explora Planarcadia"
+            "Obtém após jogar contra jogadores de cartas enquanto explora Planarcadia",
+            "Obtido ao participar do evento \"Cosmicombate! Que Rolem os Dados de Novo!\""
         ]
     },
     "265001": {
@@ -30833,6 +31548,51 @@
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
     },
+    "266001": {
+        "id": "266001",
+        "name": "Moeda de Ouro",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266001.png",
+        "come_from": []
+    },
+    "266002": {
+        "id": "266002",
+        "name": "Ponto de Talento",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266002.png",
+        "come_from": []
+    },
+    "266003": {
+        "id": "266003",
+        "name": "Baú Surpresa",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266003.png",
+        "come_from": []
+    },
+    "266004": {
+        "id": "266004",
+        "name": "",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/300103.png",
+        "come_from": []
+    },
+    "266005": {
+        "id": "266005",
+        "name": "Diamante",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266005.png",
+        "come_from": []
+    },
     "267001": {
         "id": "267001",
         "name": "",
@@ -30841,6 +31601,15 @@
         "rarity": 4,
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
+    },
+    "269001": {
+        "id": "269001",
+        "name": "Fichas de Poder Coloridas",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/269001.png",
+        "come_from": ["Obtido ao participar do evento \"Cosmicombate! Que Rolem os Dados de Novo!\""]
     },
     "270000": {
         "id": "270000",
@@ -31667,6 +32436,15 @@
         "sub_type": "Gift",
         "rarity": 5,
         "icon": "icon/item/310013.png",
+        "come_from": []
+    },
+    "310014": {
+        "id": "310014",
+        "name": "Caixa de Presentes \"Corrida Cósmica\"",
+        "type": "Usable",
+        "sub_type": "Gift",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
     },
     "311000": {

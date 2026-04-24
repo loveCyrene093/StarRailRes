@@ -949,6 +949,16 @@
         "preview": "image/light_cone_preview/22006.png",
         "portrait": "image/light_cone_portrait/22006.png"
     },
+    "22007": {
+        "id": "22007",
+        "name": "",
+        "rarity": 4,
+        "path": "Elation",
+        "desc": "",
+        "icon": "icon/light_cone/22007.png",
+        "preview": "image/light_cone_preview/22007.png",
+        "portrait": "image/light_cone_portrait/22007.png"
+    },
     "23000": {
         "id": "23000",
         "name": "Ночь на Млечном Пути",
@@ -1508,6 +1518,26 @@
         "icon": "icon/light_cone/23056.png",
         "preview": "image/light_cone_preview/23056.png",
         "portrait": "image/light_cone_portrait/23056.png"
+    },
+    "23057": {
+        "id": "23057",
+        "name": "",
+        "rarity": 5,
+        "path": "Elation",
+        "desc": "",
+        "icon": "icon/light_cone/23057.png",
+        "preview": "image/light_cone_preview/23057.png",
+        "portrait": "image/light_cone_portrait/23057.png"
+    },
+    "23058": {
+        "id": "23058",
+        "name": "",
+        "rarity": 5,
+        "path": "Elation",
+        "desc": "",
+        "icon": "icon/light_cone/23058.png",
+        "preview": "image/light_cone_preview/23058.png",
+        "portrait": "image/light_cone_portrait/23058.png"
     },
     "24000": {
         "id": "24000",

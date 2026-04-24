@@ -2294,6 +2294,35 @@
             ]
         ]
     },
+    "22007": {
+        "id": "22007",
+        "skill": "",
+        "desc": "",
+        "params": [
+            [0.12, 0.08, 1],
+            [0.15, 0.09, 1],
+            [0.18, 0.1, 1],
+            [0.21, 0.11, 1],
+            [0.24, 0.12, 1]
+        ],
+        "properties": [
+            [
+                { "type": "CriticalDamageBase", "value": 0.12 }
+            ],
+            [
+                { "type": "CriticalDamageBase", "value": 0.15 }
+            ],
+            [
+                { "type": "CriticalDamageBase", "value": 0.18 }
+            ],
+            [
+                { "type": "CriticalDamageBase", "value": 0.21 }
+            ],
+            [
+                { "type": "CriticalDamageBase", "value": 0.24 }
+            ]
+        ]
+    },
     "23000": {
         "id": "23000",
         "skill": "유성군",
@@ -3890,6 +3919,64 @@
             ],
             [
                 { "type": "CriticalChanceBase", "value": 0.3 }
+            ]
+        ]
+    },
+    "23057": {
+        "id": "23057",
+        "skill": "",
+        "desc": "",
+        "params": [
+            [0.18, 0.2, 20, 3],
+            [0.21, 0.24, 25, 3],
+            [0.24, 0.28, 30, 3],
+            [0.27, 0.32, 35, 3],
+            [0.3, 0.36, 40, 3]
+        ],
+        "properties": [
+            [
+                { "type": "SpeedAddedRatio", "value": 0.18 }
+            ],
+            [
+                { "type": "SpeedAddedRatio", "value": 0.21 }
+            ],
+            [
+                { "type": "SpeedAddedRatio", "value": 0.24 }
+            ],
+            [
+                { "type": "SpeedAddedRatio", "value": 0.27 }
+            ],
+            [
+                { "type": "SpeedAddedRatio", "value": 0.3 }
+            ]
+        ]
+    },
+    "23058": {
+        "id": "23058",
+        "skill": "",
+        "desc": "",
+        "params": [
+            [0.6, 0.15, 2, 0.1, 120, 0.003, 360],
+            [0.75, 0.1875, 2, 0.115, 120, 0.003, 360],
+            [0.9, 0.225, 2, 0.13, 120, 0.003, 360],
+            [1.05, 0.2625, 2, 0.145, 120, 0.003, 360],
+            [1.2, 0.3, 2, 0.16, 120, 0.003, 360]
+        ],
+        "properties": [
+            [
+                { "type": "CriticalDamageBase", "value": 0.6 }
+            ],
+            [
+                { "type": "CriticalDamageBase", "value": 0.75 }
+            ],
+            [
+                { "type": "CriticalDamageBase", "value": 0.9 }
+            ],
+            [
+                { "type": "CriticalDamageBase", "value": 1.05 }
+            ],
+            [
+                { "type": "CriticalDamageBase", "value": 1.2 }
             ]
         ]
     },

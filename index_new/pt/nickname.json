@@ -79,6 +79,8 @@
         "1501": ["Sparxie"],
         "1502": ["Yao Guang"],
         "1504": ["Ashveil"],
+        "1505": ["Evanescia"],
+        "1506": ["Loba Prateada Nv. 999"],
         "8001": ["{NICKNAME}"],
         "8002": ["{NICKNAME}"],
         "8003": ["{NICKNAME}"],
@@ -86,7 +88,9 @@
         "8005": ["{NICKNAME}"],
         "8006": ["{NICKNAME}"],
         "8007": ["{NICKNAME}"],
-        "8008": ["{NICKNAME}"]
+        "8008": ["{NICKNAME}"],
+        "8009": ["{NICKNAME}"],
+        "8010": ["{NICKNAME}"]
     },
     "light_cones": {
         "20000": ["Flechas"],
@@ -184,6 +188,7 @@
         "22004": ["O Grande Empreendimento Cósmico"],
         "22005": ["O Víveres Eterno"],
         "22006": ["Rumo ao Amanhã Cor-de-Rosa"],
+        "22007": ["Juntos no Futuro"],
         "23000": ["Noite na Via Láctea"],
         "23001": ["Na Noite"],
         "23002": ["Algo Insubstituível"],
@@ -240,6 +245,8 @@
         "23053": ["Deslumbramento Por Um Mundo Florido"],
         "23054": ["Quando Ela Decidiu Ver"],
         "23056": ["O Fim de uma Mentira"],
+        "23057": ["Bem-vindo à Cidade Cósmica"],
+        "23058": ["Um Encontro na Próxima Primavera"],
         "24000": ["Na Queda de Um Aeon"],
         "24001": ["Percorrendo o Mar Estelar"],
         "24002": ["Textura de Memórias"],

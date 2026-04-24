@@ -167,6 +167,14 @@
         "hide_desc": "",
         "hide": true
     },
+    "4015201": {
+        "id": "4015201",
+        "series_id": "1",
+        "title": "So, Let There Be Laughter",
+        "desc": "Tread on the Path of Elation",
+        "hide_desc": "",
+        "hide": true
+    },
     "4020201": {
         "id": "4020201",
         "series_id": "2",
@@ -1557,6 +1565,62 @@
         "title": "Phantasmoon's Ravings",
         "desc": "THEY say it, you hear it",
         "hide_desc": "※ Listen to the Phantasmoon's crazed declaration",
+        "hide": false
+    },
+    "4035201": {
+        "id": "4035201",
+        "series_id": "3",
+        "title": "Scenic Route to Work",
+        "desc": "Isn't there a cooler way to get around?",
+        "hide_desc": "※ Board the train and save the world",
+        "hide": false
+    },
+    "4035202": {
+        "id": "4035202",
+        "series_id": "3",
+        "title": "Arbiter's Verdict",
+        "desc": "Symbol of the Arbiter's Authority",
+        "hide_desc": "※ Evanescia has reclaimed her ruler blade",
+        "hide": false
+    },
+    "4035203": {
+        "id": "4035203",
+        "series_id": "3",
+        "title": "Arcadian Psycho",
+        "desc": "No one cares what you think... until you decide to tear the world apart",
+        "hide_desc": "※ Enter the \"Rift\" within Fulwish's heart",
+        "hide": false
+    },
+    "4035204": {
+        "id": "4035204",
+        "series_id": "3",
+        "title": "Amusing Ourselves to Death",
+        "desc": "Either laugh, or die",
+        "hide_desc": "※ Witness the outbreak of the imagenesis plague \"Joy Ascendant\"",
+        "hide": false
+    },
+    "4035205": {
+        "id": "4035205",
+        "series_id": "3",
+        "title": "Cosmic Top Player",
+        "desc": "Better to die by at the hands of a Meanie than to be honored by the likes of them",
+        "hide_desc": "※ Though honestly, no one wants to die at the hands of a Meanie",
+        "hide": false
+    },
+    "4035206": {
+        "id": "4035206",
+        "series_id": "3",
+        "title": "Death of the Herald of Death",
+        "desc": "Those who proclaim death shall themselves be claimed by death",
+        "hide_desc": "※ Defeat the new Herald of Death",
+        "hide": false
+    },
+    "4035207": {
+        "id": "4035207",
+        "series_id": "3",
+        "title": "Zephyr of Blossoms",
+        "desc": "Gone with the blossom on the breeze",
+        "hide_desc": "※ Accept Evanescia's request",
         "hide": false
     },
     "4040101": {
@@ -3827,7 +3891,7 @@
         "id": "4045038",
         "series_id": "4",
         "title": "Ping Pong",
-        "desc": "In the \"Jump Time\" of \"Interplanar Jump!\" at Perdido Station, repeatedly change gravity to make the wispae bounce back and forth",
+        "desc": "In the \"Interplanar Jump!\" at Perdido Station, repeatedly change gravity to make the wispae bounce back and forth",
         "hide_desc": "",
         "hide": true
     },
@@ -4078,6 +4142,142 @@
         "desc": "Play a Bizarre Melody to find the mysterious creature hiding on Lookout Cloud Station",
         "hide_desc": "",
         "hide": true
+    },
+    "4045201": {
+        "id": "4045201",
+        "series_id": "4",
+        "title": "Holiday for the Rest of My Life",
+        "desc": "Collect 110 Star Rabbit's Nameless Wispae in total",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045202": {
+        "id": "4045202",
+        "series_id": "4",
+        "title": "Galileo's Iron Ball",
+        "desc": "Complete \"Jump Time\" on the TV station rooftop and leap from the top all the way down to the interview hall",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045203": {
+        "id": "4045203",
+        "series_id": "4",
+        "title": "The Legend of the Tower",
+        "desc": "Collect all Music Notes during \"Jump Time\" on the TV station rooftop",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045204": {
+        "id": "4045204",
+        "series_id": "4",
+        "title": "No Assassin, No Creed",
+        "desc": "Reach the very top of Seafeld TV Tower",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045205": {
+        "id": "4045205",
+        "series_id": "4",
+        "title": "Souls Bound by Gravity",
+        "desc": "In \"Interplanar Jump!\", stay airborne and touch the Gravity Line 10 times in a row",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045206": {
+        "id": "4045206",
+        "series_id": "4",
+        "title": "Bowling Master",
+        "desc": "In \"Interplanar Jump!\", use a HelpBot to send Hedgehogae or Floatspirit flying",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045207": {
+        "id": "4045207",
+        "series_id": "4",
+        "title": "A Toast to Your Eyes",
+        "desc": "Complete the Drink-Mixing stage in \"Interplanar Jump!\" at the Seafeld TV Tower",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045208": {
+        "id": "4045208",
+        "series_id": "4",
+        "title": "Beyond the Sea, the Neighbors",
+        "desc": "Reach the residential zone across the sea in \"Interplanar Jump!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045209": {
+        "id": "4045209",
+        "series_id": "4",
+        "title": "Orpheus' Lyre",
+        "desc": "Play music during \"Interplanar Jump!\" to dispel the fog shrouding the mysterious island",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045210": {
+        "id": "4045210",
+        "series_id": "4",
+        "title": "Slacking Off Is Working",
+        "desc": "Ride the HelpBot across the water's surface during \"Interplanar Jump!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045211": {
+        "id": "4045211",
+        "series_id": "4",
+        "title": "Unbearable Weight",
+        "desc": "Fail the game after being squashed by Waldundun or PiPinTuns in \"Interplanar Jump!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045212": {
+        "id": "4045212",
+        "series_id": "4",
+        "title": "Raiders of the Lost Isle",
+        "desc": "Be the first to reach the summit of the mysterious island in Seafeld City's \"Interplanar Jump!\" shadow race",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045213": {
+        "id": "4045213",
+        "series_id": "4",
+        "title": "Boomerang",
+        "desc": "Fire and get hit by your own bow and arrow during \"Interplanar Jump!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045214": {
+        "id": "4045214",
+        "series_id": "4",
+        "title": "Ultimate Driving Machine",
+        "desc": "Ride the HelpBot through the spiked obstacles during \"Interplanar Jump!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045215": {
+        "id": "4045215",
+        "series_id": "4",
+        "title": "HelpBot, Evolution!",
+        "desc": "Unlock the HelpBot's exclusive ability during \"Interplanar Jump!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045216": {
+        "id": "4045216",
+        "series_id": "4",
+        "title": "Arcadia Variation: Orb Princess",
+        "desc": "Play a Bizarre Melody to find the mysterious creature hiding in the Seafeld TV Tower",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045217": {
+        "id": "4045217",
+        "series_id": "4",
+        "title": "Arcadia Variation: Song of the Capybara",
+        "desc": "Play a Bizarre Melody and find the mysterious creature hiding in Seafeld City",
+        "hide_desc": "",
+        "hide": false
     },
     "4051001": {
         "id": "4051001",
@@ -7067,7 +7267,7 @@
         "id": "4053704",
         "series_id": "5",
         "title": "Sudden Reflection",
-        "desc": "View all collections in your room",
+        "desc": "Place 5 souvenirs in the Commemorative Figure area of the Collection Showcase feature",
         "hide_desc": "",
         "hide": true
     },
@@ -9098,7 +9298,7 @@
     "4055024": {
         "id": "4055024",
         "series_id": "5",
-        "title": "A——men!",
+        "title": "A-Door-Able!",
         "desc": "Speak with the Gatekeeper at the tavern",
         "hide_desc": "",
         "hide": false
@@ -9332,6 +9532,174 @@
         "series_id": "5",
         "title": "An Enemy from Above",
         "desc": "Complete the Demon King Challenge",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055201": {
+        "id": "4055201",
+        "series_id": "5",
+        "title": "Hunt to the Ends",
+        "desc": "Hand over Skott's killer to the Xianzhou Alliance",
+        "hide_desc": "※ Hope the food in Shackling Prison grows on her",
+        "hide": true
+    },
+    "4055202": {
+        "id": "4055202",
+        "series_id": "5",
+        "title": "Territorial Principle",
+        "desc": "Hand over Skott's killer to the Strategic Investment Department",
+        "hide_desc": "※ As if nothing ever happened",
+        "hide": true
+    },
+    "4055203": {
+        "id": "4055203",
+        "series_id": "5",
+        "title": "Tangled Web of Enmity",
+        "desc": "Bring Skott's killer to justice",
+        "hide_desc": "※ \"If she won't act right, you help her act right.\"",
+        "hide": true
+    },
+    "4055204": {
+        "id": "4055204",
+        "series_id": "5",
+        "title": "Unknown Memory",
+        "desc": "Complete the investigation of the Buoyant Express Platform",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055205": {
+        "id": "4055205",
+        "series_id": "5",
+        "title": "The Antimemetics Division Does Not Exist",
+        "desc": "Investigate the computer in the TV station's storage room",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055206": {
+        "id": "4055206",
+        "series_id": "5",
+        "title": "What Makes a Hero",
+        "desc": "Reunite with the Cinderborne Warrior at the TV station",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055207": {
+        "id": "4055207",
+        "series_id": "5",
+        "title": "An Actor Prepares",
+        "desc": "Complete the first meeting dialogue with the Ploo Family",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055208": {
+        "id": "4055208",
+        "series_id": "5",
+        "title": "So Love Fades, Huh?",
+        "desc": "Listen to a passerby making excuses to avoid meeting the parents",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055212": {
+        "id": "4055212",
+        "series_id": "5",
+        "title": "Furbo-cession",
+        "desc": "※ Furbobo Weekly now officially has 9 permanent furbo journalists on staff",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055213": {
+        "id": "4055213",
+        "series_id": "5",
+        "title": "Another Me in This World",
+        "desc": "Meet other Trailblazers in the Co-Op Party Car",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055214": {
+        "id": "4055214",
+        "series_id": "5",
+        "title": "Trailblazer Express Club",
+        "desc": "Visit 5 other Trailblazers' Co-Op Party Car",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055215": {
+        "id": "4055215",
+        "series_id": "5",
+        "title": "Meow-velous Emanator of the Trailblaze",
+        "desc": "Receive Akivimeow's Gift",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055216": {
+        "id": "4055216",
+        "series_id": "5",
+        "title": "Party Hunter",
+        "desc": "Catch a creation from every hiding spot in the Party Car",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055217": {
+        "id": "4055217",
+        "series_id": "5",
+        "title": "The Last Supper",
+        "desc": "Place 13 identical creations in the Creation Placement Zone",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055218": {
+        "id": "4055218",
+        "series_id": "5",
+        "title": "Naturalist",
+        "desc": "Collect 27 creations in the Creation Observation Record",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055220": {
+        "id": "4055220",
+        "series_id": "5",
+        "title": "Lucky Dice! Lucky Start!",
+        "desc": "In Cosmicon Collective, collect 6 Prismatic Dice from Expansion Pack II in total",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055221": {
+        "id": "4055221",
+        "series_id": "5",
+        "title": "Your Dice Miss My Place",
+        "desc": "In \"Cosmicon, Roll On Again!\", swap dice 42 times in total",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055222": {
+        "id": "4055222",
+        "series_id": "5",
+        "title": "Triple-Cast",
+        "desc": "In \"Cosmicon, Roll On Again!\", use 3 Tactics Cards consecutively in a single turn",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055223": {
+        "id": "4055223",
+        "series_id": "5",
+        "title": "DMG (XL)",
+        "desc": "Deal 30 DMG in a single turn in \"Cosmicon, Roll On Again!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055224": {
+        "id": "4055224",
+        "series_id": "5",
+        "title": "Furbobo Weekly Dash",
+        "desc": "In \"Cosmicon, Roll On Again!\", represent Furbobo Weekly and defeat the top five on the Seafeld City Commerce Street leaderboard: the \"Seafeld Five\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055225": {
+        "id": "4055225",
+        "series_id": "5",
+        "title": "Cosmic Top Die",
+        "desc": "Complete the final showdown with Silver Wolf LV.999 in \"Cosmicon, Roll On Again!\"",
         "hide_desc": "",
         "hide": false
     },
@@ -11911,6 +12279,14 @@
         "hide_desc": "",
         "hide": true
     },
+    "4075015": {
+        "id": "4075015",
+        "series_id": "7",
+        "title": "Delightfully Bizarre Day",
+        "desc": "Win a battle while deploying 4 Elation characters",
+        "hide_desc": "",
+        "hide": true
+    },
     "4075101": {
         "id": "4075101",
         "series_id": "7",
@@ -11964,6 +12340,86 @@
         "series_id": "7",
         "title": "Bubble Trendsetter",
         "desc": "Trigger the \"Shiny\" effect of Potent Foam Soap at least 3 time(s) in a single battle against Alloy Mechatron: King Pom-Pom",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075201": {
+        "id": "4075201",
+        "series_id": "7",
+        "title": "No Frowns Allowed",
+        "desc": "In a single battle, use Trailblazer (Elation)'s Ultimate on 4 different teammates once each",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075202": {
+        "id": "4075202",
+        "series_id": "7",
+        "title": "Thanks for the Tip",
+        "desc": "In a single battle, use Trailblazer (Elation)'s Ultimate on Sparxie 5 times in total",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075203": {
+        "id": "4075203",
+        "series_id": "7",
+        "title": "Fundraiser 500",
+        "desc": "In a single battle, the total number of \"Certified Banger\" stacks Evanescia obtains from other teammates via her Talent \"Youth: Halcyon Evermore\" exceeds 500",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075204": {
+        "id": "4075204",
+        "series_id": "7",
+        "title": "Never Too Much of a Good Thing",
+        "desc": "Use ally character Evanescia's Ultimate when the number of \"Certified Banger\" stacks reaches 999",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075205": {
+        "id": "4075205",
+        "series_id": "7",
+        "title": "Not Today, Miss Kafka",
+        "desc": "Trigger Silver Wolf LV.999's \"McAwolfee 999\" to dispel the \"Dominance\" state inflicted by Stellaron Hunter, Kafka",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075206": {
+        "id": "4075206",
+        "series_id": "7",
+        "title": "Gear List",
+        "desc": "In a single turn, teammates trigger 3 types of Silver Wolf LV.999's \"Top Loot Box\" effects",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075207": {
+        "id": "4075207",
+        "series_id": "7",
+        "title": "The Wolf of Finance Street",
+        "desc": "Use Silver Wolf LV.999's \"This? Absolute Meta!\" Technique to gain 8 Gold Coins in one go",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075208": {
+        "id": "4075208",
+        "series_id": "7",
+        "title": "Marionette Evil",
+        "desc": "In the battle against \"Paramount Bliss Inverted: Illwish Archlotus,\" an ally character is converted into a \"Happiness Puppet,\" then deals \"Right on Target\" and defeats any target",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075209": {
+        "id": "4075209",
+        "series_id": "7",
+        "title": "Full Sanity",
+        "desc": "In the battle against \"Paramount Bliss Inverted: Illwish Archlotus,\" no characters were converted into Happiness Puppets by triggering \"Happiness\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075210": {
+        "id": "4075210",
+        "series_id": "7",
+        "title": "Good Times Come to an End",
+        "desc": "In the battle against \"Joy Ascendant\", defeat 4 or more \"Joy Ascendant: Finale\" in a single attack",
         "hide_desc": "",
         "hide": false
     },

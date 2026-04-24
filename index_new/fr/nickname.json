@@ -79,6 +79,8 @@
         "1501": ["Sparxie"],
         "1502": ["Yao Guang"],
         "1504": ["Ashveil"],
+        "1505": ["Evanescia"],
+        "1506": ["Louve d'argent Niv. 999"],
         "8001": ["{NICKNAME}"],
         "8002": ["{NICKNAME}"],
         "8003": ["{NICKNAME}"],
@@ -86,7 +88,9 @@
         "8005": ["{NICKNAME}"],
         "8006": ["{NICKNAME}"],
         "8007": ["{NICKNAME}"],
-        "8008": ["{NICKNAME}"]
+        "8008": ["{NICKNAME}"],
+        "8009": ["{NICKNAME}"],
+        "8010": ["{NICKNAME}"]
     },
     "light_cones": {
         "20000": ["Flèches"],
@@ -184,6 +188,7 @@
         "22004": ["La grande entreprise cosmique"],
         "22005": ["Un goût d'éternité"],
         "22006": ["Envol vers un lendemain rosé"],
+        "22007": ["L'avenir nous verra réunis"],
         "23000": ["Nuit sur la voie lactée"],
         "23001": ["Dans la nuit"],
         "23002": ["Quelque chose d'irremplaçable"],
@@ -240,6 +245,8 @@
         "23053": ["Écran d'artifice"],
         "23054": ["Lorsqu'elle décida de voir"],
         "23056": ["Bas les masques"],
+        "23057": ["Terrain de jeu universel"],
+        "23058": ["Printemps des retrouvailles"],
         "24000": ["La chute d'un Aiôn"],
         "24001": ["Exploration de la mer stellaire"],
         "24002": ["Texture des Mémoires"],

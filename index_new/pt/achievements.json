@@ -167,6 +167,14 @@
         "hide_desc": "",
         "hide": true
     },
+    "4015201": {
+        "id": "4015201",
+        "series_id": "1",
+        "title": "Então, Que Haja Riso",
+        "desc": "{M#O Desbravador}{F#A Desbravadora} trilha o Caminho da \"Euforia\"",
+        "hide_desc": "",
+        "hide": true
+    },
     "4020201": {
         "id": "4020201",
         "series_id": "2",
@@ -1557,6 +1565,62 @@
         "title": "Delírios da Lua Fantasma",
         "desc": "A Divindade diz, você ouve",
         "hide_desc": "※ Ouça a declaração insana da Lua Fantasma",
+        "hide": false
+    },
+    "4035201": {
+        "id": "4035201",
+        "series_id": "3",
+        "title": "Caminho Panorâmico para o Trabalho",
+        "desc": "Não existe um jeito mais estiloso de se locomover?",
+        "hide_desc": "※ Embarque no trem e salve o mundo",
+        "hide": false
+    },
+    "4035202": {
+        "id": "4035202",
+        "series_id": "3",
+        "title": "Veredito da Mediadora",
+        "desc": "Símbolo da Autoridade da Mediadora",
+        "hide_desc": "※ Evanescia recuperou sua régua de lâmina",
+        "hide": false
+    },
+    "4035203": {
+        "id": "4035203",
+        "series_id": "3",
+        "title": "Psicopata Arcadiana",
+        "desc": "Ninguém se importa com o que você pensa... até você decidir despedaçar o mundo",
+        "hide_desc": "※ Entre na \"Fenda\" dentro do coração da Bendesejo",
+        "hide": false
+    },
+    "4035204": {
+        "id": "4035204",
+        "series_id": "3",
+        "title": "Se Divertindo Até Morrer",
+        "desc": "Ria, ou morra",
+        "hide_desc": "※ Testemunhe a epidemia da praga de imagênese \"Ascendente da Alegria\"",
+        "hide": false
+    },
+    "4035205": {
+        "id": "4035205",
+        "series_id": "3",
+        "title": "{F#Jogadora Cósmica}{M#Jogador Cósmico} de Elite",
+        "desc": "Melhor morrer pelas mãos de um Malvadão do que ser {F#honrada}{M#honrado} por gente assim",
+        "hide_desc": "※ Mas sinceramente, ninguém quer morrer pelas mãos de um Malvadão",
+        "hide": false
+    },
+    "4035206": {
+        "id": "4035206",
+        "series_id": "3",
+        "title": "Morte do Arauto da Morte",
+        "desc": "Aqueles que proclamam a morte serão eles mesmos reclamados pela morte",
+        "hide_desc": "※ Derrote o novo Arauto da Morte",
+        "hide": false
+    },
+    "4035207": {
+        "id": "4035207",
+        "series_id": "3",
+        "title": "Zéfiro das Flores",
+        "desc": "Levada com as flores na brisa",
+        "hide_desc": "※ Aceite o pedido de Evanescia",
         "hide": false
     },
     "4040101": {
@@ -3827,7 +3891,7 @@
         "id": "4045038",
         "series_id": "4",
         "title": "Pingue-Pongue",
-        "desc": "No \"Tempo de Salto\" de \"Salto Interplanar!\" na Estação Perdido, alterne repetidamente a gravidade para fazer a Poeirinha ricochetear para frente e para trás",
+        "desc": "No \"Salto Interplanar!\" na Estação Perdido, alterne repetidamente a gravidade para fazer a Poeirinha ricochetear para frente e para trás",
         "hide_desc": "",
         "hide": true
     },
@@ -4078,6 +4142,142 @@
         "desc": "Toque uma Melodia Bizarra para encontrar a criatura misteriosa escondida na Estação Ilha Nuvigia",
         "hide_desc": "",
         "hide": true
+    },
+    "4045201": {
+        "id": "4045201",
+        "series_id": "4",
+        "title": "Feriado Pelo Resto da Minha Vida",
+        "desc": "Colete um total de 110 Poeirinhas Inominadas do Coelho Estelar",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045202": {
+        "id": "4045202",
+        "series_id": "4",
+        "title": "Bola de Ferro de Galileu",
+        "desc": "Conclua a \"Hora de Saltar\" no telhado da estação de TV e pule do topo até a sala de entrevistas",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045203": {
+        "id": "4045203",
+        "series_id": "4",
+        "title": "A Lenda da Torre",
+        "desc": "Colete todas as Notas Musicais durante a \"Hora de Saltar\" no telhado da estação de TV",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045204": {
+        "id": "4045204",
+        "series_id": "4",
+        "title": "Sem Assassino, Sem Credo",
+        "desc": "Alcance o topo da Torre de TV Felipe de Noronha",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045205": {
+        "id": "4045205",
+        "series_id": "4",
+        "title": "Alma Presa Pela Gravidade",
+        "desc": "No \"Salto Interplanar\", fique no ar e toque na Linha Gravitacional 10 vezes seguidas",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045206": {
+        "id": "4045206",
+        "series_id": "4",
+        "title": "{F#Mestra}{M#Mestre} do Boliche",
+        "desc": "No \"Salto Interplanar!\", use um AssistBot para arremessar um Ouriçae ou Espírito Flutuante",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045207": {
+        "id": "4045207",
+        "series_id": "4",
+        "title": "Um Brinde aos Seus Olhos",
+        "desc": "Conclua o Estágio de Preparo de Bebidas no \"Salto Interplanar!\" na Torre de TV Felipe de Noronha",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045208": {
+        "id": "4045208",
+        "series_id": "4",
+        "title": "Além do Mar, os Vizinhos",
+        "desc": "Chegue à zona residencial do outro lado do mar no \"Salto Interplanar!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045209": {
+        "id": "4045209",
+        "series_id": "4",
+        "title": "Lira de Orfeu",
+        "desc": "Toque música durante \"Salto Interplanar\" para dissipar a névoa que encobre a ilha misteriosa",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045210": {
+        "id": "4045210",
+        "series_id": "4",
+        "title": "Enrolar Também Funciona",
+        "desc": "Atravesse a superfície da água com o AssistBot durante o \"Salto Interplanar!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045211": {
+        "id": "4045211",
+        "series_id": "4",
+        "title": "Peso Insustentável",
+        "desc": "Fracasse no jogo após ser {M#esmagado}{F#esmagada} por Waldundun ou PiPinTuns no \"Salto Interplanar!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045212": {
+        "id": "4045212",
+        "series_id": "4",
+        "title": "Invasores da Ilha Perdida",
+        "desc": "Seja {M#o primeiro}{F#a primeira} a alcançar o cume da ilha misteriosa na corrida sombria \"Salto Interplanar!\" da Cidade de Felipe de Noronha",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045213": {
+        "id": "4045213",
+        "series_id": "4",
+        "title": "Bumerangue",
+        "desc": "Atire e seja {M#atingido}{F#atingida} pelo seu próprio Arco e Flecha durante \"Salto Interplanar!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045214": {
+        "id": "4045214",
+        "series_id": "4",
+        "title": "Máquina de Condução Suprema",
+        "desc": "Conduza o AssistBot pelos obstáculos pontiagudos durante o \"Salto Interplanar!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045215": {
+        "id": "4045215",
+        "series_id": "4",
+        "title": "AssistBot, Evolução!",
+        "desc": "Desbloqueie a habilidade exclusiva do AssistBot durante o \"Salto Interplanar!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045216": {
+        "id": "4045216",
+        "series_id": "4",
+        "title": "Variação de Arcádia: Princesa do Orbe",
+        "desc": "Toque uma Melodia Bizarra para encontrar a criatura misteriosa escondida na Torre de TV Felipe de Noronha",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045217": {
+        "id": "4045217",
+        "series_id": "4",
+        "title": "Variação de Arcádia: Canção da Capivara",
+        "desc": "Toque uma Melodia Bizarra e encontre a criatura misteriosa escondida na Cidade de Felipe de Noronha",
+        "hide_desc": "",
+        "hide": false
     },
     "4051001": {
         "id": "4051001",
@@ -5459,7 +5659,7 @@
         "id": "4052918",
         "series_id": "5",
         "title": "Suum Cuique",
-        "desc": "Obtenha a criação rara \"Gatinho de Óculos\"",
+        "desc": "Obtenha a criação rara \"Gatinha de Óculos\"",
         "hide_desc": "",
         "hide": true
     },
@@ -7067,7 +7267,7 @@
         "id": "4053704",
         "series_id": "5",
         "title": "O Baú das Lembranças",
-        "desc": "Veja todas as suas coleções no seu quarto",
+        "desc": "Coloque 5 souvenires na área de Estatuetas Comemorativas da Vitrine",
         "hide_desc": "",
         "hide": true
     },
@@ -9098,7 +9298,7 @@
     "4055024": {
         "id": "4055024",
         "series_id": "5",
-        "title": "A... mén!",
+        "title": "Abra a Porta, Maquirinha!",
         "desc": "Fale com a Porteira na taverna",
         "hide_desc": "",
         "hide": false
@@ -9219,7 +9419,7 @@
         "id": "4055045",
         "series_id": "5",
         "title": "Colecionador de Dados",
-        "desc": "No modo de jogo \"Cosmicombate\", colete um total de 19 Dados Prismáticos do \"Pacote Básico\" e do \"Pacote de Expansão 1\"",
+        "desc": "No modo de jogo \"Cosmicombate\", colete um total de 19 Dados Prismáticos do \"Pacote Básico\" e do \"Pacote de Expansão I\"",
         "hide_desc": "",
         "hide": false
     },
@@ -9332,6 +9532,174 @@
         "series_id": "5",
         "title": "Um Inimigo Vindo de Cima",
         "desc": "Conclua o desafio da Senhora Demoníaca",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055201": {
+        "id": "4055201",
+        "series_id": "5",
+        "title": "Caça Até o Fim",
+        "desc": "Entregue a assassina de Skott à Aliança Xianzhou",
+        "hide_desc": "※ Espero que ela goste da comida da Prisão dos Grilhões",
+        "hide": true
+    },
+    "4055202": {
+        "id": "4055202",
+        "series_id": "5",
+        "title": "Princípio Territorial",
+        "desc": "Entregue a assassina de Skott ao Departamento de Investimento Estratégico",
+        "hide_desc": "※ Como se nada tivesse acontecido",
+        "hide": true
+    },
+    "4055203": {
+        "id": "4055203",
+        "series_id": "5",
+        "title": "Teia Emaranhada de Inimizade",
+        "desc": "Leve a assassina de Skott à justiça",
+        "hide_desc": "※ \"Se ela não se comportar direito, você a ajuda a se comportar direito.\"",
+        "hide": true
+    },
+    "4055204": {
+        "id": "4055204",
+        "series_id": "5",
+        "title": "Memória Desconhecida",
+        "desc": "Conclua a investigação da Plataforma do Expresso Flutuante",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055205": {
+        "id": "4055205",
+        "series_id": "5",
+        "title": "A Divisão Antimemética Não Existe",
+        "desc": "Investigue o computador na sala de armazenamento da estação de TV",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055206": {
+        "id": "4055206",
+        "series_id": "5",
+        "title": "O Que é Um Herói?",
+        "desc": "Reencontre o Guerreiro Rebento das Cinzas na estação de TV",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055207": {
+        "id": "4055207",
+        "series_id": "5",
+        "title": "Uma Atriz se Prepara",
+        "desc": "Conclua o diálogo do primeiro encontro com a Família Patinho",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055208": {
+        "id": "4055208",
+        "series_id": "5",
+        "title": "É Assim Que o Amor Desaparece?",
+        "desc": "Ouça um transeunte dando desculpas para evitar conhecer seu futuro sogro",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055212": {
+        "id": "4055212",
+        "series_id": "5",
+        "title": "Sucessôncio",
+        "desc": "※ A \"Pelolôncio Semanal\" agora tem oficialmente 9 Repórteres Pelôncio permanentes na equipe",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055213": {
+        "id": "4055213",
+        "series_id": "5",
+        "title": "Eu, Eu Mesmo e Eu Mesmo de Novo",
+        "desc": "Conheça outros Desbravadores no Vagão de Festas Cooperativo",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055214": {
+        "id": "4055214",
+        "series_id": "5",
+        "title": "Clube Expresso dos Desbravadores",
+        "desc": "Visite o Vagão de Festas Multijogador de 5 outros Desbravadores",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055215": {
+        "id": "4055215",
+        "series_id": "5",
+        "title": "Emanador Miau-ravilhoso do Desbravamento",
+        "desc": "Receba o presente de Akivimiau",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055216": {
+        "id": "4055216",
+        "series_id": "5",
+        "title": "{F#Caçadora}{M#Caçador} de Festas",
+        "desc": "Capture uma criação em cada esconderijo no Vagão de Festas",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055217": {
+        "id": "4055217",
+        "series_id": "5",
+        "title": "A Última Ceia",
+        "desc": "Coloque 13 criações idênticas na Área de Colocação de Criações",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055218": {
+        "id": "4055218",
+        "series_id": "5",
+        "title": "Naturalista",
+        "desc": "Colete 27 criações no Registro de Observação da Criação",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055220": {
+        "id": "4055220",
+        "series_id": "5",
+        "title": "Dados Sortudos! Começo Sortudo!",
+        "desc": "No Cosmicombate, colete um total de 6 Dados Prismáticos do Pacote de Expansão II",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055221": {
+        "id": "4055221",
+        "series_id": "5",
+        "title": "Seus Dados Sentem Falta da Minha Casa",
+        "desc": "Em \"Cosmicombate! Que Rolem os Dados de Novo!\", troque dados um total de 42 vezes",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055222": {
+        "id": "4055222",
+        "series_id": "5",
+        "title": "Três é Demais",
+        "desc": "Em \"Cosmicombate! Que Rolem os Dados de Novo!\", use 3 Cartas de Tática consecutivamente em uma única rodada",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055223": {
+        "id": "4055223",
+        "series_id": "5",
+        "title": "Dano (XG)",
+        "desc": "Cause 30 de Dano em uma única rodada em \"Cosmicombate! Que Rolem os Dados de Novo!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055224": {
+        "id": "4055224",
+        "series_id": "5",
+        "title": "\"Pelolôncio Semanal\", Avançar!",
+        "desc": "Em \"Cosmicombate! Que Rolem os Dados de Novo!\", represente a \"Pelolôncio Semanal\" e derrote os cinco primeiros do ranque da Rua Comercial da Cidade de Felipe de Noronha: os \"Cinco de Felipe de Noronha\".",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055225": {
+        "id": "4055225",
+        "series_id": "5",
+        "title": "Dado Cósmico N.º1",
+        "desc": "Conclua o Combate Final com a Loba Prateada Nv. 999 em \"Cosmicombate! Que Rolem os Dados de Novo!\"",
         "hide_desc": "",
         "hide": false
     },
@@ -11851,7 +12219,7 @@
         "id": "4075007",
         "series_id": "7",
         "title": "O Rock'n'Roll Morreu",
-        "desc": "Em uma batalha contra o \"Rockeiro Rebelde\", ative o \"Instante Aha\" para interromper seu estado de Carregamento",
+        "desc": "Em uma batalha contra o \"Maluco Beleza\", ative o \"Instante Aha\" para interromper seu estado de Carregamento",
         "hide_desc": "",
         "hide": false
     },
@@ -11859,7 +12227,7 @@
         "id": "4075008",
         "series_id": "7",
         "title": "Óleo Para as Chamas",
-        "desc": "Em uma batalha contra o \"Rockeiro Rebelde\", ative o efeito da Euforia \"Eu Sou Terrível!\"",
+        "desc": "Em uma batalha contra o \"Maluco Beleza\", ative o efeito da Euforia \"Eu Sou Terrível!\"",
         "hide_desc": "",
         "hide": false
     },
@@ -11908,6 +12276,14 @@
         "series_id": "7",
         "title": "Quem Está Rindo Agora?",
         "desc": "Aha derrotou 1 inimigos ao utilizar \"Que Haja Riso\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075015": {
+        "id": "4075015",
+        "series_id": "7",
+        "title": "Dia Deliciosamente Bizarro",
+        "desc": "Vença uma batalha usando 4 personagens da Euforia",
         "hide_desc": "",
         "hide": true
     },
@@ -11964,6 +12340,86 @@
         "series_id": "7",
         "title": "Ditador de Tendências das Bolhas",
         "desc": "Ative o Efeito \"Brilhante\" do Sabonete Espumante Potente pelo menos 3 vez(es) em uma única batalha contra o \"Mechatron de Liga: Rei Pom-Pom\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075201": {
+        "id": "4075201",
+        "series_id": "7",
+        "title": "Nada de Cara Feia",
+        "desc": "Em uma única batalha, use a Perícia Suprema {F#da Desbravadora}{M#do Desbravador} (A Euforia) em 4 aliados diferentes uma vez cada",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075202": {
+        "id": "4075202",
+        "series_id": "7",
+        "title": "Obrigado pela Dica",
+        "desc": "Em uma única batalha, use a Perícia Suprema {F#da Desbravadora}{M#do Desbravador} (A Euforia) em Sparxie um total de 5 vezes",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075203": {
+        "id": "4075203",
+        "series_id": "7",
+        "title": "Top 500 do Financiamento Coletivo",
+        "desc": "Em uma única batalha, faça com que o número de acúmulos de \"Mandou Bem\" obtido por Evanescia de outros aliados através do seu Talento \"Juventude: Tranquilidade Eterna\" sejam maior do que 500",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075204": {
+        "id": "4075204",
+        "series_id": "7",
+        "title": "O Que é Bom Nunca é Demais",
+        "desc": "Use a Perícia Suprema da personagem aliada Evanescia quando o número de acúmulos de \"Mandou Bem\" alcançar 999",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075205": {
+        "id": "4075205",
+        "series_id": "7",
+        "title": "Hoje Não, Senhorita Kafka",
+        "desc": "Ative \"LobaGuard 999\" da Loba Prateada Nv. 999 para remover o estado de \"Dominação\" infligido pela Caçadora de Stellaron, Kafka",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075206": {
+        "id": "4075206",
+        "series_id": "7",
+        "title": "Lista de Equipamentos",
+        "desc": "Em uma única rodada, os aliados ativam 3 tipos de efeitos de \"Loot Box Premium\" da Loba Prateada Nv. 999",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075207": {
+        "id": "4075207",
+        "series_id": "7",
+        "title": "A Loba de Uau Street",
+        "desc": "Use a Técnica \"Esse é o Meta Supremo\" da Loba Prateada Nv. 999 para ganhar 8 Moedas de Ouro de uma vez",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075208": {
+        "id": "4075208",
+        "series_id": "7",
+        "title": "Maré de Marionete",
+        "desc": "Na batalha contra \"Beatitude Inversa: Arquilótus Amaldesejada\", um personagem aliado é convertido em \"Marionete da Felicidade\" e então causa \"Acerto na Mosca\" e derrota qualquer alvo",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075209": {
+        "id": "4075209",
+        "series_id": "7",
+        "title": "Sanidade Máxima",
+        "desc": "Na batalha contra \"Beatitude Inversa: Arquilótus Amaldesejada\", nenhum personagem foi convertido em Marionete da Felicidade ao ativar \"Felicidade\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075210": {
+        "id": "4075210",
+        "series_id": "7",
+        "title": "Os Bons Tempos Chegam ao Fim",
+        "desc": "Na batalha contra \"Ascendente da Alegria\", derrote 4 ou mais \"Ascendente da Alegria: Final\" em um único ataque",
         "hide_desc": "",
         "hide": false
     },

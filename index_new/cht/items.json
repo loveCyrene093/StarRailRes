@@ -20,7 +20,7 @@
             "擬造花萼【工造司】",
             "擬造花萼【「白日夢」飯店-夢境】",
             "擬造花萼【「囈語密林」神悟樹庭】",
-            "擬造花萼【{TextID#FloorName_20503001}】",
+            "擬造花萼【鴿川區】",
             "任務獎勵",
             "委託獎勵",
             "餘燼兌換"
@@ -245,7 +245,7 @@
             "擬造花萼【流雲渡】",
             "擬造花萼【築夢邊境】",
             "擬造花萼【「神諭聖地」雅努薩波利斯】",
-            "擬造花萼【{TextID#FloorName_20501001}】",
+            "擬造花萼【繪世學院】",
             "委託獎勵"
         ]
     },
@@ -261,7 +261,7 @@
             "擬造花萼【流雲渡】",
             "擬造花萼【築夢邊境】",
             "擬造花萼【「神諭聖地」雅努薩波利斯】",
-            "擬造花萼【{TextID#FloorName_20501001}】",
+            "擬造花萼【繪世學院】",
             "每日實訓",
             "餘燼兌換"
         ]
@@ -278,7 +278,7 @@
             "擬造花萼【流雲渡】",
             "擬造花萼【築夢邊境】",
             "擬造花萼【「神諭聖地」雅努薩波利斯】",
-            "擬造花萼【{TextID#FloorName_20501001}】",
+            "擬造花萼【繪世學院】",
             "「忘卻之庭」"
         ]
     },
@@ -289,14 +289,7 @@
         "sub_type": "EquipmentExp",
         "rarity": 2,
         "icon": "icon/item/221.png",
-        "come_from": [
-            "擬造花萼【邊緣通道】",
-            "擬造花萼【太卜司】",
-            "擬造花萼【稚子的夢】",
-            "擬造花萼【「紛爭荒墟」懸鋒城】",
-            "擬造花萼【{TextID#FloorName_20503001}】",
-            "委託獎勵"
-        ]
+        "come_from": ["擬造花萼【邊緣通道】", "擬造花萼【太卜司】", "擬造花萼【稚子的夢】", "擬造花萼【「紛爭荒墟」懸鋒城】", "擬造花萼【鴿川區】", "委託獎勵"]
     },
     "222": {
         "id": "222",
@@ -305,14 +298,7 @@
         "sub_type": "EquipmentExp",
         "rarity": 3,
         "icon": "icon/item/222.png",
-        "come_from": [
-            "擬造花萼【邊緣通道】",
-            "擬造花萼【太卜司】",
-            "擬造花萼【稚子的夢】",
-            "擬造花萼【「紛爭荒墟」懸鋒城】",
-            "擬造花萼【{TextID#FloorName_20503001}】",
-            "餘燼兌換"
-        ]
+        "come_from": ["擬造花萼【邊緣通道】", "擬造花萼【太卜司】", "擬造花萼【稚子的夢】", "擬造花萼【「紛爭荒墟」懸鋒城】", "擬造花萼【鴿川區】", "餘燼兌換"]
     },
     "223": {
         "id": "223",
@@ -326,7 +312,7 @@
             "擬造花萼【太卜司】",
             "擬造花萼【稚子的夢】",
             "擬造花萼【「紛爭荒墟」懸鋒城】",
-            "擬造花萼【{TextID#FloorName_20503001}】",
+            "擬造花萼【鴿川區】",
             "「忘卻之庭」"
         ]
     },
@@ -481,7 +467,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/281.png",
-        "come_from": ["重複獲得2次星魂已滿的五星角色時可兌換", "重複獲得2次星魂已滿的五星角色時可兌換"]
+        "come_from": ["重複獲得2次星魂已滿的五星角色時可兌換", "重複獲得2次星魂已滿的五星角色時可兌換", "千星旅伴"]
     },
     "282": {
         "id": "282",
@@ -508,7 +494,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/291.png",
-        "come_from": ["「狸狸通訊」福利等級獎勵獲得", "開拓任務獎勵"]
+        "come_from": []
     },
     "503": {
         "id": "503",
@@ -553,6 +539,15 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/803.png",
+        "come_from": []
+    },
+    "804": {
+        "id": "804",
+        "name": "幻樂的祝福",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/804.png",
         "come_from": []
     },
     "821": {
@@ -1275,6 +1270,24 @@
         "icon": "icon/item/11003.png",
         "come_from": []
     },
+    "11505": {
+        "id": "11505",
+        "name": "【緋英】的星魂",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11506": {
+        "id": "11506",
+        "name": "【銀狼LV.999】的星魂",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
     "18001": {
         "id": "18001",
         "name": "「毀滅」之影",
@@ -1345,6 +1358,24 @@
         "sub_type": "Eidolon",
         "rarity": 5,
         "icon": "icon/item/18007.png",
+        "come_from": []
+    },
+    "18009": {
+        "id": "18009",
+        "name": "「歡愉」之影",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/18009.png",
+        "come_from": ["「狸狸通訊」福利等級獎勵獲得", "開拓任務獎勵"]
+    },
+    "18010": {
+        "id": "18010",
+        "name": "「歡愉」之影",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/18009.png",
         "come_from": []
     },
     "71000": {
@@ -2497,7 +2528,7 @@
         "sub_type": "RelicSetShowOnly",
         "rarity": 5,
         "icon": "icon/item/71048.png",
-        "come_from": ["侵蝕隧洞【{TextID#FloorName_20462001}】", "「萬能合成機」- 遺器合成"]
+        "come_from": ["侵蝕隧洞【「全世矩陣」無名泰坦大墓】", "「萬能合成機」- 遺器合成"]
     },
     "81281": {
         "id": "81281",
@@ -2533,7 +2564,7 @@
         "sub_type": "RelicSetShowOnly",
         "rarity": 5,
         "icon": "icon/item/71049.png",
-        "come_from": ["侵蝕隧洞【{TextID#FloorName_20462001}】", "「萬能合成機」- 遺器合成"]
+        "come_from": ["侵蝕隧洞【「全世矩陣」無名泰坦大墓】", "「萬能合成機」- 遺器合成"]
     },
     "81291": {
         "id": "81291",
@@ -2569,7 +2600,7 @@
         "sub_type": "RelicSetShowOnly",
         "rarity": 5,
         "icon": "icon/item/71052.png",
-        "come_from": ["侵蝕隧洞【{TextID#FloorName_20501001}】", "「萬能合成機」- 遺器合成"]
+        "come_from": ["侵蝕隧洞【繪世學院】", "「萬能合成機」- 遺器合成"]
     },
     "81301": {
         "id": "81301",
@@ -2605,7 +2636,7 @@
         "sub_type": "RelicSetShowOnly",
         "rarity": 5,
         "icon": "icon/item/71053.png",
-        "come_from": ["侵蝕隧洞【{TextID#FloorName_20501001}】", "「萬能合成機」- 遺器合成"]
+        "come_from": ["侵蝕隧洞【繪世學院】", "「萬能合成機」- 遺器合成"]
     },
     "83011": {
         "id": "83011",
@@ -4009,7 +4040,7 @@
         "sub_type": "TracePath",
         "rarity": 2,
         "icon": "icon/item/110261.png",
-        "come_from": ["「萬能合成機」-等量置換", "擬造花萼【{TextID#FloorName_20502001}】", "餘燼兌換", "「萬能合成機」- 素材置換"]
+        "come_from": ["擬造花萼【「世界盡頭」酒館】", "餘燼兌換", "「萬能合成機」- 素材置換"]
     },
     "110262": {
         "id": "110262",
@@ -4018,13 +4049,7 @@
         "sub_type": "TracePath",
         "rarity": 3,
         "icon": "icon/item/110262.png",
-        "come_from": [
-            "「萬能合成機」-等量置換",
-            "擬造花萼【{TextID#FloorName_20502001}】",
-            "「萬能合成機」- 素材合成",
-            "餘燼兌換",
-            "「萬能合成機」- 素材置換"
-        ]
+        "come_from": ["擬造花萼【「世界盡頭」酒館】", "「萬能合成機」- 素材合成", "餘燼兌換", "「萬能合成機」- 素材置換"]
     },
     "110263": {
         "id": "110263",
@@ -4033,12 +4058,7 @@
         "sub_type": "TracePath",
         "rarity": 4,
         "icon": "icon/item/110263.png",
-        "come_from": [
-            "「萬能合成機」-等量置換",
-            "擬造花萼【{TextID#FloorName_20502001}】",
-            "「萬能合成機」- 素材合成",
-            "「萬能合成機」- 素材置換"
-        ]
+        "come_from": ["擬造花萼【「世界盡頭」酒館】", "「萬能合成機」- 素材合成", "「萬能合成機」- 素材置換"]
     },
     "110271": {
         "id": "110271",
@@ -4047,7 +4067,7 @@
         "sub_type": "TracePath",
         "rarity": 2,
         "icon": "icon/item/110271.png",
-        "come_from": ["擬造花萼【{TextID#FloorName_20481001}】", "餘燼兌換", "「萬能合成機」- 素材置換"]
+        "come_from": ["擬造花萼【「葬憶彼岸」時光歸墟】", "餘燼兌換", "「萬能合成機」- 素材置換"]
     },
     "110272": {
         "id": "110272",
@@ -4056,7 +4076,7 @@
         "sub_type": "TracePath",
         "rarity": 3,
         "icon": "icon/item/110272.png",
-        "come_from": ["擬造花萼【{TextID#FloorName_20481001}】", "「萬能合成機」- 素材合成", "餘燼兌換", "「萬能合成機」- 素材置換"]
+        "come_from": ["擬造花萼【「葬憶彼岸」時光歸墟】", "「萬能合成機」- 素材合成", "餘燼兌換", "「萬能合成機」- 素材置換"]
     },
     "110273": {
         "id": "110273",
@@ -4065,7 +4085,34 @@
         "sub_type": "TracePath",
         "rarity": 4,
         "icon": "icon/item/110273.png",
-        "come_from": ["擬造花萼【{TextID#FloorName_20481001}】", "「萬能合成機」- 素材合成", "「萬能合成機」- 素材置換"]
+        "come_from": ["擬造花萼【「葬憶彼岸」時光歸墟】", "「萬能合成機」- 素材合成", "「萬能合成機」- 素材置換"]
+    },
+    "110311": {
+        "id": "110311",
+        "name": "法吉娜之淚",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 2,
+        "icon": "icon/item/110311.png",
+        "come_from": ["擬造花萼【「輝痕聖林」神悟樹庭】", "餘燼兌換", "「萬能合成機」- 素材置換"]
+    },
+    "110312": {
+        "id": "110312",
+        "name": "法吉娜之酒",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 3,
+        "icon": "icon/item/110312.png",
+        "come_from": ["擬造花萼【「輝痕聖林」神悟樹庭】", "「萬能合成機」- 素材合成", "餘燼兌換", "「萬能合成機」- 素材置換"]
+    },
+    "110313": {
+        "id": "110313",
+        "name": "法吉娜之心",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 4,
+        "icon": "icon/item/110313.png",
+        "come_from": ["擬造花萼【「輝痕聖林」神悟樹庭】", "「萬能合成機」- 素材合成", "「萬能合成機」- 素材置換"]
     },
     "110400": {
         "id": "110400",
@@ -4281,7 +4328,7 @@
         "sub_type": "AvatarRank",
         "rarity": 4,
         "icon": "icon/item/110432.png",
-        "come_from": ["凝滯虛影【{TextID#FloorName_20422001}】", "「萬能合成機」- 素材置換"]
+        "come_from": ["凝滯虛影【「神諭聖地」雅努薩波利斯】", "「萬能合成機」- 素材置換"]
     },
     "110433": {
         "id": "110433",
@@ -4290,7 +4337,7 @@
         "sub_type": "AvatarRank",
         "rarity": 4,
         "icon": "icon/item/110433.png",
-        "come_from": ["凝滯虛影【{TextID#FloorName_20451001}】", "「萬能合成機」- 素材置換"]
+        "come_from": ["凝滯虛影【「酣歌海垠」斯緹科西亞】", "「萬能合成機」- 素材置換"]
     },
     "110434": {
         "id": "110434",
@@ -4299,7 +4346,7 @@
         "sub_type": "AvatarRank",
         "rarity": 4,
         "icon": "icon/item/110434.png",
-        "come_from": ["凝滯虛影【{TextID#FloorName_20503001}】", "「萬能合成機」- 素材置換"]
+        "come_from": ["凝滯虛影【鴿川區】", "「萬能合成機」- 素材置換"]
     },
     "110435": {
         "id": "110435",
@@ -4398,7 +4445,7 @@
         "sub_type": "WeeklyMonsterDrop",
         "rarity": 4,
         "icon": "icon/item/110508.png",
-        "come_from": ["歷戰餘響【{TextID#FloorName_20481001}】"]
+        "come_from": ["歷戰餘響【「葬憶彼岸」時光歸墟】"]
     },
     "111000": {
         "id": "111000",
@@ -5058,6 +5105,15 @@
         "icon": "icon/item/121006.png",
         "come_from": []
     },
+    "121007": {
+        "id": "121007",
+        "name": "紀念卡帶",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/121007.png",
+        "come_from": []
+    },
     "122000": {
         "id": "122000",
         "name": "艾迪恩代幣",
@@ -5084,6 +5140,15 @@
         "rarity": 3,
         "icon": "icon/item/123001.png",
         "come_from": []
+    },
+    "123002": {
+        "id": "123002",
+        "name": "權限卡",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/123000.png",
+        "come_from": ["「奇庫尋遺」活動獲得"]
     },
     "140000": {
         "id": "140000",
@@ -9801,6 +9866,24 @@
         "icon": "icon/item/140609.png",
         "come_from": []
     },
+    "140610": {
+        "id": "140610",
+        "name": "開拓妖精的圓手（左）",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140610.png",
+        "come_from": []
+    },
+    "140611": {
+        "id": "140611",
+        "name": "「藍星守護者」獎盃",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140611.png",
+        "come_from": []
+    },
     "149957": {
         "id": "149957",
         "name": "與三月七的合照",
@@ -10942,6 +11025,15 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/150100.png",
+        "come_from": []
+    },
+    "150101": {
+        "id": "150101",
+        "name": "《狸狸週刊》徽章",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/150101.png",
         "come_from": []
     },
     "180001": {
@@ -20232,6 +20324,276 @@
         "icon": "icon/item/190022.png",
         "come_from": []
     },
+    "192061": {
+        "id": "192061",
+        "name": "關於幻月遊戲機制的合理猜想",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192062": {
+        "id": "192062",
+        "name": "噗嚕興業簡介",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192063": {
+        "id": "192063",
+        "name": "雷虯工況觀測手冊",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192064": {
+        "id": "192064",
+        "name": "基礎願力學序說",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192065": {
+        "id": "192065",
+        "name": "關於恢復海原市畫中形態的聯合請願書",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192066": {
+        "id": "192066",
+        "name": "實驗體A培育紀錄",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192067": {
+        "id": "192067",
+        "name": "1984屆校友紀念冊•滿願",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192068": {
+        "id": "192068",
+        "name": "關於滿願的綜藝計畫",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192069": {
+        "id": "192069",
+        "name": "花火娃娃上的標籤",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192070": {
+        "id": "192070",
+        "name": "群眾演員須知",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192071": {
+        "id": "192071",
+        "name": "術前心理診療紀錄",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192072": {
+        "id": "192072",
+        "name": "洋流異動報告",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192073": {
+        "id": "192073",
+        "name": "海原電視台大事記",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192074": {
+        "id": "192074",
+        "name": "寄給偵探的信箋",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192075": {
+        "id": "192075",
+        "name": "史上最佳卡帶",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192076": {
+        "id": "192076",
+        "name": "未抵故事集",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192077": {
+        "id": "192077",
+        "name": "很不抱歉以這種方式通知你",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192078": {
+        "id": "192078",
+        "name": "滿願電視台內部全體信",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192079": {
+        "id": "192079",
+        "name": "聊聊幸研會",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192080": {
+        "id": "192080",
+        "name": "悠悠的信",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192081": {
+        "id": "192081",
+        "name": "走近科學：神秘的黑域",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192082": {
+        "id": "192082",
+        "name": "尋找「克拉肯」",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192083": {
+        "id": "192083",
+        "name": "這麼近、那麼美，週末到海原",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192084": {
+        "id": "192084",
+        "name": "港口公告欄",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192085": {
+        "id": "192085",
+        "name": "飛島神木傳說",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192086": {
+        "id": "192086",
+        "name": "海原幸福約定",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192087": {
+        "id": "192087",
+        "name": "深夜電台播音稿",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192088": {
+        "id": "192088",
+        "name": "「無量塔」文化考",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192089": {
+        "id": "192089",
+        "name": "浮脂記事 蛙之章 其三",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192090": {
+        "id": "192090",
+        "name": "浮脂記事 狐之章 其七",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
     "210001": {
         "id": "210001",
         "name": "《災虐的黎明》",
@@ -22140,6 +22502,78 @@
         "icon": "icon/item/210001.png",
         "come_from": []
     },
+    "210462": {
+        "id": "210462",
+        "name": "《空洞電波》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210463": {
+        "id": "210463",
+        "name": "《娛樂至死》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210464": {
+        "id": "210464",
+        "name": "《大傳媒時代》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210465": {
+        "id": "210465",
+        "name": "《居高臨下》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210466": {
+        "id": "210466",
+        "name": "《海濱小城》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210467": {
+        "id": "210467",
+        "name": "《飄浮》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210468": {
+        "id": "210468",
+        "name": "《肆意生長》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210469": {
+        "id": "210469",
+        "name": "《死與新生》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
     "215001": {
         "id": "215001",
         "name": "《淅瀝》",
@@ -22170,6 +22604,15 @@
     "215004": {
         "id": "215004",
         "name": "《呢喃》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "215008": {
+        "id": "215008",
+        "name": "《樹語》",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -24856,7 +25299,7 @@
         "sub_type": "PlayerOutfit",
         "rarity": 5,
         "icon": "icon/item/227007.png",
-        "come_from": ["「新潮頭飾」禮盒"]
+        "come_from": ["商店「時尚單品」處獲得"]
     },
     "227008": {
         "id": "227008",
@@ -24866,6 +25309,42 @@
         "rarity": 4,
         "icon": "icon/item/227008.png",
         "come_from": ["「狸狸通訊」暢銷等級獎勵獲得的開拓穿搭"]
+    },
+    "227009": {
+        "id": "227009",
+        "name": "寰宇頂流•霓虹貓耳耳機",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227009.png",
+        "come_from": ["商店「星塵之禮」處獲得"]
+    },
+    "227010": {
+        "id": "227010",
+        "name": "浣熊熊爆改緋緋狐",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 5,
+        "icon": "icon/item/227010.png",
+        "come_from": ["「狐狐緋影」禮盒", "商店「時尚單品」處獲得"]
+    },
+    "227012": {
+        "id": "227012",
+        "name": "狸狸眼鏡",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227012.png",
+        "come_from": ["商店「星塵之禮」處獲得"]
+    },
+    "227013": {
+        "id": "227013",
+        "name": "酷酷酷目鏡",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 5,
+        "icon": "icon/item/227013.png",
+        "come_from": ["「銀河速通」禮盒"]
     },
     "229001": {
         "id": "229001",
@@ -26991,6 +27470,15 @@
         "icon": "icon/item/251003.png",
         "come_from": []
     },
+    "251004": {
+        "id": "251004",
+        "name": "狸狸記者團",
+        "type": "Pet",
+        "sub_type": "NormalPet",
+        "rarity": 5,
+        "icon": "icon/item/251004.png",
+        "come_from": []
+    },
     "252000": {
         "id": "252000",
         "name": "莊嚴深紅！車掌制服",
@@ -27016,6 +27504,24 @@
         "sub_type": "PamSkin",
         "rarity": 4,
         "icon": "icon/item/252002.png",
+        "come_from": ["商店「星塵之禮」處獲得"]
+    },
+    "252003": {
+        "id": "252003",
+        "name": "開拓歲月！禮服套裝",
+        "type": "Usable",
+        "sub_type": "PamSkin",
+        "rarity": 4,
+        "icon": "icon/item/252003.png",
+        "come_from": ["在「帕姆幫幫」中與帕姆對話獲得"]
+    },
+    "252004": {
+        "id": "252004",
+        "name": "黃金美夢！禮服套裝",
+        "type": "Usable",
+        "sub_type": "PamSkin",
+        "rarity": 5,
+        "icon": "icon/item/252004.png",
         "come_from": ["商店「星塵之禮」處獲得"]
     },
     "252100": {
@@ -28674,6 +29180,15 @@
         "icon": "icon/item/253003.png",
         "come_from": []
     },
+    "253004": {
+        "id": "253004",
+        "name": "樂園衝衝衝",
+        "type": "Usable",
+        "sub_type": "PersonalCard",
+        "rarity": 5,
+        "icon": "icon/item/253004.png",
+        "come_from": ["「銀河速通」禮盒"]
+    },
     "254000": {
         "id": "254000",
         "name": "{NICKNAME}的自由意志",
@@ -29367,6 +29882,96 @@
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": ["在銀河戰力黨商店的「擴展包•1」中購買"]
     },
+    "264026": {
+        "id": "264026",
+        "name": "銀狼LV.999",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["在銀河戰力黨商店的「擴展包•2」中購買"]
+    },
+    "264027": {
+        "id": "264027",
+        "name": "緋英",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["在銀河戰力黨商店的「擴展包•2」中購買"]
+    },
+    "264028": {
+        "id": "264028",
+        "name": "{NICKNAME}",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["在銀河戰力黨商店的「擴展包•2」中購買"]
+    },
+    "264029": {
+        "id": "264029",
+        "name": "不死途",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["在銀河戰力黨商店的「擴展包•2」中購買"]
+    },
+    "264030": {
+        "id": "264030",
+        "name": "星期日",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["在銀河戰力黨商店的「擴展包•2」中購買"]
+    },
+    "264031": {
+        "id": "264031",
+        "name": "刃",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["在銀河戰力黨商店的「擴展包•2」中購買"]
+    },
+    "264032": {
+        "id": "264032",
+        "name": "海瑟音",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["在銀河戰力黨商店的「擴展包•2」中購買"]
+    },
+    "264033": {
+        "id": "264033",
+        "name": "緹寶",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["在銀河戰力黨商店的「擴展包•2」中購買"]
+    },
+    "264034": {
+        "id": "264034",
+        "name": "阮•梅",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["在銀河戰力黨商店的「擴展包•2」中購買"]
+    },
+    "264035": {
+        "id": "264035",
+        "name": "姬子",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/264035.png",
+        "come_from": ["完成任務「孤狼之血」"]
+    },
     "264101": {
         "id": "264101",
         "name": "",
@@ -29436,7 +30041,7 @@
         "type": "Material",
         "sub_type": "DiceCombatDice",
         "rarity": 3,
-        "icon": "icon/item/264405.png",
+        "icon": "icon/item/264428.png",
         "come_from": ["在銀河戰力黨商店的「擴展包•1」中購買"]
     },
     "264406": {
@@ -29574,6 +30179,60 @@
         "icon": "icon/item/264422.png",
         "come_from": ["在銀河戰力黨商店的「擴展包•1」中購買"]
     },
+    "264423": {
+        "id": "264423",
+        "name": "「真•毒液」",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264423.png",
+        "come_from": ["在銀河戰力黨商店的「擴展包•2」中購買"]
+    },
+    "264424": {
+        "id": "264424",
+        "name": "「真•蓄力」",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264426.png",
+        "come_from": ["在銀河戰力黨商店的「擴展包•2」中購買"]
+    },
+    "264425": {
+        "id": "264425",
+        "name": "「真•幸運」",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264425.png",
+        "come_from": ["在銀河戰力黨商店的「擴展包•2」中購買"]
+    },
+    "264426": {
+        "id": "264426",
+        "name": "「真•猛攻」",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264424.png",
+        "come_from": ["在銀河戰力黨商店的「擴展包•2」中購買"]
+    },
+    "264427": {
+        "id": "264427",
+        "name": "「真•固守」",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264427.png",
+        "come_from": ["在銀河戰力黨商店的「擴展包•2」中購買"]
+    },
+    "264428": {
+        "id": "264428",
+        "name": "「真•忍耐」",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264428.png",
+        "come_from": ["在銀河戰力黨商店的「擴展包•2」中購買"]
+    },
     "264502": {
         "id": "264502",
         "name": "",
@@ -29607,7 +30266,7 @@
         "type": "Material",
         "sub_type": "DiceCombatDice",
         "rarity": 3,
-        "icon": "icon/item/264405.png",
+        "icon": "icon/item/264428.png",
         "come_from": []
     },
     "264506": {
@@ -29745,6 +30404,24 @@
         "icon": "icon/item/264422.png",
         "come_from": []
     },
+    "264523": {
+        "id": "264523",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264426.png",
+        "come_from": []
+    },
+    "264524": {
+        "id": "264524",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264423.png",
+        "come_from": []
+    },
     "264996": {
         "id": "264996",
         "name": "戰力幣",
@@ -29770,7 +30447,7 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/264998.png",
-        "come_from": ["參與「擲骰吧！戰力黨！」活動獲得", "在二相樂園探索時，與牌手們對局後獲得"]
+        "come_from": ["參與「擲骰吧！戰力黨！」活動獲得", "在二相樂園探索時，與牌手們對局後獲得", "參與「繼續擲骰！戰力黨！」活動獲得"]
     },
     "264999": {
         "id": "264999",
@@ -29779,7 +30456,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/264999.png",
-        "come_from": ["參與「擲骰吧！戰力黨！」活動獲得", "在二相樂園探索時，與牌手們對局後獲得"]
+        "come_from": ["參與「擲骰吧！戰力黨！」活動獲得", "在二相樂園探索時，與牌手們對局後獲得", "參與「繼續擲骰！戰力黨！」活動獲得"]
     },
     "265001": {
         "id": "265001",
@@ -30213,6 +30890,51 @@
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
     },
+    "266001": {
+        "id": "266001",
+        "name": "金幣",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266001.png",
+        "come_from": []
+    },
+    "266002": {
+        "id": "266002",
+        "name": "天賦點",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266002.png",
+        "come_from": []
+    },
+    "266003": {
+        "id": "266003",
+        "name": "驚喜寶箱",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266003.png",
+        "come_from": []
+    },
+    "266004": {
+        "id": "266004",
+        "name": "",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/300103.png",
+        "come_from": []
+    },
+    "266005": {
+        "id": "266005",
+        "name": "鑽石",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266005.png",
+        "come_from": []
+    },
     "267001": {
         "id": "267001",
         "name": "",
@@ -30221,6 +30943,15 @@
         "rarity": 4,
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
+    },
+    "269001": {
+        "id": "269001",
+        "name": "繪彩戰力幣",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/269001.png",
+        "come_from": ["參與「繼續擲骰！戰力黨！」活動獲得"]
     },
     "270000": {
         "id": "270000",
@@ -31039,6 +31770,15 @@
         "sub_type": "Gift",
         "rarity": 5,
         "icon": "icon/item/310013.png",
+        "come_from": []
+    },
+    "310014": {
+        "id": "310014",
+        "name": "「銀河速通」禮盒",
+        "type": "Usable",
+        "sub_type": "Gift",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
     },
     "311000": {

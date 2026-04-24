@@ -907,6 +907,8 @@
     },
     "218": { "id": "218", "name": "", "icon": "icon/avatar/1504.png" },
     "219": { "id": "219", "name": "", "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png" },
+    "220": { "id": "220", "name": "", "icon": "icon/avatar/1006.png" },
+    "221": { "id": "221", "name": "", "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png" },
     "1000": {
         "id": "1000",
         "name": "Pom-Pom",
@@ -991,6 +993,8 @@
     "1501": { "id": "1501", "name": "Sparxie", "icon": "icon/avatar/1501.png" },
     "1502": { "id": "1502", "name": "Yao Guang", "icon": "icon/avatar/1502.png" },
     "1504": { "id": "1504", "name": "", "icon": "icon/avatar/1504.png" },
+    "1505": { "id": "1505", "name": "", "icon": "icon/avatar/1505.png" },
+    "1506": { "id": "1506", "name": "", "icon": "icon/avatar/1506.png" },
     "200001": {
         "id": "200001",
         "name": "-",
@@ -1321,6 +1325,18 @@
         "rarity": 5,
         "icon": "icon/avatar/IconHead_200154.png"
     },
+    "200155": {
+        "id": "200155",
+        "name": "",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_200155.png"
+    },
+    "200156": {
+        "id": "200156",
+        "name": "",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_200156.png"
+    },
     "201001": { "id": "201001", "name": "March 7th: อนุรักษ์", "icon": "icon/avatar/1001.png" },
     "201002": { "id": "201002", "name": "Dan Heng", "icon": "icon/avatar/1002.png" },
     "201003": { "id": "201003", "name": "Himeko", "icon": "icon/avatar/1003.png" },
@@ -1408,6 +1424,8 @@
     "201501": { "id": "201501", "name": "Sparxie", "icon": "icon/avatar/1501.png" },
     "201502": { "id": "201502", "name": "Yao Guang", "icon": "icon/avatar/1502.png" },
     "201504": { "id": "201504", "name": "", "icon": "icon/avatar/1504.png" },
+    "201505": { "id": "201505", "name": "", "icon": "icon/avatar/1505.png" },
+    "201506": { "id": "201506", "name": "", "icon": "icon/avatar/1506.png" },
     "202001": {
         "id": "202001",
         "name": "Wubbaboo",
@@ -1678,6 +1696,24 @@
         "rarity": 4,
         "icon": "icon/avatar/IconHead_202049.png"
     },
+    "202050": {
+        "id": "202050",
+        "name": "",
+        "rarity": 4,
+        "icon": "icon/avatar/IconHead_202050.png"
+    },
+    "202051": {
+        "id": "202051",
+        "name": "",
+        "rarity": 4,
+        "icon": "icon/avatar/IconHead_202051.png"
+    },
+    "202060": {
+        "id": "202060",
+        "name": "",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_202060.png"
+    },
     "208001": { "id": "208001", "name": "{NICKNAME}: ทำลายล้าง", "icon": "icon/avatar/8001.png" },
     "208002": { "id": "208002", "name": "{NICKNAME}: ทำลายล้าง", "icon": "icon/avatar/8002.png" },
     "208003": { "id": "208003", "name": "{NICKNAME}: อนุรักษ์", "icon": "icon/avatar/8003.png" },
@@ -1685,5 +1721,7 @@
     "208005": { "id": "208005", "name": "{NICKNAME} - ประสาน", "icon": "icon/avatar/8005.png" },
     "208006": { "id": "208006", "name": "{NICKNAME} - ประสาน", "icon": "icon/avatar/8006.png" },
     "208007": { "id": "208007", "name": "{NICKNAME}: ความทรงจำ", "icon": "icon/avatar/8007.png" },
-    "208008": { "id": "208008", "name": "{NICKNAME}: ความทรงจำ", "icon": "icon/avatar/8008.png" }
+    "208008": { "id": "208008", "name": "{NICKNAME}: ความทรงจำ", "icon": "icon/avatar/8008.png" },
+    "208009": { "id": "208009", "name": "", "icon": "icon/avatar/8009.png" },
+    "208010": { "id": "208010", "name": "", "icon": "icon/avatar/8010.png" }
 }

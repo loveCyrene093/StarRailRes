@@ -792,6 +792,78 @@
         "level_up_skills": [],
         "icon": "icon/skill/1015_rank6.png"
     },
+    "1100401": {
+        "id": "1100401",
+        "name": "",
+        "rank": 1,
+        "desc": "",
+        "materials": [
+            { "id": "11004", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1100_rank1.png"
+    },
+    "1100402": {
+        "id": "1100402",
+        "name": "",
+        "rank": 2,
+        "desc": "",
+        "materials": [
+            { "id": "11004", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1100_rank2.png"
+    },
+    "1100403": {
+        "id": "1100403",
+        "name": "",
+        "rank": 3,
+        "desc": "",
+        "materials": [
+            { "id": "11004", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "1100402", "num": 2 },
+            { "id": "1100401", "num": 1 }
+        ],
+        "icon": "icon/skill/1100_skill.png"
+    },
+    "1100404": {
+        "id": "1100404",
+        "name": "",
+        "rank": 4,
+        "desc": "",
+        "materials": [
+            { "id": "11004", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1100_rank4.png"
+    },
+    "1100405": {
+        "id": "1100405",
+        "name": "",
+        "rank": 5,
+        "desc": "",
+        "materials": [
+            { "id": "11004", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "1100403", "num": 2 },
+            { "id": "1100404", "num": 2 }
+        ],
+        "icon": "icon/skill/1100_ultimate.png"
+    },
+    "1100406": {
+        "id": "1100406",
+        "name": "",
+        "rank": 6,
+        "desc": "",
+        "materials": [
+            { "id": "11004", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1100_rank6.png"
+    },
     "1100501": {
         "id": "1100501",
         "name": "Da Capo",
@@ -1657,6 +1729,78 @@
         "level_up_skills": [],
         "icon": "icon/skill/1110_rank6.png"
     },
+    "1110201": {
+        "id": "1110201",
+        "name": "",
+        "rank": 1,
+        "desc": "",
+        "materials": [
+            { "id": "11102", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1110_rank1.png"
+    },
+    "1110202": {
+        "id": "1110202",
+        "name": "",
+        "rank": 2,
+        "desc": "",
+        "materials": [
+            { "id": "11102", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1110_rank2.png"
+    },
+    "1110203": {
+        "id": "1110203",
+        "name": "",
+        "rank": 3,
+        "desc": "",
+        "materials": [
+            { "id": "11102", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "1110202", "num": 2 },
+            { "id": "1110204", "num": 2 }
+        ],
+        "icon": "icon/skill/1110_skill.png"
+    },
+    "1110204": {
+        "id": "1110204",
+        "name": "",
+        "rank": 4,
+        "desc": "",
+        "materials": [
+            { "id": "11102", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1110_rank4.png"
+    },
+    "1110205": {
+        "id": "1110205",
+        "name": "",
+        "rank": 5,
+        "desc": "",
+        "materials": [
+            { "id": "11102", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "1110203", "num": 2 },
+            { "id": "1110201", "num": 1 }
+        ],
+        "icon": "icon/skill/1110_ultimate.png"
+    },
+    "1110206": {
+        "id": "1110206",
+        "name": "",
+        "rank": 6,
+        "desc": "",
+        "materials": [
+            { "id": "11102", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1110_rank6.png"
+    },
     "111101": {
         "id": "111101",
         "name": "Непрерывный бой",
@@ -1948,6 +2092,78 @@
         "level_up_skills": [],
         "icon": "icon/skill/1121_rank6.png"
     },
+    "1121701": {
+        "id": "1121701",
+        "name": "",
+        "rank": 1,
+        "desc": "",
+        "materials": [
+            { "id": "11217", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1121_rank1.png"
+    },
+    "1121702": {
+        "id": "1121702",
+        "name": "",
+        "rank": 2,
+        "desc": "",
+        "materials": [
+            { "id": "11217", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1121_rank2.png"
+    },
+    "1121703": {
+        "id": "1121703",
+        "name": "",
+        "rank": 3,
+        "desc": "",
+        "materials": [
+            { "id": "11217", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "1121703", "num": 2 },
+            { "id": "1121704", "num": 2 }
+        ],
+        "icon": "icon/skill/1121_ultimate.png"
+    },
+    "1121704": {
+        "id": "1121704",
+        "name": "",
+        "rank": 4,
+        "desc": "",
+        "materials": [
+            { "id": "11217", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1121_rank4.png"
+    },
+    "1121705": {
+        "id": "1121705",
+        "name": "",
+        "rank": 5,
+        "desc": "",
+        "materials": [
+            { "id": "11217", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "1121702", "num": 2 },
+            { "id": "1121701", "num": 1 }
+        ],
+        "icon": "icon/skill/1121_skill.png"
+    },
+    "1121706": {
+        "id": "1121706",
+        "name": "",
+        "rank": 6,
+        "desc": "",
+        "materials": [
+            { "id": "11217", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1121_rank6.png"
+    },
     "1130601": {
         "id": "1130601",
         "name": "Витающее недоверие",
@@ -2091,6 +2307,80 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1130_rank6.png"
+    },
+    "1131001": {
+        "id": "1131001",
+        "name": "",
+        "rank": 1,
+        "desc": "",
+        "materials": [
+            { "id": "11310", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1131_rank1.png"
+    },
+    "1131002": {
+        "id": "1131002",
+        "name": "",
+        "rank": 2,
+        "desc": "",
+        "materials": [
+            { "id": "11310", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1131_rank2.png"
+    },
+    "1131003": {
+        "id": "1131003",
+        "name": "",
+        "rank": 3,
+        "desc": "",
+        "materials": [
+            { "id": "11310", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "1131002", "num": 2 },
+            { "id": "1131001", "num": 1 },
+            { "id": "1131009", "num": 2 },
+            { "id": "1131008", "num": 1 }
+        ],
+        "icon": "icon/skill/1131_skill.png"
+    },
+    "1131004": {
+        "id": "1131004",
+        "name": "",
+        "rank": 4,
+        "desc": "",
+        "materials": [
+            { "id": "11310", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1131_rank4.png"
+    },
+    "1131005": {
+        "id": "1131005",
+        "name": "",
+        "rank": 5,
+        "desc": "",
+        "materials": [
+            { "id": "11310", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "1131003", "num": 2 },
+            { "id": "1131004", "num": 2 }
+        ],
+        "icon": "icon/skill/1131_ultimate.png"
+    },
+    "1131006": {
+        "id": "1131006",
+        "name": "",
+        "rank": 6,
+        "desc": "",
+        "materials": [
+            { "id": "11310", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1131_rank6.png"
     },
     "120101": {
         "id": "120101",
@@ -6204,6 +6494,160 @@
         "level_up_skills": [],
         "icon": "icon/skill/1504_rank6.png"
     },
+    "150501": {
+        "id": "150501",
+        "name": "",
+        "rank": 1,
+        "desc": "",
+        "materials": [
+            { "id": "11505", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1505_rank1.png"
+    },
+    "150502": {
+        "id": "150502",
+        "name": "",
+        "rank": 2,
+        "desc": "",
+        "materials": [
+            { "id": "11505", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1505_rank2.png"
+    },
+    "150503": {
+        "id": "150503",
+        "name": "",
+        "rank": 3,
+        "desc": "",
+        "materials": [
+            { "id": "11505", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150503", "num": 2 },
+            { "id": "150501", "num": 1 },
+            { "id": "150520", "num": 1 }
+        ],
+        "icon": "icon/skill/1505_ultimate.png"
+    },
+    "150504": {
+        "id": "150504",
+        "name": "",
+        "rank": 4,
+        "desc": "",
+        "materials": [
+            { "id": "11505", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1505_rank4.png"
+    },
+    "150505": {
+        "id": "150505",
+        "name": "",
+        "rank": 5,
+        "desc": "",
+        "materials": [
+            { "id": "11505", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150502", "num": 2 },
+            { "id": "150504", "num": 2 },
+            { "id": "150520", "num": 1 }
+        ],
+        "icon": "icon/skill/1505_skill.png"
+    },
+    "150506": {
+        "id": "150506",
+        "name": "",
+        "rank": 6,
+        "desc": "",
+        "materials": [
+            { "id": "11505", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1505_rank6.png"
+    },
+    "150601": {
+        "id": "150601",
+        "name": "",
+        "rank": 1,
+        "desc": "",
+        "materials": [
+            { "id": "11506", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1506_rank1.png"
+    },
+    "150602": {
+        "id": "150602",
+        "name": "",
+        "rank": 2,
+        "desc": "",
+        "materials": [
+            { "id": "11506", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1506_rank2.png"
+    },
+    "150603": {
+        "id": "150603",
+        "name": "",
+        "rank": 3,
+        "desc": "",
+        "materials": [
+            { "id": "11506", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150602", "num": 2 },
+            { "id": "150601", "num": 1 },
+            { "id": "150620", "num": 1 },
+            { "id": "150608", "num": 1 },
+            { "id": "150610", "num": 1 },
+            { "id": "150612", "num": 1 },
+            { "id": "150618", "num": 1 },
+            { "id": "150621", "num": 1 }
+        ],
+        "icon": "icon/skill/1506_skill.png"
+    },
+    "150604": {
+        "id": "150604",
+        "name": "",
+        "rank": 4,
+        "desc": "",
+        "materials": [
+            { "id": "11506", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1506_rank4.png"
+    },
+    "150605": {
+        "id": "150605",
+        "name": "",
+        "rank": 5,
+        "desc": "",
+        "materials": [
+            { "id": "11506", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150603", "num": 2 },
+            { "id": "150604", "num": 2 },
+            { "id": "150620", "num": 1 },
+            { "id": "150621", "num": 1 }
+        ],
+        "icon": "icon/skill/1506_ultimate.png"
+    },
+    "150606": {
+        "id": "150606",
+        "name": "",
+        "rank": 6,
+        "desc": "",
+        "materials": [
+            { "id": "11506", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1506_rank6.png"
+    },
     "800101": {
         "id": "800101",
         "name": "Падающая звезда",
@@ -6799,5 +7243,153 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/8008_rank6.png"
+    },
+    "800901": {
+        "id": "800901",
+        "name": "",
+        "rank": 1,
+        "desc": "",
+        "materials": [
+            { "id": "18009", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8009_rank1.png"
+    },
+    "800902": {
+        "id": "800902",
+        "name": "",
+        "rank": 2,
+        "desc": "",
+        "materials": [
+            { "id": "18009", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8009_rank2.png"
+    },
+    "800903": {
+        "id": "800903",
+        "name": "",
+        "rank": 3,
+        "desc": "",
+        "materials": [
+            { "id": "18009", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "800902", "num": 2 },
+            { "id": "800904", "num": 2 },
+            { "id": "800920", "num": 1 }
+        ],
+        "icon": "icon/skill/8009_skill.png"
+    },
+    "800904": {
+        "id": "800904",
+        "name": "",
+        "rank": 4,
+        "desc": "",
+        "materials": [
+            { "id": "18009", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8009_rank4.png"
+    },
+    "800905": {
+        "id": "800905",
+        "name": "",
+        "rank": 5,
+        "desc": "",
+        "materials": [
+            { "id": "18009", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "800903", "num": 2 },
+            { "id": "800901", "num": 1 },
+            { "id": "800920", "num": 1 }
+        ],
+        "icon": "icon/skill/8009_ultimate.png"
+    },
+    "800906": {
+        "id": "800906",
+        "name": "",
+        "rank": 6,
+        "desc": "",
+        "materials": [
+            { "id": "18009", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8009_rank6.png"
+    },
+    "801001": {
+        "id": "801001",
+        "name": "",
+        "rank": 1,
+        "desc": "",
+        "materials": [
+            { "id": "18009", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8010_rank1.png"
+    },
+    "801002": {
+        "id": "801002",
+        "name": "",
+        "rank": 2,
+        "desc": "",
+        "materials": [
+            { "id": "18009", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8010_rank2.png"
+    },
+    "801003": {
+        "id": "801003",
+        "name": "",
+        "rank": 3,
+        "desc": "",
+        "materials": [
+            { "id": "18009", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "801002", "num": 2 },
+            { "id": "801004", "num": 2 },
+            { "id": "801020", "num": 1 }
+        ],
+        "icon": "icon/skill/8010_skill.png"
+    },
+    "801004": {
+        "id": "801004",
+        "name": "",
+        "rank": 4,
+        "desc": "",
+        "materials": [
+            { "id": "18009", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8010_rank4.png"
+    },
+    "801005": {
+        "id": "801005",
+        "name": "",
+        "rank": 5,
+        "desc": "",
+        "materials": [
+            { "id": "18009", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "801003", "num": 2 },
+            { "id": "801001", "num": 1 },
+            { "id": "801020", "num": 1 }
+        ],
+        "icon": "icon/skill/8010_ultimate.png"
+    },
+    "801006": {
+        "id": "801006",
+        "name": "",
+        "rank": 6,
+        "desc": "",
+        "materials": [
+            { "id": "18009", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8010_rank6.png"
     }
 }

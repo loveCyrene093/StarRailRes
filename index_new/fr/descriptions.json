@@ -259,11 +259,6 @@
         "title": "L'Alliance Xianzhou",
         "desc": "Une ancienne union composée de plusieurs peuples doués d'intelligence.\nIls dirigent Xianzhou dans le but d'éliminer les Abominations de l'Abondance."
     },
-    "10053": {
-        "id": "10053",
-        "title": "Chasseurs de Stellaron",
-        "desc": "Une organisation qui voyage entre les mondes pour chasser les Stellarons.\nPersonne ne sait quel Aiôn leur a conféré leur pouvoir."
-    },
     "10054": {
         "id": "10054",
         "title": "Peuples de l'Abondance",
@@ -1609,6 +1604,26 @@
         "title": "Perluxe Corp",
         "desc": "Groupe de divertissement interstellaire dont Perle a donné le nom. Ses principales activités comprennent la production et la vente de Mécanoïdes.\nLa Tour Perluxe, imposant siège social, est un sanctuaire convoité par d'innombrables aspirants."
     },
+    "10426": {
+        "id": "10426",
+        "title": "Exosouhait",
+        "desc": "Présidente de la Société de recherche des sourires heureux et directrice de la chaîne de télévision Exosouhait TV. C'est une orpheline des Jeux Sanglants.\nCherchant à se venger de l'Allégresse de Planarcadia, elle s'est transformée en sa propre ennemie et a prononcé un jugement contre l'Arcadia sous la forme du Héraut de la mort."
+    },
+    "10427": {
+        "id": "10427",
+        "title": "Société de recherche des sourires heureux",
+        "desc": "Initialement créée pour aider les victimes du Héraut de la mort, cette société est devenue une organisation caritative d'envergure.\nÀ travers des méthodes de guérison telles que la chirurgie du bonheur et d'autres méthodes, ils transforment les citoyens en bêtes sans esprit qui ne connaissent que le goût du bonheur suprême."
+    },
+    "10428": {
+        "id": "10428",
+        "title": "Héraut de la mort",
+        "desc": "Le coupable derrière les Jeux Sanglants, un monstre qui se délecte du carnage.\nMaintenant exploité par Exosouhait, il incarne la peur et est utilisé pour manipuler l'opinion publique à Planarcadia."
+    },
+    "10429": {
+        "id": "10429",
+        "title": "Chasseurs de Stellaron",
+        "desc": "Une organisation qui voyage entre les mondes à la poursuite des Stellarons.\nDans un but précis, elle navigue à contre-courant sur la Voie de la Finalité."
+    },
     "20000": {
         "id": "20000",
         "title": "Adoption du point de vue {M#du pionnier}{F#de la pionnière}...",
@@ -1963,5 +1978,25 @@
         "id": "20099",
         "title": "Adoption du point de vue d'Ashveil...",
         "desc": "En traquant le criminel, Ashveil décide de s'arrêter sur un pont alors que les souvenirs du passé refont surface..."
+    },
+    "20102": {
+        "id": "20102",
+        "title": "Adoption du point de vue d'Evanescia...",
+        "desc": "Pendant que {NICKNAME} poursuit l'enquête à l'école, Evanescia et Yao Guang arrivent à Merchamps..."
+    },
+    "20103": {
+        "id": "20103",
+        "title": "Adoption du point de vue de Sparxie...",
+        "desc": "Pendant ce temps, Sparxie est à la taverne, en train de bavarder et de s'amuser..."
+    },
+    "20104": {
+        "id": "20104",
+        "title": "Adoption du point de vue d'Evanescia...",
+        "desc": "Evanescia saisit sa règlame, prête à accomplir l'objectif qu'elle s'était fixé..."
+    },
+    "20105": {
+        "id": "20105",
+        "title": "Adoption du point de vue de Louve d'argent...",
+        "desc": "Pendant ce temps, dans le studio de Perle, Louve d'argent prépare son prochain coup..."
     }
 }

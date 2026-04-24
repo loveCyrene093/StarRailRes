@@ -474,7 +474,11 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/281.png",
-        "come_from": ["성혼이 최대치인 ★5 캐릭터 2회 중복 획득 시 교환 가능", "성혼이 최대치인 ★5 캐릭터 2회 중복 획득 시 교환 가능"]
+        "come_from": [
+            "성혼이 최대치인 ★5 캐릭터 2회 중복 획득 시 교환 가능",
+            "성혼이 최대치인 ★5 캐릭터 2회 중복 획득 시 교환 가능",
+            "별들의 동행자"
+        ]
     },
     "282": {
         "id": "282",
@@ -501,7 +505,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/291.png",
-        "come_from": ["「너굴 통신」 혜택 레벨 보상으로 획득", "개척 임무 보상"]
+        "come_from": []
     },
     "503": {
         "id": "503",
@@ -546,6 +550,15 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/803.png",
+        "come_from": []
+    },
+    "804": {
+        "id": "804",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/804.png",
         "come_from": []
     },
     "821": {
@@ -1268,6 +1281,24 @@
         "icon": "icon/item/11003.png",
         "come_from": []
     },
+    "11505": {
+        "id": "11505",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11506": {
+        "id": "11506",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
     "18001": {
         "id": "18001",
         "name": "「파멸」의 그림자",
@@ -1338,6 +1369,24 @@
         "sub_type": "Eidolon",
         "rarity": 5,
         "icon": "icon/item/18007.png",
+        "come_from": []
+    },
+    "18009": {
+        "id": "18009",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/18009.png",
+        "come_from": []
+    },
+    "18010": {
+        "id": "18010",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/18009.png",
         "come_from": []
     },
     "71000": {
@@ -2490,7 +2539,7 @@
         "sub_type": "RelicSetShowOnly",
         "rarity": 5,
         "icon": "icon/item/71048.png",
-        "come_from": ["침식된 터널 [{TextID#FloorName_20462001}]", "「만능 합성기」- 유물 합성"]
+        "come_from": ["침식된 터널 [「세상 매트릭스」 이름 없는 티탄의 거대 무덤]", "「만능 합성기」- 유물 합성"]
     },
     "81281": {
         "id": "81281",
@@ -2526,7 +2575,7 @@
         "sub_type": "RelicSetShowOnly",
         "rarity": 5,
         "icon": "icon/item/71049.png",
-        "come_from": ["침식된 터널 [{TextID#FloorName_20462001}]", "「만능 합성기」- 유물 합성"]
+        "come_from": ["침식된 터널 [「세상 매트릭스」 이름 없는 티탄의 거대 무덤]", "「만능 합성기」- 유물 합성"]
     },
     "81291": {
         "id": "81291",
@@ -2562,7 +2611,7 @@
         "sub_type": "RelicSetShowOnly",
         "rarity": 5,
         "icon": "icon/item/71052.png",
-        "come_from": ["침식된 터널 [{TextID#FloorName_20501001}]", "「만능 합성기」- 유물 합성"]
+        "come_from": ["침식된 터널 [그래피아 아카데미]", "「만능 합성기」- 유물 합성"]
     },
     "81301": {
         "id": "81301",
@@ -2598,7 +2647,7 @@
         "sub_type": "RelicSetShowOnly",
         "rarity": 5,
         "icon": "icon/item/71053.png",
-        "come_from": ["침식된 터널 [{TextID#FloorName_20501001}]", "「만능 합성기」- 유물 합성"]
+        "come_from": ["침식된 터널 [그래피아 아카데미]", "「만능 합성기」- 유물 합성"]
     },
     "83011": {
         "id": "83011",
@@ -4002,12 +4051,7 @@
         "sub_type": "TracePath",
         "rarity": 2,
         "icon": "icon/item/110261.png",
-        "come_from": [
-            "「만능 합성기」- 등량 치환",
-            "모조 꽃받침 [{TextID#FloorName_20502001}]",
-            "잔화 교환",
-            "「만능 합성기」- 재료 치환"
-        ]
+        "come_from": ["모조 꽃받침 [「세상 끝」 술집]", "잔화 교환", "「만능 합성기」- 재료 치환"]
     },
     "110262": {
         "id": "110262",
@@ -4016,13 +4060,7 @@
         "sub_type": "TracePath",
         "rarity": 3,
         "icon": "icon/item/110262.png",
-        "come_from": [
-            "「만능 합성기」- 등량 치환",
-            "모조 꽃받침 [{TextID#FloorName_20502001}]",
-            "「만능 합성기」- 재료 합성",
-            "잔화 교환",
-            "「만능 합성기」- 재료 치환"
-        ]
+        "come_from": ["모조 꽃받침 [「세상 끝」 술집]", "「만능 합성기」- 재료 합성", "잔화 교환", "「만능 합성기」- 재료 치환"]
     },
     "110263": {
         "id": "110263",
@@ -4031,12 +4069,7 @@
         "sub_type": "TracePath",
         "rarity": 4,
         "icon": "icon/item/110263.png",
-        "come_from": [
-            "「만능 합성기」- 등량 치환",
-            "모조 꽃받침 [{TextID#FloorName_20502001}]",
-            "「만능 합성기」- 재료 합성",
-            "「만능 합성기」- 재료 치환"
-        ]
+        "come_from": ["모조 꽃받침 [「세상 끝」 술집]", "「만능 합성기」- 재료 합성", "「만능 합성기」- 재료 치환"]
     },
     "110271": {
         "id": "110271",
@@ -4045,7 +4078,7 @@
         "sub_type": "TracePath",
         "rarity": 2,
         "icon": "icon/item/110271.png",
-        "come_from": ["모조 꽃받침 [{TextID#FloorName_20481001}]", "잔화 교환", "「만능 합성기」- 재료 치환"]
+        "come_from": ["모조 꽃받침 [「기억이 묻힌 저편」 시간의 귀허]", "잔화 교환", "「만능 합성기」- 재료 치환"]
     },
     "110272": {
         "id": "110272",
@@ -4054,12 +4087,7 @@
         "sub_type": "TracePath",
         "rarity": 3,
         "icon": "icon/item/110272.png",
-        "come_from": [
-            "모조 꽃받침 [{TextID#FloorName_20481001}]",
-            "「만능 합성기」- 재료 합성",
-            "잔화 교환",
-            "「만능 합성기」- 재료 치환"
-        ]
+        "come_from": ["모조 꽃받침 [「기억이 묻힌 저편」 시간의 귀허]", "「만능 합성기」- 재료 합성", "잔화 교환", "「만능 합성기」- 재료 치환"]
     },
     "110273": {
         "id": "110273",
@@ -4068,7 +4096,34 @@
         "sub_type": "TracePath",
         "rarity": 4,
         "icon": "icon/item/110273.png",
-        "come_from": ["모조 꽃받침 [{TextID#FloorName_20481001}]", "「만능 합성기」- 재료 합성", "「만능 합성기」- 재료 치환"]
+        "come_from": ["모조 꽃받침 [「기억이 묻힌 저편」 시간의 귀허]", "「만능 합성기」- 재료 합성", "「만능 합성기」- 재료 치환"]
+    },
+    "110311": {
+        "id": "110311",
+        "name": "",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 2,
+        "icon": "icon/item/110311.png",
+        "come_from": []
+    },
+    "110312": {
+        "id": "110312",
+        "name": "",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 3,
+        "icon": "icon/item/110312.png",
+        "come_from": []
+    },
+    "110313": {
+        "id": "110313",
+        "name": "",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 4,
+        "icon": "icon/item/110313.png",
+        "come_from": []
     },
     "110400": {
         "id": "110400",
@@ -4284,7 +4339,7 @@
         "sub_type": "AvatarRank",
         "rarity": 4,
         "icon": "icon/item/110432.png",
-        "come_from": ["정체된 허영 [{TextID#FloorName_20422001}]", "「만능 합성기」- 재료 치환"]
+        "come_from": ["정체된 허영 [「신탁의 성지」 야누소폴리스]", "「만능 합성기」- 재료 치환"]
     },
     "110433": {
         "id": "110433",
@@ -4293,7 +4348,7 @@
         "sub_type": "AvatarRank",
         "rarity": 4,
         "icon": "icon/item/110433.png",
-        "come_from": ["정체된 허영 [{TextID#FloorName_20451001}]", "「만능 합성기」- 재료 치환"]
+        "come_from": ["정체된 허영 [「노래의 해안」 스틱시아]", "「만능 합성기」- 재료 치환"]
     },
     "110434": {
         "id": "110434",
@@ -4302,7 +4357,7 @@
         "sub_type": "AvatarRank",
         "rarity": 4,
         "icon": "icon/item/110434.png",
-        "come_from": ["정체된 허영 [{TextID#FloorName_20503001}]", "「만능 합성기」- 재료 치환"]
+        "come_from": ["정체된 허영 [도브브룩 구역]", "「만능 합성기」- 재료 치환"]
     },
     "110435": {
         "id": "110435",
@@ -4401,7 +4456,7 @@
         "sub_type": "WeeklyMonsterDrop",
         "rarity": 4,
         "icon": "icon/item/110508.png",
-        "come_from": ["전쟁의 여운 [{TextID#FloorName_20481001}]"]
+        "come_from": ["전쟁의 여운 [「기억이 묻힌 저편」 시간의 귀허]"]
     },
     "111000": {
         "id": "111000",
@@ -5061,6 +5116,15 @@
         "icon": "icon/item/121006.png",
         "come_from": []
     },
+    "121007": {
+        "id": "121007",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/121007.png",
+        "come_from": []
+    },
     "122000": {
         "id": "122000",
         "name": "에이딘 코인",
@@ -5086,6 +5150,15 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/123001.png",
+        "come_from": []
+    },
+    "123002": {
+        "id": "123002",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/123000.png",
         "come_from": []
     },
     "140000": {
@@ -9804,6 +9877,24 @@
         "icon": "icon/item/140609.png",
         "come_from": []
     },
+    "140610": {
+        "id": "140610",
+        "name": "",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140610.png",
+        "come_from": []
+    },
+    "140611": {
+        "id": "140611",
+        "name": "",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140611.png",
+        "come_from": []
+    },
     "149957": {
         "id": "149957",
         "name": "Mar. 7th와 함께 찍은 사진",
@@ -10945,6 +11036,15 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/150100.png",
+        "come_from": []
+    },
+    "150101": {
+        "id": "150101",
+        "name": "",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/150101.png",
         "come_from": []
     },
     "180001": {
@@ -20245,6 +20345,276 @@
         "icon": "icon/item/190022.png",
         "come_from": []
     },
+    "192061": {
+        "id": "192061",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192062": {
+        "id": "192062",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192063": {
+        "id": "192063",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192064": {
+        "id": "192064",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192065": {
+        "id": "192065",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192066": {
+        "id": "192066",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192067": {
+        "id": "192067",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192068": {
+        "id": "192068",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192069": {
+        "id": "192069",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192070": {
+        "id": "192070",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192071": {
+        "id": "192071",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192072": {
+        "id": "192072",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192073": {
+        "id": "192073",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192074": {
+        "id": "192074",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192075": {
+        "id": "192075",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192076": {
+        "id": "192076",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192077": {
+        "id": "192077",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192078": {
+        "id": "192078",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192079": {
+        "id": "192079",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192080": {
+        "id": "192080",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192081": {
+        "id": "192081",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192082": {
+        "id": "192082",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192083": {
+        "id": "192083",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192084": {
+        "id": "192084",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192085": {
+        "id": "192085",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192086": {
+        "id": "192086",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192087": {
+        "id": "192087",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192088": {
+        "id": "192088",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192089": {
+        "id": "192089",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192090": {
+        "id": "192090",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
     "210001": {
         "id": "210001",
         "name": "≪재난의 여명≫",
@@ -22153,6 +22523,78 @@
         "icon": "icon/item/210001.png",
         "come_from": []
     },
+    "210462": {
+        "id": "210462",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210463": {
+        "id": "210463",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210464": {
+        "id": "210464",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210465": {
+        "id": "210465",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210466": {
+        "id": "210466",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210467": {
+        "id": "210467",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210468": {
+        "id": "210468",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210469": {
+        "id": "210469",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
     "215001": {
         "id": "215001",
         "name": "≪주룩주룩≫",
@@ -22183,6 +22625,15 @@
     "215004": {
         "id": "215004",
         "name": "≪속삭임≫",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "215008": {
+        "id": "215008",
+        "name": "",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -24869,7 +25320,7 @@
         "sub_type": "PlayerOutfit",
         "rarity": 5,
         "icon": "icon/item/227007.png",
-        "come_from": ["「트렌디한 머리장식」 선물 상자"]
+        "come_from": []
     },
     "227008": {
         "id": "227008",
@@ -24879,6 +25330,42 @@
         "rarity": 4,
         "icon": "icon/item/227008.png",
         "come_from": ["「너굴 통신」 흥행 레벨 보상으로 획득 가능한 개척 코디"]
+    },
+    "227009": {
+        "id": "227009",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227009.png",
+        "come_from": []
+    },
+    "227010": {
+        "id": "227010",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 5,
+        "icon": "icon/item/227010.png",
+        "come_from": []
+    },
+    "227012": {
+        "id": "227012",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227012.png",
+        "come_from": []
+    },
+    "227013": {
+        "id": "227013",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 5,
+        "icon": "icon/item/227013.png",
+        "come_from": []
     },
     "229001": {
         "id": "229001",
@@ -27004,6 +27491,15 @@
         "icon": "icon/item/251003.png",
         "come_from": []
     },
+    "251004": {
+        "id": "251004",
+        "name": "",
+        "type": "Pet",
+        "sub_type": "NormalPet",
+        "rarity": 5,
+        "icon": "icon/item/251004.png",
+        "come_from": []
+    },
     "252000": {
         "id": "252000",
         "name": "장엄한 진홍색! 차장 제복",
@@ -27030,6 +27526,24 @@
         "rarity": 4,
         "icon": "icon/item/252002.png",
         "come_from": ["상점 「스타더스트의 선물」에서 획득"]
+    },
+    "252003": {
+        "id": "252003",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "PamSkin",
+        "rarity": 4,
+        "icon": "icon/item/252003.png",
+        "come_from": []
+    },
+    "252004": {
+        "id": "252004",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "PamSkin",
+        "rarity": 5,
+        "icon": "icon/item/252004.png",
+        "come_from": []
     },
     "252100": {
         "id": "252100",
@@ -28687,6 +29201,15 @@
         "icon": "icon/item/253003.png",
         "come_from": []
     },
+    "253004": {
+        "id": "253004",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "PersonalCard",
+        "rarity": 5,
+        "icon": "icon/item/253004.png",
+        "come_from": []
+    },
     "254000": {
         "id": "254000",
         "name": "{NICKNAME}의 자유 의지",
@@ -29380,6 +29903,96 @@
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": ["코스믹 포스 상점의 「확장 패키지•1」에서 구매"]
     },
+    "264026": {
+        "id": "264026",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "264027": {
+        "id": "264027",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "264028": {
+        "id": "264028",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "264029": {
+        "id": "264029",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "264030": {
+        "id": "264030",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "264031": {
+        "id": "264031",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "264032": {
+        "id": "264032",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "264033": {
+        "id": "264033",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "264034": {
+        "id": "264034",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "264035": {
+        "id": "264035",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/264035.png",
+        "come_from": []
+    },
     "264101": {
         "id": "264101",
         "name": "",
@@ -29449,7 +30062,7 @@
         "type": "Material",
         "sub_type": "DiceCombatDice",
         "rarity": 3,
-        "icon": "icon/item/264405.png",
+        "icon": "icon/item/264428.png",
         "come_from": ["코스믹 포스 상점의 「확장 패키지•1」에서 구매"]
     },
     "264406": {
@@ -29587,6 +30200,60 @@
         "icon": "icon/item/264422.png",
         "come_from": ["코스믹 포스 상점의 「확장 패키지•1」에서 구매"]
     },
+    "264423": {
+        "id": "264423",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264423.png",
+        "come_from": []
+    },
+    "264424": {
+        "id": "264424",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264426.png",
+        "come_from": []
+    },
+    "264425": {
+        "id": "264425",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264425.png",
+        "come_from": []
+    },
+    "264426": {
+        "id": "264426",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264424.png",
+        "come_from": []
+    },
+    "264427": {
+        "id": "264427",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264427.png",
+        "come_from": []
+    },
+    "264428": {
+        "id": "264428",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264428.png",
+        "come_from": []
+    },
     "264502": {
         "id": "264502",
         "name": "",
@@ -29620,7 +30287,7 @@
         "type": "Material",
         "sub_type": "DiceCombatDice",
         "rarity": 3,
-        "icon": "icon/item/264405.png",
+        "icon": "icon/item/264428.png",
         "come_from": []
     },
     "264506": {
@@ -29756,6 +30423,24 @@
         "sub_type": "DiceCombatDice",
         "rarity": 3,
         "icon": "icon/item/264422.png",
+        "come_from": []
+    },
+    "264523": {
+        "id": "264523",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264426.png",
+        "come_from": []
+    },
+    "264524": {
+        "id": "264524",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264423.png",
         "come_from": []
     },
     "264996": {
@@ -30226,6 +30911,51 @@
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
     },
+    "266001": {
+        "id": "266001",
+        "name": "",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266001.png",
+        "come_from": []
+    },
+    "266002": {
+        "id": "266002",
+        "name": "",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266002.png",
+        "come_from": []
+    },
+    "266003": {
+        "id": "266003",
+        "name": "",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266003.png",
+        "come_from": []
+    },
+    "266004": {
+        "id": "266004",
+        "name": "",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/300103.png",
+        "come_from": []
+    },
+    "266005": {
+        "id": "266005",
+        "name": "",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266005.png",
+        "come_from": []
+    },
     "267001": {
         "id": "267001",
         "name": "",
@@ -30233,6 +30963,15 @@
         "sub_type": "Material",
         "rarity": 4,
         "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": []
+    },
+    "269001": {
+        "id": "269001",
+        "name": "",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/269001.png",
         "come_from": []
     },
     "270000": {
@@ -31052,6 +31791,15 @@
         "sub_type": "Gift",
         "rarity": 5,
         "icon": "icon/item/310013.png",
+        "come_from": []
+    },
+    "310014": {
+        "id": "310014",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Gift",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
     },
     "311000": {

@@ -167,6 +167,14 @@
         "hide_desc": "",
         "hide": true
     },
+    "4015201": {
+        "id": "4015201",
+        "series_id": "1",
+        "title": "Entonces, que haya risas",
+        "desc": "Anda por la Vía de la Exultación.",
+        "hide_desc": "",
+        "hide": true
+    },
     "4020201": {
         "id": "4020201",
         "series_id": "2",
@@ -1557,6 +1565,62 @@
         "title": "Desvaríos de la fabuluna",
         "desc": "Ella lo dice, tú lo escuchas.",
         "hide_desc": "※Escucha la delirante declaración de la fabuluna.",
+        "hide": false
+    },
+    "4035201": {
+        "id": "4035201",
+        "series_id": "3",
+        "title": "Viaje rutinario",
+        "desc": "¿No hay ninguna forma especial de desplazarse?",
+        "hide_desc": "※Toma el tren para salvar el mundo.",
+        "hide": false
+    },
+    "4035202": {
+        "id": "4035202",
+        "series_id": "3",
+        "title": "Veredicto de la jueza",
+        "desc": "Un símbolo de identidad de la autoridad.",
+        "hide_desc": "※Evanescia recupera su espada regla.",
+        "hide": false
+    },
+    "4035203": {
+        "id": "4035203",
+        "series_id": "3",
+        "title": "Psiquiatría en la arcadia",
+        "desc": "A nadie le importa lo que piensas hasta que decides destruir el mundo.",
+        "hide_desc": "※Adéntrate en la grieta de la mente de Buendeseo.",
+        "hide": false
+    },
+    "4035204": {
+        "id": "4035204",
+        "series_id": "3",
+        "title": "Divertirse hasta morir",
+        "desc": "O ríes o mueres.",
+        "hide_desc": "※Presencia el estallido de la plaga fabularia de los Ascendentes del Gozo.",
+        "hide": false
+    },
+    "4035205": {
+        "id": "4035205",
+        "series_id": "3",
+        "title": "Ready Player One del cosmos",
+        "desc": "Es mejor morir a manos de un cretino que ser elogiado por él.",
+        "hide_desc": "※En realidad, nadie quiere morir a manos de un cretino.",
+        "hide": false
+    },
+    "4035206": {
+        "id": "4035206",
+        "series_id": "3",
+        "title": "La muerte del Anunciamuertes",
+        "desc": "Aquellos que proclaman la muerte, serán reclamados por ella.",
+        "hide_desc": "※Derrota al nuevo Anunciamuertes.",
+        "hide": false
+    },
+    "4035207": {
+        "id": "4035207",
+        "series_id": "3",
+        "title": "Susurros de primavera",
+        "desc": "Ella pasó flotando como una flor al viento.",
+        "hide_desc": "※Acepta el encargo de Evanescia.",
         "hide": false
     },
     "4040101": {
@@ -3827,7 +3891,7 @@
         "id": "4045038",
         "series_id": "4",
         "title": "Ping-pong",
-        "desc": "Cambia la gravedad repetidamente durante la \"hora de salto\" de Salto bidimensional en la estación Perdido para hacer que los eterae salten de un lado a otro.",
+        "desc": "Cambia la gravedad repetidamente en Salto bidimensional de la estación Perdido para hacer que los eterae salten de un lado a otro.",
         "hide_desc": "",
         "hide": true
     },
@@ -4078,6 +4142,142 @@
         "desc": "Toca una melodía extraña y encuentra a la misteriosa criatura oculta en la estación de Islanube Contemplativa.",
         "hide_desc": "",
         "hide": true
+    },
+    "4045201": {
+        "id": "4045201",
+        "series_id": "4",
+        "title": "Vacaciones de por vida",
+        "desc": "Consigue un total de 110 eterae anónimos de Conejo estelar.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045202": {
+        "id": "4045202",
+        "series_id": "4",
+        "title": "Bola de hierro de Galileo",
+        "desc": "Completa \"Hora del salto\" en lo alto de la estación de televisión y salta desde el último piso hasta la sala de entrevistas.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045203": {
+        "id": "4045203",
+        "series_id": "4",
+        "title": "El pianista de la torre",
+        "desc": "Consigue todas las notas musicales en \"Hora del salto\" en lo alto de la estación de televisión.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045204": {
+        "id": "4045204",
+        "series_id": "4",
+        "title": "Ni asesino ni credo",
+        "desc": "Llega a lo más alto de la torre de televisión de Manamar.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045205": {
+        "id": "4045205",
+        "series_id": "4",
+        "title": "Alma atada por la gravedad",
+        "desc": "En ¡Salto bidimensional!, toca las líneas de gravedad 10 veces consecutivas sin tocar el suelo.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045206": {
+        "id": "4045206",
+        "series_id": "4",
+        "title": "Maestr{F#a}{M#o} de los bolos",
+        "desc": "Lanza por los aires a un fabuespín o a un espíritu flotante con un ayudante robot en Salto bidimensional.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045207": {
+        "id": "4045207",
+        "series_id": "4",
+        "title": "Un brindis por tus ojos",
+        "desc": "Completa la etapa de preparación de bebidas en Salto bidimensional de la torre de televisión de Manamar.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045208": {
+        "id": "4045208",
+        "series_id": "4",
+        "title": "Al otro lado del mar, los vecinos",
+        "desc": "Llega a la zona residencial al otro lado del mar en ¡Salto bidimensional!",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045209": {
+        "id": "4045209",
+        "series_id": "4",
+        "title": "Canto de Orfeo",
+        "desc": "Toca una canción en ¡Salto bidimensional! para disipar la niebla de la pequeña isla misteriosa.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045210": {
+        "id": "4045210",
+        "series_id": "4",
+        "title": "Holgazanear es trabajar",
+        "desc": "Monta un ayudante robot y deslízate por el agua en Salto bidimensional.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045211": {
+        "id": "4045211",
+        "series_id": "4",
+        "title": "Peso insoportable",
+        "desc": "Pierde en Salto bidimensional tras ser aplastad{F#a}{M#o} por Guautuntún o Pipitún.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045212": {
+        "id": "4045212",
+        "series_id": "4",
+        "title": "Cazadores de la isla perdida",
+        "desc": "Alcanza antes que nadie la cima de la isla misteriosa en la carrera de sombras de Salto bidimensional en Manamar.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045213": {
+        "id": "4045213",
+        "series_id": "4",
+        "title": "Búmeran",
+        "desc": "Dispara una flecha en Salto bidimensional y date a ti mism{F#a}{M#o}.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045214": {
+        "id": "4045214",
+        "series_id": "4",
+        "title": "Máquina de conducción definitiva",
+        "desc": "Atraviesa los obstáculos con pinchos a bordo del pequeño ayudante en Salto bidimensional.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045215": {
+        "id": "4045215",
+        "series_id": "4",
+        "title": "¡Pequeño ayudante, evoluciona!",
+        "desc": "Desbloquea la habilidad exclusiva del ayudante robot en Salto bidimensional.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045216": {
+        "id": "4045216",
+        "series_id": "4",
+        "title": "Variaciones de la arcadia: Princesa pelota",
+        "desc": "Toca una melodía extraña y encuentra a la misteriosa criatura oculta en la torre de televisión de Manamar.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045217": {
+        "id": "4045217",
+        "series_id": "4",
+        "title": "Variaciones de la arcadia: La canción del carpincho",
+        "desc": "Toca la melodía extraña y encuentra a la misteriosa criatura oculta en Manamar.",
+        "hide_desc": "",
+        "hide": false
     },
     "4051001": {
         "id": "4051001",
@@ -7067,7 +7267,7 @@
         "id": "4053704",
         "series_id": "5",
         "title": "El baúl de los recuerdos",
-        "desc": "Observa todas las cosas que hay en tu habitación.",
+        "desc": "Coloca 5 recuerdos en la zona de figuras conmemorativas de la vitrina de exposición.",
         "hide_desc": "",
         "hide": true
     },
@@ -8931,7 +9131,7 @@
         "id": "4055001",
         "series_id": "5",
         "title": "Hora de las confidencias",
-        "desc": "Infíltrate en la sala de reuniones del CEO.",
+        "desc": "Infíltrate en la sala de reuniones de la CEO.",
         "hide_desc": "",
         "hide": true
     },
@@ -8964,7 +9164,7 @@
         "series_id": "5",
         "title": "¡Esto es de primera plana, pachi!",
         "desc": "Primer paso para convertirte en jef{F#a}{M#e} de una revista: ¡publicar muchos titulares!",
-        "hide_desc": "※Publica el primer número de «El Titular Arcadio».",
+        "hide_desc": "※Publica el primer número de los titulares de arcadia.",
         "hide": false
     },
     "4055006": {
@@ -9332,6 +9532,174 @@
         "series_id": "5",
         "title": "Enemigo en el cielo",
         "desc": "Supera el reto de la villana alienígena.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055201": {
+        "id": "4055201",
+        "series_id": "5",
+        "title": "No escapará sin su castigo",
+        "desc": "Entrega a la persona que asesinó a Skott a la Alianza Xianzhou.",
+        "hide_desc": "※Ojalá pueda acostumbrarse a la comida de la Prisión de los encadenados.",
+        "hide": true
+    },
+    "4055202": {
+        "id": "4055202",
+        "series_id": "5",
+        "title": "Principio de territorialidad",
+        "desc": "Entrega a la persona que asesinó a Skott al Departamento de Inversiones Estratégicas.",
+        "hide_desc": "※Como si nada hubiera pasado.",
+        "hide": true
+    },
+    "4055203": {
+        "id": "4055203",
+        "series_id": "5",
+        "title": "Rencillas del mundo marcial",
+        "desc": "Lleva ante la justicia a la persona que asesinó a Skott.",
+        "hide_desc": "※\"Si no tiene dignidad, habrá que echarle una mano para que la tenga\".",
+        "hide": true
+    },
+    "4055204": {
+        "id": "4055204",
+        "series_id": "5",
+        "title": "Recuerdos desconocidos",
+        "desc": "Completa la investigación del andén del tren acuático.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055205": {
+        "id": "4055205",
+        "series_id": "5",
+        "title": "El Departamento Antimemético no existe",
+        "desc": "Investiga la computadora del almacén de la cadena de televisión.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055206": {
+        "id": "4055206",
+        "series_id": "5",
+        "title": "¿Qué es un héroe?",
+        "desc": "Reencuéntrate con el Guerrero Cinéreo en la estación de televisión.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055207": {
+        "id": "4055207",
+        "series_id": "5",
+        "title": "La preparación de un actor",
+        "desc": "Completa el primer diálogo con la familia blubi.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055208": {
+        "id": "4055208",
+        "series_id": "5",
+        "title": "Así que el amor desaparece, ¿verdad?",
+        "desc": "Escucha las excusas que inventa un transeúnte para evitar ir a conocer a su futuro suegro.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055212": {
+        "id": "4055212",
+        "series_id": "5",
+        "title": "Sucesión osipachi",
+        "desc": "※El Semanario Pachi cuenta oficialmente con 9 reporteros osipachis fijos.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055213": {
+        "id": "4055213",
+        "series_id": "5",
+        "title": "Mi otr{F#a}{M#o} yo en el mundo",
+        "desc": "Encuéntrate con otros Trazacaminos en el vagón de fiestas multijugador.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055214": {
+        "id": "4055214",
+        "series_id": "5",
+        "title": "Club de conductores Trazacaminos",
+        "desc": "Visita el vagón de fiestas multijugador de otros 5 Trazacaminos.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055215": {
+        "id": "4055215",
+        "series_id": "5",
+        "title": "Miau, miau, Emanado{F#ra}{M#r} Trazacaminos",
+        "desc": "Obtén el regalo de Akimiauli.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055216": {
+        "id": "4055216",
+        "series_id": "5",
+        "title": "Cazado{F#ra}{M#r} de fiestas",
+        "desc": "Atrapa una creación en cada escondite del vagón de fiestas.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055217": {
+        "id": "4055217",
+        "series_id": "5",
+        "title": "La última cena",
+        "desc": "Coloca 13 creaciones iguales en la zona de colocación de creaciones.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055218": {
+        "id": "4055218",
+        "series_id": "5",
+        "title": "Naturalista",
+        "desc": "Reúne 27 creaciones en el registro de observación de creaciones.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055220": {
+        "id": "4055220",
+        "series_id": "5",
+        "title": "¡Dado de la suerte! ¡A ganar!",
+        "desc": "Acumula 6 dados iridiscentes del Paquete de expansión 2 en el modo de juego Fuerza Cósmica.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055221": {
+        "id": "4055221",
+        "series_id": "5",
+        "title": "Tu dado me extraña",
+        "desc": "Intercambia dados un total de 42 veces en ¡Fuerza Cósmica, a tirar de nuevo!",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055222": {
+        "id": "4055222",
+        "series_id": "5",
+        "title": "Dale a \"me gusta\", comenta y suscríbete",
+        "desc": "En ¡Fuerza Cósmica, a tirar de nuevo!, usa 3 cartas de tácticas de forma consecutiva en un turno.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055223": {
+        "id": "4055223",
+        "series_id": "5",
+        "title": "Daño tamaño XL",
+        "desc": "En ¡Fuerza Cósmica, a tirar de nuevo!, inflige 30 pts. de daño en un turno.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055224": {
+        "id": "4055224",
+        "series_id": "5",
+        "title": "Semanario Pachi a la carga",
+        "desc": "En ¡Fuerza Cósmica, a tirar de nuevo!, representa al Semanario Pachi y derrota a los cinco mejores de la clasificación de la calle comercial de Manamar: los Cinco Maestros de Manamar.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055225": {
+        "id": "4055225",
+        "series_id": "5",
+        "title": "El mejor dado del cosmos",
+        "desc": "Completa el duelo final contra Silver Wolf Niv. 999 en «¡Fuerza Cósmica, a tirar de nuevo!».",
         "hide_desc": "",
         "hide": false
     },
@@ -11911,6 +12279,14 @@
         "hide_desc": "",
         "hide": true
     },
+    "4075015": {
+        "id": "4075015",
+        "series_id": "7",
+        "title": "Humor a porrillo",
+        "desc": "Gana una batalla con un equipo que tenga 4 personajes de la Vía de la Exultación.",
+        "hide_desc": "",
+        "hide": true
+    },
     "4075101": {
         "id": "4075101",
         "series_id": "7",
@@ -11947,7 +12323,7 @@
         "id": "4075106",
         "series_id": "7",
         "title": "La suerte del principiante derrota al maestro",
-        "desc": "En el combate contra Mecatrón de Uso Civil NLS, haz que elimine a 1 enemigos.",
+        "desc": "En el combate contra Mecatrón de Uso Civil NLS, haz que elimine a 1 enemigo.",
         "hide_desc": "",
         "hide": false
     },
@@ -11964,6 +12340,86 @@
         "series_id": "7",
         "title": "Marcador de tendencias jabonosas",
         "desc": "En un solo combate contra Mecatrón de Aleación: Rey Pom-Pom, activa el efecto Reluciente de \"Jabón potente\" al menos 3 veces.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075201": {
+        "id": "4075201",
+        "series_id": "7",
+        "title": "Nada de caras largas",
+        "desc": "En una sola batalla, usa {F#a la}{M#al} Trazacaminos de la Vía de la Exultación para lanzar la habilidad definitiva una vez sobre 4 compañeros de equipo diferentes.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075202": {
+        "id": "4075202",
+        "series_id": "7",
+        "title": "Gracias por las donaciones",
+        "desc": "En una sola batalla, lanza la habilidad definitiva sobre Chispa un total de 5 veces con {F#la}{M#el} Trazacaminos de la Vía de la Exultación.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075203": {
+        "id": "4075203",
+        "series_id": "7",
+        "title": "El top 500 de micromecenazgo",
+        "desc": "En una sola batalla, la cantidad total de ¡Bien hecho! que obtiene Evanescia de otros compañeros de equipo mediante el talento Juventud: primavera eterna supera 500",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075204": {
+        "id": "4075204",
+        "series_id": "7",
+        "title": "Lo bueno nunca sobra",
+        "desc": "Usa al personaje aliado Evanescia para lanzar la habilidad definitiva cuando las acumulaciones de ¡Bien hecho! alcancen 999.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075205": {
+        "id": "4075205",
+        "series_id": "7",
+        "title": "Basta de bromas, Kafka",
+        "desc": "Activa Protección 999 grados de Silver Wolf Niv. 999 y disipa el estado de Dominación aplicado por Kafka de los Cazadores de Estelaron.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075206": {
+        "id": "4075206",
+        "series_id": "7",
+        "title": "Lista de equipamiento",
+        "desc": "En un solo turno, los compañeros de equipo activan 3 tipos distintos de Caja de botín premium de Silver Wolf Niv. 999.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075207": {
+        "id": "4075207",
+        "series_id": "7",
+        "title": "La loba de la calle financiera",
+        "desc": "Recoge de una vez 8 pixelpesos al usar la técnica de Silver Wolf Niv. 999 \"Esto sí es meta\".",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075208": {
+        "id": "4075208",
+        "series_id": "7",
+        "title": "Crisis biológica",
+        "desc": "En la batalla contra Júbilo Inverso: Archiloto Maldeseo, un personaje aliado derrota a cualquier objetivo con Justo en el blanco tras convertirse en Marioneta de la felicidad.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075209": {
+        "id": "4075209",
+        "series_id": "7",
+        "title": "Cordura al máximo",
+        "desc": "En la batalla contra Júbilo Inverso: Archiloto Maldeseo, ningún personaje se convierte en una Marioneta de la felicidad al activarse Felicidad.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075210": {
+        "id": "4075210",
+        "series_id": "7",
+        "title": "El final de la diversión",
+        "desc": "En una batalla contra Ascendentes del Gozo, elimina a 4 o más Ascendente del Gozo: Final con un solo ataque.",
         "hide_desc": "",
         "hide": false
     },

@@ -20,7 +20,7 @@
             "Blütenkelch: Kunsthandwerkskommission",
             "Blütenkelch: Hotel Reverie (Traumlandschaft)",
             "Blütenkelch: „Murmelnder Wald“ Hain der Erleuchtung",
-            "Blütenkelch: {TextID#FloorName_20503001}",
+            "Blütenkelch: Dovebrook",
             "Missionsbelohnungen",
             "Auftragsbelohnungen",
             "Glut-Tausch"
@@ -245,7 +245,7 @@
             "Blütenkelch: Wolkenfurt",
             "Blütenkelch: Traumgrenze",
             "Blütenkelch: „Heiligtum der Prophezeiung“ Janusopolis",
-            "Blütenkelch: {TextID#FloorName_20501001}",
+            "Blütenkelch: Graphia-Akademie",
             "Auftragsbelohnungen"
         ]
     },
@@ -261,7 +261,7 @@
             "Blütenkelch: Wolkenfurt",
             "Blütenkelch: Traumgrenze",
             "Blütenkelch: „Heiligtum der Prophezeiung“ Janusopolis",
-            "Blütenkelch: {TextID#FloorName_20501001}",
+            "Blütenkelch: Graphia-Akademie",
             "Tägliches Training",
             "Glut-Tausch"
         ]
@@ -278,7 +278,7 @@
             "Blütenkelch: Wolkenfurt",
             "Blütenkelch: Traumgrenze",
             "Blütenkelch: „Heiligtum der Prophezeiung“ Janusopolis",
-            "Blütenkelch: {TextID#FloorName_20501001}",
+            "Blütenkelch: Graphia-Akademie",
             "Vergessene Halle"
         ]
     },
@@ -294,7 +294,7 @@
             "Blütenkelch: Wahrsagekommission",
             "Blütenkelch: Der Traum eines Kindes",
             "Blütenkelch: „Ruinen des Zwists“ Castrum Kremnos",
-            "Blütenkelch: {TextID#FloorName_20503001}",
+            "Blütenkelch: Dovebrook",
             "Auftragsbelohnungen"
         ]
     },
@@ -310,7 +310,7 @@
             "Blütenkelch: Wahrsagekommission",
             "Blütenkelch: Der Traum eines Kindes",
             "Blütenkelch: „Ruinen des Zwists“ Castrum Kremnos",
-            "Blütenkelch: {TextID#FloorName_20503001}",
+            "Blütenkelch: Dovebrook",
             "Glut-Tausch"
         ]
     },
@@ -326,7 +326,7 @@
             "Blütenkelch: Wahrsagekommission",
             "Blütenkelch: Der Traum eines Kindes",
             "Blütenkelch: „Ruinen des Zwists“ Castrum Kremnos",
-            "Blütenkelch: {TextID#FloorName_20503001}",
+            "Blütenkelch: Dovebrook",
             "Vergessene Halle"
         ]
     },
@@ -499,7 +499,8 @@
         "icon": "icon/item/281.png",
         "come_from": [
             "Nach dem Erhalt von 2 Duplikaten einer 5-Sterne-Figur mit max. Eidola einlösbar",
-            "Nach dem Erhalt von 2 Duplikaten einer 5-Sterne-Figur mit max. Eidola einlösbar"
+            "Nach dem Erhalt von 2 Duplikaten einer 5-Sterne-Figur mit max. Eidola einlösbar",
+            "Stellare Gefährten"
         ]
     },
     "282": {
@@ -527,10 +528,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/291.png",
-        "come_from": [
-            "Erhalten durch Vorteil-Stufenbelohnungen von Furbokom",
-            "Belohnungen von Trailblaze-Missionen"
-        ]
+        "come_from": []
     },
     "503": {
         "id": "503",
@@ -578,6 +576,15 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/803.png",
+        "come_from": []
+    },
+    "804": {
+        "id": "804",
+        "name": "Segen der Freudenillusion",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/804.png",
         "come_from": []
     },
     "821": {
@@ -1303,6 +1310,24 @@
         "icon": "icon/item/11003.png",
         "come_from": []
     },
+    "11505": {
+        "id": "11505",
+        "name": "Evanescias Eidolon",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11506": {
+        "id": "11506",
+        "name": "Eidolon von Silberwolf St. 999",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
     "18001": {
         "id": "18001",
         "name": "Schatten der Zerstörung",
@@ -1385,6 +1410,27 @@
         "sub_type": "Eidolon",
         "rarity": 5,
         "icon": "icon/item/18007.png",
+        "come_from": []
+    },
+    "18009": {
+        "id": "18009",
+        "name": "Schatten des Hochgefühls",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/18009.png",
+        "come_from": [
+            "Erhalten durch Vorteil-Stufenbelohnungen von Furbokom",
+            "Belohnungen von Trailblaze-Missionen"
+        ]
+    },
+    "18010": {
+        "id": "18010",
+        "name": "Schatten des Hochgefühls",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/18009.png",
         "come_from": []
     },
     "71000": {
@@ -2592,7 +2638,7 @@
         "rarity": 5,
         "icon": "icon/item/71048.png",
         "come_from": [
-            "Höhle der Korrosion: {TextID#FloorName_20462001}",
+            "Höhle der Korrosion: „Universelle Matrix“ Große Gruft des namenlosen Titanen",
             "Omni-Synthesemaschine – Reliktsynthese"
         ]
     },
@@ -2631,7 +2677,7 @@
         "rarity": 5,
         "icon": "icon/item/71049.png",
         "come_from": [
-            "Höhle der Korrosion: {TextID#FloorName_20462001}",
+            "Höhle der Korrosion: „Universelle Matrix“ Große Gruft des namenlosen Titanen",
             "Omni-Synthesemaschine – Reliktsynthese"
         ]
     },
@@ -2670,7 +2716,7 @@
         "rarity": 5,
         "icon": "icon/item/71052.png",
         "come_from": [
-            "Höhle der Korrosion: {TextID#FloorName_20501001}",
+            "Höhle der Korrosion: Graphia-Akademie",
             "Omni-Synthesemaschine – Reliktsynthese"
         ]
     },
@@ -2709,7 +2755,7 @@
         "rarity": 5,
         "icon": "icon/item/71053.png",
         "come_from": [
-            "Höhle der Korrosion: {TextID#FloorName_20501001}",
+            "Höhle der Korrosion: Graphia-Akademie",
             "Omni-Synthesemaschine – Reliktsynthese"
         ]
     },
@@ -4403,8 +4449,7 @@
         "rarity": 2,
         "icon": "icon/item/110261.png",
         "come_from": [
-            "Omni-Synthesemaschine – Äquivalenter Austausch",
-            "Blütenkelch: {TextID#FloorName_20502001}",
+            "Blütenkelch: Taverne „Ende der Welt“",
             "Glut-Tausch",
             "Omni-Synthesemaschine – Materialtausch"
         ]
@@ -4417,8 +4462,7 @@
         "rarity": 3,
         "icon": "icon/item/110262.png",
         "come_from": [
-            "Omni-Synthesemaschine – Äquivalenter Austausch",
-            "Blütenkelch: {TextID#FloorName_20502001}",
+            "Blütenkelch: Taverne „Ende der Welt“",
             "Omni-Synthesemaschine – Materialsynthese",
             "Glut-Tausch",
             "Omni-Synthesemaschine – Materialtausch"
@@ -4432,8 +4476,7 @@
         "rarity": 4,
         "icon": "icon/item/110263.png",
         "come_from": [
-            "Omni-Synthesemaschine – Äquivalenter Austausch",
-            "Blütenkelch: {TextID#FloorName_20502001}",
+            "Blütenkelch: Taverne „Ende der Welt“",
             "Omni-Synthesemaschine – Materialsynthese",
             "Omni-Synthesemaschine – Materialtausch"
         ]
@@ -4446,7 +4489,7 @@
         "rarity": 2,
         "icon": "icon/item/110271.png",
         "come_from": [
-            "Blütenkelch: {TextID#FloorName_20481001}",
+            "Blütenkelch: „Grab der Erinnerungen“ Ruinen der Zeit",
             "Glut-Tausch",
             "Omni-Synthesemaschine – Materialtausch"
         ]
@@ -4459,7 +4502,7 @@
         "rarity": 3,
         "icon": "icon/item/110272.png",
         "come_from": [
-            "Blütenkelch: {TextID#FloorName_20481001}",
+            "Blütenkelch: „Grab der Erinnerungen“ Ruinen der Zeit",
             "Omni-Synthesemaschine – Materialsynthese",
             "Glut-Tausch",
             "Omni-Synthesemaschine – Materialtausch"
@@ -4473,7 +4516,47 @@
         "rarity": 4,
         "icon": "icon/item/110273.png",
         "come_from": [
-            "Blütenkelch: {TextID#FloorName_20481001}",
+            "Blütenkelch: „Grab der Erinnerungen“ Ruinen der Zeit",
+            "Omni-Synthesemaschine – Materialsynthese",
+            "Omni-Synthesemaschine – Materialtausch"
+        ]
+    },
+    "110311": {
+        "id": "110311",
+        "name": "Phagousas Träne",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 2,
+        "icon": "icon/item/110311.png",
+        "come_from": [
+            "Blütenkelch: „Strahlender Narbenwald“ Hain der Erleuchtung",
+            "Glut-Tausch",
+            "Omni-Synthesemaschine – Materialtausch"
+        ]
+    },
+    "110312": {
+        "id": "110312",
+        "name": "Phagousas Wein",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 3,
+        "icon": "icon/item/110312.png",
+        "come_from": [
+            "Blütenkelch: „Strahlender Narbenwald“ Hain der Erleuchtung",
+            "Omni-Synthesemaschine – Materialsynthese",
+            "Glut-Tausch",
+            "Omni-Synthesemaschine – Materialtausch"
+        ]
+    },
+    "110313": {
+        "id": "110313",
+        "name": "Phagousas Herz",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 4,
+        "icon": "icon/item/110313.png",
+        "come_from": [
+            "Blütenkelch: „Strahlender Narbenwald“ Hain der Erleuchtung",
             "Omni-Synthesemaschine – Materialsynthese",
             "Omni-Synthesemaschine – Materialtausch"
         ]
@@ -4726,7 +4809,7 @@
         "rarity": 4,
         "icon": "icon/item/110432.png",
         "come_from": [
-            "Ruhender Schatten: {TextID#FloorName_20422001}",
+            "Ruhender Schatten: „Heiligtum der Prophezeiung“ Janusopolis",
             "Omni-Synthesemaschine – Materialtausch"
         ]
     },
@@ -4738,7 +4821,7 @@
         "rarity": 4,
         "icon": "icon/item/110433.png",
         "come_from": [
-            "Ruhender Schatten: {TextID#FloorName_20451001}",
+            "Ruhender Schatten: „Singende Küste“ Styxia",
             "Omni-Synthesemaschine – Materialtausch"
         ]
     },
@@ -4749,10 +4832,7 @@
         "sub_type": "AvatarRank",
         "rarity": 4,
         "icon": "icon/item/110434.png",
-        "come_from": [
-            "Ruhender Schatten: {TextID#FloorName_20503001}",
-            "Omni-Synthesemaschine – Materialtausch"
-        ]
+        "come_from": ["Ruhender Schatten: Dovebrook", "Omni-Synthesemaschine – Materialtausch"]
     },
     "110435": {
         "id": "110435",
@@ -4860,7 +4940,7 @@
         "sub_type": "WeeklyMonsterDrop",
         "rarity": 4,
         "icon": "icon/item/110508.png",
-        "come_from": ["Echo des Krieges: {TextID#FloorName_20481001}"]
+        "come_from": ["Echo des Krieges: „Grab der Erinnerungen“ Ruinen der Zeit"]
     },
     "111000": {
         "id": "111000",
@@ -5524,6 +5604,15 @@
         "icon": "icon/item/121006.png",
         "come_from": []
     },
+    "121007": {
+        "id": "121007",
+        "name": "Gedenkkassette",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/121007.png",
+        "come_from": []
+    },
     "122000": {
         "id": "122000",
         "name": "Aideen-Marken",
@@ -5550,6 +5639,15 @@
         "rarity": 3,
         "icon": "icon/item/123001.png",
         "come_from": []
+    },
+    "123002": {
+        "id": "123002",
+        "name": "Zugangskarte",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/123000.png",
+        "come_from": ["Erhalten bei der Aktion „Schatzsuche im Lager“"]
     },
     "140000": {
         "id": "140000",
@@ -10267,6 +10365,24 @@
         "icon": "icon/item/140609.png",
         "come_from": []
     },
+    "140610": {
+        "id": "140610",
+        "name": "Runde Pfote der Trailblaze-Fee (links)",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140610.png",
+        "come_from": []
+    },
+    "140611": {
+        "id": "140611",
+        "name": "Trophäe „Wächter des Blaus“",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140611.png",
+        "come_from": []
+    },
     "149957": {
         "id": "149957",
         "name": "Foto mit 7. März",
@@ -11408,6 +11524,15 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/150100.png",
+        "come_from": []
+    },
+    "150101": {
+        "id": "150101",
+        "name": "Abzeichen: Furbobo-Wochenblatt",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/150101.png",
         "come_from": []
     },
     "180001": {
@@ -20800,6 +20925,276 @@
         "icon": "icon/item/190022.png",
         "come_from": []
     },
+    "192061": {
+        "id": "192061",
+        "name": "Vernünftige Vermutungen zum Mechanismus von Phantasmond-Spielen",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192062": {
+        "id": "192062",
+        "name": "Übersicht über Ploo Industries",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192063": {
+        "id": "192063",
+        "name": "Handbuch zur Betriebsbeobachtung des Donnerdrachen",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192064": {
+        "id": "192064",
+        "name": "Vorwort zu den Grundlagenstudien der Wunschkraft",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192065": {
+        "id": "192065",
+        "name": "Gemeinsame Petition zur Wiederherstellung des bemalten Zustands von Seafeld City",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192066": {
+        "id": "192066",
+        "name": "Aufzeichnungen zur Kultivierung von Versuchsobjekt A",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192067": {
+        "id": "192067",
+        "name": "Jahrbuch der Absolventen der Klasse von 1984: Füllwunsch",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192068": {
+        "id": "192068",
+        "name": "Über Füllwunschs Pläne für eine Varieté-Show",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192069": {
+        "id": "192069",
+        "name": "Etikett auf der Sparkle-Puppe",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192070": {
+        "id": "192070",
+        "name": "Statisten-Handbuch",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192071": {
+        "id": "192071",
+        "name": "Präoperative psychologische Bewertungsaufzeichnung",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192072": {
+        "id": "192072",
+        "name": "Ozeanischer Anomaliebericht",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192073": {
+        "id": "192073",
+        "name": "TV-Chroniken von Seafeld",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192074": {
+        "id": "192074",
+        "name": "Briefe an den Detektiv",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192075": {
+        "id": "192075",
+        "name": "Die besten Kassetten aller Zeiten",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192076": {
+        "id": "192076",
+        "name": "Geschichten über Absenti",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192077": {
+        "id": "192077",
+        "name": "Tut mir nicht leid, dir das mitteilen zu müssen",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192078": {
+        "id": "192078",
+        "name": "Interne Petition von Wunscherfüllungs-TV",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192079": {
+        "id": "192079",
+        "name": "Beobachtungen der Forschungsgesellschaft für glückliches Lächeln",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192080": {
+        "id": "192080",
+        "name": "Yoyos Briefe",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192081": {
+        "id": "192081",
+        "name": "Annäherung an die Wissenschaft: Die geheimnisvolle Dunkle Zone",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192082": {
+        "id": "192082",
+        "name": "Finde den „Kraken“",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192083": {
+        "id": "192083",
+        "name": "So nah, so schön. Verbring dein Wochenende in Seafeld City.",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192084": {
+        "id": "192084",
+        "name": "Schwarzes Brett am Hafen",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192085": {
+        "id": "192085",
+        "name": "Legende vom heiligen Baum der schwebenden Insel",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192086": {
+        "id": "192086",
+        "name": "Glücksversprechen von Seafeld",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192087": {
+        "id": "192087",
+        "name": "Skript der Late-Night-Radiosendung",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192088": {
+        "id": "192088",
+        "name": "„Murata“ – Kulturstudie",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192089": {
+        "id": "192089",
+        "name": "Chroniken des schwimmenden Schmieröls: Kapitel des Frosches (III)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192090": {
+        "id": "192090",
+        "name": "Chroniken des schwimmenden Schmieröls: Kapitel des Fuchses (VII)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
     "210001": {
         "id": "210001",
         "name": "„Morgengrauen der Katastrophe“",
@@ -22708,6 +23103,78 @@
         "icon": "icon/item/210001.png",
         "come_from": []
     },
+    "210462": {
+        "id": "210462",
+        "name": "„Leere Radiowellen“",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210463": {
+        "id": "210463",
+        "name": "„Wir amüsieren uns zu Tode“",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210464": {
+        "id": "210464",
+        "name": "„Das Zeitalter der Massenmedien“",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210465": {
+        "id": "210465",
+        "name": "„Von oben herab“",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210466": {
+        "id": "210466",
+        "name": "„Küstenstädtchen“",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210467": {
+        "id": "210467",
+        "name": "„Schweben“",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210468": {
+        "id": "210468",
+        "name": "„Wucherndes Wachstum“",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210469": {
+        "id": "210469",
+        "name": "„Tod und Wiedergeburt“",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
     "215001": {
         "id": "215001",
         "name": "„Plätschern“",
@@ -22738,6 +23205,15 @@
     "215004": {
         "id": "215004",
         "name": "„Flüstern“",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "215008": {
+        "id": "215008",
+        "name": "„Die Sprache der Bäume“",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -25437,7 +25913,7 @@
         "sub_type": "PlayerOutfit",
         "rarity": 5,
         "icon": "icon/item/227007.png",
-        "come_from": ["Geschenkbox „Modischer Kopfschmuck“"]
+        "come_from": ["Erhältlich im Shop „Modeaccessoires“"]
     },
     "227008": {
         "id": "227008",
@@ -25447,6 +25923,42 @@
         "rarity": 4,
         "icon": "icon/item/227008.png",
         "come_from": ["Trailblaze-Mode, erhalten durch die Bestseller-Stufenbelohnung von „Furbokom“"]
+    },
+    "227009": {
+        "id": "227009",
+        "name": "Universaler Spitzentrend: Neon-Katzenohr-Kopfhörer",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227009.png",
+        "come_from": ["Erhältlich im Shop „Geschenk des Sternenstaubs“"]
+    },
+    "227010": {
+        "id": "227010",
+        "name": "Große Verwandlung des Waschbären zu Evanefuchs",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 5,
+        "icon": "icon/item/227010.png",
+        "come_from": ["Geschenkbox „Flüchtiger Fuchsschatten“", "Erhältlich im Shop „Modeaccessoires“"]
+    },
+    "227012": {
+        "id": "227012",
+        "name": "Furbobo-Brille",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227012.png",
+        "come_from": ["Erhältlich im Shop „Geschenk des Sternenstaubs“"]
+    },
+    "227013": {
+        "id": "227013",
+        "name": "Ultracoole Schutzbrille",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 5,
+        "icon": "icon/item/227013.png",
+        "come_from": ["Geschenkbox „Kosmischer Schnelldurchlauf“"]
     },
     "229001": {
         "id": "229001",
@@ -27572,6 +28084,15 @@
         "icon": "icon/item/251003.png",
         "come_from": []
     },
+    "251004": {
+        "id": "251004",
+        "name": "Furbobo-Pressekorps",
+        "type": "Pet",
+        "sub_type": "NormalPet",
+        "rarity": 5,
+        "icon": "icon/item/251004.png",
+        "come_from": []
+    },
     "252000": {
         "id": "252000",
         "name": "Ehrwürdiges Rot! Schaffneruniform",
@@ -27598,6 +28119,24 @@
         "rarity": 4,
         "icon": "icon/item/252002.png",
         "come_from": ["Erhältlich im Laden „Geschenk des Sternenstaubs“"]
+    },
+    "252003": {
+        "id": "252003",
+        "name": "Festkleidung „Zeit des Trailblaze“",
+        "type": "Usable",
+        "sub_type": "PamSkin",
+        "rarity": 4,
+        "icon": "icon/item/252003.png",
+        "come_from": ["Erhältlich nach dem Gespräch mit Pom-Pom in „Pom-Pom-Helfer“"]
+    },
+    "252004": {
+        "id": "252004",
+        "name": "Goldener Traum! Festkleidung",
+        "type": "Usable",
+        "sub_type": "PamSkin",
+        "rarity": 5,
+        "icon": "icon/item/252004.png",
+        "come_from": ["Erhältlich im Shop „Geschenk des Sternenstaubs“"]
     },
     "252100": {
         "id": "252100",
@@ -29255,6 +29794,15 @@
         "icon": "icon/item/253003.png",
         "come_from": []
     },
+    "253004": {
+        "id": "253004",
+        "name": "Arcadia-Rush",
+        "type": "Usable",
+        "sub_type": "PersonalCard",
+        "rarity": 5,
+        "icon": "icon/item/253004.png",
+        "come_from": ["Geschenkbox „Kosmischer Schnelldurchlauf“"]
+    },
     "254000": {
         "id": "254000",
         "name": "{NICKNAME}s freier Wille",
@@ -29950,6 +30498,96 @@
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": ["Erhältlich im Erweiterungsset 1 im Shop des Kosmikon-Kollektivs"]
     },
+    "264026": {
+        "id": "264026",
+        "name": "Silberwolf St. 999",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"]
+    },
+    "264027": {
+        "id": "264027",
+        "name": "Evanescia",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"]
+    },
+    "264028": {
+        "id": "264028",
+        "name": "{NICKNAME}",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"]
+    },
+    "264029": {
+        "id": "264029",
+        "name": "Ashveil",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"]
+    },
+    "264030": {
+        "id": "264030",
+        "name": "Sonntag",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"]
+    },
+    "264031": {
+        "id": "264031",
+        "name": "Blade",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"]
+    },
+    "264032": {
+        "id": "264032",
+        "name": "Hysilens",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"]
+    },
+    "264033": {
+        "id": "264033",
+        "name": "Tribbie",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"]
+    },
+    "264034": {
+        "id": "264034",
+        "name": "Ruan Mei",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"]
+    },
+    "264035": {
+        "id": "264035",
+        "name": "Himeko",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/264035.png",
+        "come_from": ["Schließe die Mission „Blut des einsamen Wolfs“ ab."]
+    },
     "264101": {
         "id": "264101",
         "name": "",
@@ -30019,7 +30657,7 @@
         "type": "Material",
         "sub_type": "DiceCombatDice",
         "rarity": 3,
-        "icon": "icon/item/264405.png",
+        "icon": "icon/item/264428.png",
         "come_from": ["Erhältlich im Erweiterungsset 1 im Shop des Kosmikon-Kollektivs"]
     },
     "264406": {
@@ -30157,6 +30795,60 @@
         "icon": "icon/item/264422.png",
         "come_from": ["Erhältlich im Erweiterungsset 1 im Shop des Kosmikon-Kollektivs"]
     },
+    "264423": {
+        "id": "264423",
+        "name": "Echt: Giftsekret",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264423.png",
+        "come_from": ["Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"]
+    },
+    "264424": {
+        "id": "264424",
+        "name": "Echt: Aufladen",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264426.png",
+        "come_from": ["Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"]
+    },
+    "264425": {
+        "id": "264425",
+        "name": "Echt: Glück",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264425.png",
+        "come_from": ["Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"]
+    },
+    "264426": {
+        "id": "264426",
+        "name": "Echt: Ansturm",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264424.png",
+        "come_from": ["Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"]
+    },
+    "264427": {
+        "id": "264427",
+        "name": "Echt: Verteidigung",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264427.png",
+        "come_from": ["Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"]
+    },
+    "264428": {
+        "id": "264428",
+        "name": "Echt: Ausdauer",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264428.png",
+        "come_from": ["Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"]
+    },
     "264502": {
         "id": "264502",
         "name": "",
@@ -30190,7 +30882,7 @@
         "type": "Material",
         "sub_type": "DiceCombatDice",
         "rarity": 3,
-        "icon": "icon/item/264405.png",
+        "icon": "icon/item/264428.png",
         "come_from": []
     },
     "264506": {
@@ -30328,6 +31020,24 @@
         "icon": "icon/item/264422.png",
         "come_from": []
     },
+    "264523": {
+        "id": "264523",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264426.png",
+        "come_from": []
+    },
+    "264524": {
+        "id": "264524",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264423.png",
+        "come_from": []
+    },
     "264996": {
         "id": "264996",
         "name": "Kraftmünze",
@@ -30360,7 +31070,8 @@
         "icon": "icon/item/264998.png",
         "come_from": [
             "Erhalten durch die Teilnahme an der Aktion „Lasst die Würfel fallen! Kollektiv!“",
-            "Erhalten durch Partien gegen Kartenspieler bei der Erkundung von Planarcadia"
+            "Erhalten durch Partien gegen Kartenspieler bei der Erkundung von Planarcadia",
+            "Erhalten durch die Teilnahme an der Aktion „Lasst die Würfel erneut fallen! Kollektiv!“"
         ]
     },
     "264999": {
@@ -30372,7 +31083,8 @@
         "icon": "icon/item/264999.png",
         "come_from": [
             "Erhalten durch die Teilnahme an der Aktion „Lasst die Würfel fallen! Kollektiv!“",
-            "Erhalten durch Partien gegen Kartenspieler bei der Erkundung von Planarcadia"
+            "Erhalten durch Partien gegen Kartenspieler bei der Erkundung von Planarcadia",
+            "Erhalten durch die Teilnahme an der Aktion „Lasst die Würfel erneut fallen! Kollektiv!“"
         ]
     },
     "265001": {
@@ -30807,6 +31519,51 @@
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
     },
+    "266001": {
+        "id": "266001",
+        "name": "Goldmünze",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266001.png",
+        "come_from": []
+    },
+    "266002": {
+        "id": "266002",
+        "name": "Talentpunkt",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266002.png",
+        "come_from": []
+    },
+    "266003": {
+        "id": "266003",
+        "name": "Überraschungstruhe",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266003.png",
+        "come_from": []
+    },
+    "266004": {
+        "id": "266004",
+        "name": "",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/300103.png",
+        "come_from": []
+    },
+    "266005": {
+        "id": "266005",
+        "name": "Diamant",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266005.png",
+        "come_from": []
+    },
     "267001": {
         "id": "267001",
         "name": "",
@@ -30815,6 +31572,17 @@
         "rarity": 4,
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
+    },
+    "269001": {
+        "id": "269001",
+        "name": "Bemalte Kraftmünze",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/269001.png",
+        "come_from": [
+            "Erhalten durch die Teilnahme an der Aktion „Lasst die Würfel erneut fallen! Kollektiv!“"
+        ]
     },
     "270000": {
         "id": "270000",
@@ -31641,6 +32409,15 @@
         "sub_type": "Gift",
         "rarity": 5,
         "icon": "icon/item/310013.png",
+        "come_from": []
+    },
+    "310014": {
+        "id": "310014",
+        "name": "Geschenkbox „Kosmischer Schnelldurchlauf“",
+        "type": "Usable",
+        "sub_type": "Gift",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
     },
     "311000": {

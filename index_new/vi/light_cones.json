@@ -949,6 +949,16 @@
         "preview": "image/light_cone_preview/22006.png",
         "portrait": "image/light_cone_portrait/22006.png"
     },
+    "22007": {
+        "id": "22007",
+        "name": "Tương Lai, Có Chúng Ta Cùng Nhau",
+        "rarity": 4,
+        "path": "Elation",
+        "desc": "Một món quà lớn bất ngờ hạ cánh xuống phòng livestream.\n\"Là chiếc bánh kem kỷ niệm 3 năm do các fan đặc biệt đặt làm riêng cho mọi người!\"\nTừng chút kỷ niệm quá khứ lúc này đều hóa thành động lực, dẫn dắt tất cả mọi người cùng nhau bước tới tương lai.\n\"Mong rằng trong năm mới, mọi người có thể vui vẻ, bình an tiến bước nhé, pom!\"\n\"Yên tâm đi tàu trưởng, Thỏ March sẽ ghi lại khoảnh khắc này~\"\nTrong bầu không khí ấm áp, mọi người cùng nhau nâng ly, tiếng nói cười tràn ngập mọi ngóc ngách.\n\"Trong ngày đáng ăn mừng này, chúng ta hãy cùng nâng ly.\"\n\"Vì ngày mai trăng sao đầy trời...\"\n\"Cạn ly!\"",
+        "icon": "icon/light_cone/22007.png",
+        "preview": "image/light_cone_preview/22007.png",
+        "portrait": "image/light_cone_portrait/22007.png"
+    },
     "23000": {
         "id": "23000",
         "name": "Chuyến Tàu Đêm Trên Dải Ngân Hà",
@@ -1508,6 +1518,26 @@
         "icon": "icon/light_cone/23056.png",
         "preview": "image/light_cone_preview/23056.png",
         "portrait": "image/light_cone_portrait/23056.png"
+    },
+    "23057": {
+        "id": "23057",
+        "name": "Chào Mừng Đến Với Thành Phố Vũ Trụ",
+        "rarity": 5,
+        "path": "Elation",
+        "desc": "Trên bầu trời thành phố, bóng dáng kiêu hãnh của thiếu nữ thoát ra từ cổng dịch chuyển.\nDòng xe cộ cuồn cuộn, bóng người tấp nập, ồn ào náo nhiệt như thường lệ.\n\"Nhìn thì náo nhiệt thật đấy, nhưng mà...\"\nMàn hình trước mặt bật sáng, hỉ nộ ái ố của con người hóa thành những đốm sáng li ti chảy vào trong đó.\n\"Đến cả độ mệt mỏi của NPC cũng sắp chạm đỉnh rồi...\"\n\"Phó bản chán phèo thế này, tôi không thèm chơi đâu.\"\nTheo từng cú lướt ngón tay, ánh đèn thành phố chợt sáng chợt tắt.\nTừ một góc khuất không ai hay vang lên tiếng kêu kinh ngạc, ngay sau đó, tiếng hò reo chấn động khắp bầu trời.\n\"Chỉ số may mắn của tất cả người chơi nhân đôi, Thiên Phú đặc biệt ngẫu nhiên, phần thưởng tối đa...\"\n\"Tải game thành công! Ngay bây giờ, quẩy tung sân khấu thôi!\"\nThiếu nữ tung người nhảy xuống, âm nhắc nhở quen thuộc vang vọng bên tai.\nMột thời khắc chơi game thuộc về cô, đã chính thức bắt đầu.",
+        "icon": "icon/light_cone/23057.png",
+        "preview": "image/light_cone_preview/23057.png",
+        "portrait": "image/light_cone_portrait/23057.png"
+    },
+    "23058": {
+        "id": "23058",
+        "name": "Hẹn Gặp Mùa Hoa Tới",
+        "rarity": 5,
+        "path": "Elation",
+        "desc": "Cơn gió nhẹ thổi qua rèm cửa trắng muốt, lay động tâm tư thiếu nữ.\nCô nhìn đám đông đang cười nói vui vẻ ngoài cửa sổ, cây bút đang vẽ vời bất giác dừng lại.\n\"Đây là... lần thứ mấy ngồi ở đây rồi nhỉ?\"\nBất chợt, những cánh hoa rơi lướt qua chóp mũi cô, tựa như hồi đáp, tựa như nhắc nhở.\nMột trò chơi hoành tráng, một duyên kỳ ngộ chỉ một lần trong đời, những ngày đêm hoa nở hoa tàn...\nCô hồi tưởng câu chuyện giữa mình và mảnh đất này, từ một khoảng trống, cho đến muôn màu muôn vẻ, mỗi khi chìm vào giấc ngủ, cô đều mong chờ ngày mai đến.\n\"A, truyện tranh cập nhật rồi, vẽ xong mấy bé cưng thì đi xem thôi...\"\nThiếu nữ nhận được thông báo, khẽ rung đôi tai, ngòi bút đang tĩnh lặng lại tiếp tục lướt đi.\n\"Ước nguyện... mùa hoa tiếp theo, mình phải cày xong tất cả tác phẩm mới có điểm đánh giá cao!\"",
+        "icon": "icon/light_cone/23058.png",
+        "preview": "image/light_cone_preview/23058.png",
+        "portrait": "image/light_cone_portrait/23058.png"
     },
     "24000": {
         "id": "24000",

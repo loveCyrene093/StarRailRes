@@ -949,6 +949,16 @@
         "preview": "image/light_cone_preview/22006.png",
         "portrait": "image/light_cone_portrait/22006.png"
     },
+    "22007": {
+        "id": "22007",
+        "name": "Juntos hacia el futuro",
+        "rarity": 4,
+        "path": "Elation",
+        "desc": "Un gran regalo cae de repente en el canal.\n\"¡Es un pastel del tercer aniversario hecho especialmente para todos por los fans!\".\nTodos los momentos del pasado se convierten ahora en motivación y guían a todos juntos hacia el futuro.\n\"¡Espero que en este nuevo año todos avancemos felices y a salvo!\".\n\"¡Tranquilo, revisor, yo, Liebre de Marzo, inmortalizaré este momento!\".\nEn un ambiente cálido, todos alzan sus copas al mismo tiempo y las risas y la alegría llenan cada rincón.\n\"En este día de celebración, alcemos las copas\".\n\"Por un mañana de luna y estrellas...\".\n\"¡Salud!\".",
+        "icon": "icon/light_cone/22007.png",
+        "preview": "image/light_cone_preview/22007.png",
+        "portrait": "image/light_cone_portrait/22007.png"
+    },
     "23000": {
         "id": "23000",
         "name": "Noche en la Vía Láctea",
@@ -1508,6 +1518,26 @@
         "icon": "icon/light_cone/23056.png",
         "preview": "image/light_cone_preview/23056.png",
         "portrait": "image/light_cone_portrait/23056.png"
+    },
+    "23057": {
+        "id": "23057",
+        "name": "Bienvenidos a la ciudad cósmica",
+        "rarity": 5,
+        "path": "Elation",
+        "desc": "En el cielo de la ciudad, la llamativa silueta de una joven emerge de un portal de teletransportación.\nEntre un torrente de vehículos y siluetas humanas, sigue habiendo el mismo bullicio de siempre.\n\"Se ve muy animado, pero...\".\nLa pantalla frente a ella se enciende y las emociones de las personas se transforman en pequeños puntos de luz que fluyen hacia su interior.\n\"Incluso las barras de agotamiento de los PNJ están a punto de llegar al máximo...\".\n\"Paso de jugar una mazmorra tan aburrida\".\nCon un movimiento de sus dedos, las luces de la ciudad parpadean.\nUn grito de sorpresa surge de un rincón oculto y, acto seguido, un clamor retumba hasta resonar en el cielo.\n\"Suerte doble para todos los jugadores, talentos especiales aleatorios y recompensas al máximo...\".\n\"¡Juego cargado! Y ahora, ¡a jugar se ha dicho!\".\nLa joven salta al vacío mientras un familiar sonido de notificación resuena en sus oídos.\nEl momento de su partida ya ha comenzado.",
+        "icon": "icon/light_cone/23057.png",
+        "preview": "image/light_cone_preview/23057.png",
+        "portrait": "image/light_cone_portrait/23057.png"
+    },
+    "23058": {
+        "id": "23058",
+        "name": "Encuentro en la próxima primavera",
+        "rarity": 5,
+        "path": "Elation",
+        "desc": "La brisa sopla a través de las cortinas blancas, agitando los pensamientos de la joven.\nMira hacia la alegre multitud fuera de la ventana, y su lápiz se detiene inconscientemente.\n\"¿Cuántas veces me he sentado aquí?\".\nEn un instante, un pétalo que cae roza la punta de su nariz, como una respuesta, un recordatorio.\nUn gran juego, un encuentro único, los días y las noches de flores que florecen y se marchitan...\nRecuerda su historia con esta tierra, desde una página en blanco hasta un mundo lleno de color. Con cada sueño, anhela la llegada del mañana.\n\"¡Oh, un nuevo capítulo del cómic! Le echaré un vistazo cuando termine de dibujar a estas bellezas...\".\nLa joven recibe una notificación, sacude sus orejas y la punta de su lápiz vuelve a moverse.\n\"¡Ojalá para la próxima primavera me haya puesto al día con las novedades más populares!\".",
+        "icon": "icon/light_cone/23058.png",
+        "preview": "image/light_cone_preview/23058.png",
+        "portrait": "image/light_cone_portrait/23058.png"
     },
     "24000": {
         "id": "24000",

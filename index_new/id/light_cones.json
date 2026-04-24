@@ -949,6 +949,16 @@
         "preview": "image/light_cone_preview/22006.png",
         "portrait": "image/light_cone_portrait/22006.png"
     },
+    "22007": {
+        "id": "22007",
+        "name": "Tomorrow, Together",
+        "rarity": 4,
+        "path": "Elation",
+        "desc": "Sebuah hadiah besar tiba-tiba mendarat di ruang live streaming.\n\"Ini kue anniversary ketiga yang dipesan khusus oleh para penggemar untuk semuanya!\"\nSemua kenangan masa lalu kini berubah menjadi motivasi, menuntun semua orang untuk melangkah bersama menuju masa depan.\n\"Semoga di tahun yang baru ini, kita semua bisa terus maju dengan bahagia dan selamat, pom!\"\n\"Tenang aja, Kondektur! Kelinci Maret bakal rekam momen ini~\"\nDi tengah suasana yang hangat, semua orang mengangkat gelas bersama, tawa dan canda memenuhi setiap sudut.\n\"Di hari yang patut dirayakan ini, mari kita bersulang.\"\n\"Untuk hari esok yang dipenuhi bintang-bintang ....\"\n\"Bersulang!\"",
+        "icon": "icon/light_cone/22007.png",
+        "preview": "image/light_cone_preview/22007.png",
+        "portrait": "image/light_cone_portrait/22007.png"
+    },
     "23000": {
         "id": "23000",
         "name": "Night on the Milky Way",
@@ -1509,6 +1519,26 @@
         "preview": "image/light_cone_preview/23056.png",
         "portrait": "image/light_cone_portrait/23056.png"
     },
+    "23057": {
+        "id": "23057",
+        "name": "Welcome to the Cosmic City",
+        "rarity": 5,
+        "path": "Elation",
+        "desc": "Di atas langit kota, sosok gadis yang mencolok keluar dari portal teleportasi.\nArus kendaraan dan bayangan orang yang berlalu lalang tetap seramai biasanya.\n\"Kelihatannya memang ramai, tapi ....\"\nLayar di depannya menyala, emosi orang-orang berubah menjadi titik-titik cahaya dan mengalir ke dalamnya.\n\"Bahkan nilai Fatigue NPC pun udah mau jebol ....\"\n\"Malas ah main raid ini. Bosan banget.\"\nMengikuti gerakan jarinya, lampu-lampu kota berkelap-kelip.\nTerdengar seruan terkejut dari sudut yang tidak diketahui, kemudian sorakan bergemuruh bergema di seluruh langit.\n\"Nilai Luck semua pemain berlipat ganda, Talent spesial diacak, hadiah dimaksimalkan ....\"\n\"Berhasil memuat game! Sekarang, mari kita kuasai arena!\"\nGadis itu melompat turun, nada notifikasi yang familier terdengar di telinganya.\nWaktu dia untuk bermain game telah dimulai.",
+        "icon": "icon/light_cone/23057.png",
+        "preview": "image/light_cone_preview/23057.png",
+        "portrait": "image/light_cone_portrait/23057.png"
+    },
+    "23058": {
+        "id": "23058",
+        "name": "Until the Flowers Bloom Again",
+        "rarity": 5,
+        "path": "Elation",
+        "desc": "Angin sepoi-sepoi berhembus melewati tirai jendela yang putih bersih, membangkitkan lamunan sang gadis.\nDia menatap ke luar jendela ke arah kerumunan orang yang sedang bercengkerama sambil tertawa, pena yang ia gunakan untuk menulis dan menggambar tanpa sadar terhenti di satu titik.\n\"Ini ... sudah keberapa kalinya aku duduk di sini?\"\nTiba-tiba, kelopak bunga yang berguguran melewati ujung hidungnya, seakan menjawab, seakan mengingatkan.\nSebuah permainan yang meriah, pertemuan yang terjadi sekali seumur hidup, siang dan malam saat bunga mekar dan layu ....\nDia mengingat kembali kisah tentang dirinya dan negeri ini, dari yang awalnya kosong, menjadi penuh warna. Setiap kali tertidur, dia selalu menantikan datangnya hari esok.\n\"Ah, komiknya sudah update! Baca ah habis selesai gambar si imut-imut ini ....\"\nSang gadis menerima notifikasi, menggoyangkan telinganya, dan ujung penanya yang terhenti kembali menari.\n\"Semoga ... di musim bunga berikutnya, aku sudah kekejar semua karya baru rating tinggi!\"",
+        "icon": "icon/light_cone/23058.png",
+        "preview": "image/light_cone_preview/23058.png",
+        "portrait": "image/light_cone_portrait/23058.png"
+    },
     "24000": {
         "id": "24000",
         "name": "On the Fall of an Aeon",
@@ -1574,7 +1604,7 @@
         "name": "Elation Brimming With Blessings",
         "rarity": 5,
         "path": "Elation",
-        "desc": "Di bawah ujung jari para jenius, data beroperasi dengan stabil dan tanpa henti.\nTopeng bersembunyi di celah-celah \"peristiwa\", mengamati setiap potensi perkembangan.\nAnalisis, kalkulasi, jawaban, pertanyaan ... bukankah ini juga panggung bagi para jenius?\nSorak-sorai, air mata, raungan, ratapan ... berbagai emosi kehidupan bermekaran.\nSandiwara menjadi riuh, sukacita meluap-luap dengan berkat. Apakah ini adegan yang paling memikat?\nJawabannya tetap sama — tak terduga!",
+        "desc": "Di bawah ujung jari para jenius, data beroperasi dengan stabil dan tanpa henti.\nTopeng bersembunyi di celah-celah \"peristiwa\", mengamati setiap potensi perkembangan.\nAnalisis, kalkulasi, jawaban, pertanyaan ... bukankah ini juga panggung bagi para jenius?\nSorak-sorai, air mata, raungan, ratapan ... emosi kehidupan bermekaran.\nSandiwara menjadi riuh, dipenuhi dengan sukacita dan berkat. Apakah ini adegan yang paling menarik?\nJawabannya tetap sama, yaitu \"tidak dapat diprediksi\".",
         "icon": "icon/light_cone/24006.png",
         "preview": "image/light_cone_preview/24006.png",
         "portrait": "image/light_cone_portrait/24006.png"

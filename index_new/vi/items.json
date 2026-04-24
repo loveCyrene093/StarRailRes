@@ -20,7 +20,7 @@
             "Đài Hoa Nhân Tạo: Sở Công Nghiệp",
             "Đài Hoa Nhân Tạo: Khách Sạn Mộng Mơ - Cõi Mộng",
             "Đài Hoa Nhân Tạo: \"Rừng Cây Thầm Thì\" Điện Cây Giác Ngộ",
-            "Đài Hoa Nhân Tạo: {TextID#FloorName_20503001}",
+            "Đài Hoa Nhân Tạo: Quận Dovebrook",
             "Phần thưởng nhiệm vụ",
             "Thưởng Ủy Thác",
             "Đổi Tro Tàn"
@@ -245,7 +245,7 @@
             "Đài Hoa Nhân Tạo: Cảng Lưu Vân",
             "Đài Hoa Nhân Tạo: Ranh Giới Xây Mộng",
             "Đài Hoa Nhân Tạo: \"Thánh Địa Lời Sấm Truyền\" Janusopolis",
-            "Đài Hoa Nhân Tạo: {TextID#FloorName_20501001}",
+            "Đài Hoa Nhân Tạo: Học Viện Graphia",
             "Thưởng Ủy Thác"
         ]
     },
@@ -261,7 +261,7 @@
             "Đài Hoa Nhân Tạo: Cảng Lưu Vân",
             "Đài Hoa Nhân Tạo: Ranh Giới Xây Mộng",
             "Đài Hoa Nhân Tạo: \"Thánh Địa Lời Sấm Truyền\" Janusopolis",
-            "Đài Hoa Nhân Tạo: {TextID#FloorName_20501001}",
+            "Đài Hoa Nhân Tạo: Học Viện Graphia",
             "Huấn Luyện Mỗi Ngày",
             "Đổi Tro Tàn"
         ]
@@ -278,7 +278,7 @@
             "Đài Hoa Nhân Tạo: Cảng Lưu Vân",
             "Đài Hoa Nhân Tạo: Ranh Giới Xây Mộng",
             "Đài Hoa Nhân Tạo: \"Thánh Địa Lời Sấm Truyền\" Janusopolis",
-            "Đài Hoa Nhân Tạo: {TextID#FloorName_20501001}",
+            "Đài Hoa Nhân Tạo: Học Viện Graphia",
             "Sảnh Đường Lãng Quên"
         ]
     },
@@ -294,7 +294,7 @@
             "Đài Hoa Nhân Tạo: Sở Thiên Tượng",
             "Đài Hoa Nhân Tạo: Giấc Mơ Trẻ Thơ",
             "Đài Hoa Nhân Tạo: \"Tàn Tích Phân Tranh\" Thành Kremnos",
-            "Đài Hoa Nhân Tạo: {TextID#FloorName_20503001}",
+            "Đài Hoa Nhân Tạo: Quận Dovebrook",
             "Thưởng Ủy Thác"
         ]
     },
@@ -310,7 +310,7 @@
             "Đài Hoa Nhân Tạo: Sở Thiên Tượng",
             "Đài Hoa Nhân Tạo: Giấc Mơ Trẻ Thơ",
             "Đài Hoa Nhân Tạo: \"Tàn Tích Phân Tranh\" Thành Kremnos",
-            "Đài Hoa Nhân Tạo: {TextID#FloorName_20503001}",
+            "Đài Hoa Nhân Tạo: Quận Dovebrook",
             "Đổi Tro Tàn"
         ]
     },
@@ -326,7 +326,7 @@
             "Đài Hoa Nhân Tạo: Sở Thiên Tượng",
             "Đài Hoa Nhân Tạo: Giấc Mơ Trẻ Thơ",
             "Đài Hoa Nhân Tạo: \"Tàn Tích Phân Tranh\" Thành Kremnos",
-            "Đài Hoa Nhân Tạo: {TextID#FloorName_20503001}",
+            "Đài Hoa Nhân Tạo: Quận Dovebrook",
             "Sảnh Đường Lãng Quên"
         ]
     },
@@ -494,7 +494,8 @@
         "icon": "icon/item/281.png",
         "come_from": [
             "Có thể đổi khi nhận trùng 2 lần nhân vật 5 sao đã đầy Tinh Hồn",
-            "Có thể đổi khi nhận trùng 2 lần nhân vật 5 sao đã đầy Tinh Hồn"
+            "Có thể đổi khi nhận trùng 2 lần nhân vật 5 sao đã đầy Tinh Hồn",
+            "Ngàn Sao Đồng Hành"
         ]
     },
     "282": {
@@ -522,10 +523,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/291.png",
-        "come_from": [
-            "Nhận từ thưởng cấp độ phúc lợi của \"Thời Sự Furbobocom\"",
-            "Thưởng Nhiệm Vụ Khai Phá"
-        ]
+        "come_from": []
     },
     "503": {
         "id": "503",
@@ -570,6 +568,15 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/803.png",
+        "come_from": []
+    },
+    "804": {
+        "id": "804",
+        "name": "Chúc Phúc Ảo Nhạc",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/804.png",
         "come_from": []
     },
     "821": {
@@ -1292,6 +1299,24 @@
         "icon": "icon/item/11003.png",
         "come_from": []
     },
+    "11505": {
+        "id": "11505",
+        "name": "Tinh Hồn Của Evanescia",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11506": {
+        "id": "11506",
+        "name": "Tinh Hồn Của Sói Bạc LV.999",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
     "18001": {
         "id": "18001",
         "name": "Hình Ảnh \"Hủy Diệt\"",
@@ -1371,6 +1396,27 @@
         "sub_type": "Eidolon",
         "rarity": 5,
         "icon": "icon/item/18007.png",
+        "come_from": []
+    },
+    "18009": {
+        "id": "18009",
+        "name": "Cái Bóng Của Vui Vẻ",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/18009.png",
+        "come_from": [
+            "Nhận từ thưởng cấp độ phúc lợi của \"Thời Sự Furbobocom\"",
+            "Thưởng Nhiệm Vụ Khai Phá"
+        ]
+    },
+    "18010": {
+        "id": "18010",
+        "name": "Cái Bóng Của Vui Vẻ",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/18009.png",
         "come_from": []
     },
     "71000": {
@@ -2542,7 +2588,7 @@
         "rarity": 5,
         "icon": "icon/item/71048.png",
         "come_from": [
-            "Hang Động Xâm Thực \"{TextID#FloorName_20462001}\"",
+            "Hang Động Xâm Thực \"Đại Lăng Mộ Titan Vô Danh: Ma Trận Toàn Thế\"",
             "Máy Ghép Vạn Năng - Ghép Di Vật"
         ]
     },
@@ -2581,7 +2627,7 @@
         "rarity": 5,
         "icon": "icon/item/71049.png",
         "come_from": [
-            "Hang Động Xâm Thực \"{TextID#FloorName_20462001}\"",
+            "Hang Động Xâm Thực \"Đại Lăng Mộ Titan Vô Danh: Ma Trận Toàn Thế\"",
             "Máy Ghép Vạn Năng - Ghép Di Vật"
         ]
     },
@@ -2619,10 +2665,7 @@
         "sub_type": "RelicSetShowOnly",
         "rarity": 5,
         "icon": "icon/item/71052.png",
-        "come_from": [
-            "Hang Động Xâm Thực \"{TextID#FloorName_20501001}\"",
-            "Máy Ghép Vạn Năng - Ghép Di Vật"
-        ]
+        "come_from": ["Hang Động Xâm Thực \"Học Viện Graphia\"", "Máy Ghép Vạn Năng - Ghép Di Vật"]
     },
     "81301": {
         "id": "81301",
@@ -2658,10 +2701,7 @@
         "sub_type": "RelicSetShowOnly",
         "rarity": 5,
         "icon": "icon/item/71053.png",
-        "come_from": [
-            "Hang Động Xâm Thực \"{TextID#FloorName_20501001}\"",
-            "Máy Ghép Vạn Năng - Ghép Di Vật"
-        ]
+        "come_from": ["Hang Động Xâm Thực \"Học Viện Graphia\"", "Máy Ghép Vạn Năng - Ghép Di Vật"]
     },
     "83011": {
         "id": "83011",
@@ -4353,8 +4393,7 @@
         "rarity": 2,
         "icon": "icon/item/110261.png",
         "come_from": [
-            "Máy Ghép Vạn Năng - Trao Đổi Tương Đương",
-            "Đài Hoa Nhân Tạo: {TextID#FloorName_20502001}",
+            "Đài Hoa Nhân Tạo: Quán Rượu \"Tận Thế\"",
             "Đổi Tro Tàn",
             "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"
         ]
@@ -4367,8 +4406,7 @@
         "rarity": 3,
         "icon": "icon/item/110262.png",
         "come_from": [
-            "Máy Ghép Vạn Năng - Trao Đổi Tương Đương",
-            "Đài Hoa Nhân Tạo: {TextID#FloorName_20502001}",
+            "Đài Hoa Nhân Tạo: Quán Rượu \"Tận Thế\"",
             "Máy Ghép Vạn Năng - Ghép Nguyên Liệu",
             "Đổi Tro Tàn",
             "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"
@@ -4382,8 +4420,7 @@
         "rarity": 4,
         "icon": "icon/item/110263.png",
         "come_from": [
-            "Máy Ghép Vạn Năng - Trao Đổi Tương Đương",
-            "Đài Hoa Nhân Tạo: {TextID#FloorName_20502001}",
+            "Đài Hoa Nhân Tạo: Quán Rượu \"Tận Thế\"",
             "Máy Ghép Vạn Năng - Ghép Nguyên Liệu",
             "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"
         ]
@@ -4396,7 +4433,7 @@
         "rarity": 2,
         "icon": "icon/item/110271.png",
         "come_from": [
-            "Đài Hoa Nhân Tạo: {TextID#FloorName_20481001}",
+            "Đài Hoa Nhân Tạo: \"Bến Bờ Chôn Ký Ức\" Tàn Tích Thời Gian",
             "Đổi Tro Tàn",
             "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"
         ]
@@ -4409,7 +4446,7 @@
         "rarity": 3,
         "icon": "icon/item/110272.png",
         "come_from": [
-            "Đài Hoa Nhân Tạo: {TextID#FloorName_20481001}",
+            "Đài Hoa Nhân Tạo: \"Bến Bờ Chôn Ký Ức\" Tàn Tích Thời Gian",
             "Máy Ghép Vạn Năng - Ghép Nguyên Liệu",
             "Đổi Tro Tàn",
             "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"
@@ -4423,9 +4460,49 @@
         "rarity": 4,
         "icon": "icon/item/110273.png",
         "come_from": [
-            "Đài Hoa Nhân Tạo: {TextID#FloorName_20481001}",
+            "Đài Hoa Nhân Tạo: \"Bến Bờ Chôn Ký Ức\" Tàn Tích Thời Gian",
             "Máy Ghép Vạn Năng - Ghép Nguyên Liệu",
             "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"
+        ]
+    },
+    "110311": {
+        "id": "110311",
+        "name": "Nước Mắt Phagousa",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 2,
+        "icon": "icon/item/110311.png",
+        "come_from": [
+            "Đài Hoa Nhân Tạo - Điện Cây Giác Ngộ \"Rừng Thiêng Vệt Sáng\"",
+            "Đổi Tro Tàn",
+            "\"Máy Ghép Vạn Năng\" - Đổi Nguyên Liệu"
+        ]
+    },
+    "110312": {
+        "id": "110312",
+        "name": "Rượu Phagousa",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 3,
+        "icon": "icon/item/110312.png",
+        "come_from": [
+            "Đài Hoa Nhân Tạo - Điện Cây Giác Ngộ \"Rừng Thiêng Vệt Sáng\"",
+            "\"Máy Ghép Vạn Năng\" - Ghép Nguyên Liệu",
+            "Đổi Tro Tàn",
+            "\"Máy Ghép Vạn Năng\" - Đổi Nguyên Liệu"
+        ]
+    },
+    "110313": {
+        "id": "110313",
+        "name": "Trái Tim Phagousa",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 4,
+        "icon": "icon/item/110313.png",
+        "come_from": [
+            "Đài Hoa Nhân Tạo - Điện Cây Giác Ngộ \"Rừng Thiêng Vệt Sáng\"",
+            "\"Máy Ghép Vạn Năng\" - Ghép Nguyên Liệu",
+            "\"Máy Ghép Vạn Năng\" - Đổi Nguyên Liệu"
         ]
     },
     "110400": {
@@ -4658,7 +4735,7 @@
         "rarity": 4,
         "icon": "icon/item/110432.png",
         "come_from": [
-            "Hư Ảnh Ngưng Đọng: {TextID#FloorName_20422001}",
+            "Hư Ảnh Ngưng Đọng: \"Thánh Địa Lời Sấm Truyền\" Janusopolis",
             "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"
         ]
     },
@@ -4670,7 +4747,7 @@
         "rarity": 4,
         "icon": "icon/item/110433.png",
         "come_from": [
-            "Hư Ảnh Ngưng Đọng: {TextID#FloorName_20451001}",
+            "Hư Ảnh Ngưng Đọng: \"Biển Cả Rền Vang\" Styxia",
             "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"
         ]
     },
@@ -4681,10 +4758,7 @@
         "sub_type": "AvatarRank",
         "rarity": 4,
         "icon": "icon/item/110434.png",
-        "come_from": [
-            "Hư Ảnh Ngưng Đọng: {TextID#FloorName_20503001}",
-            "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"
-        ]
+        "come_from": ["Hư Ảnh Ngưng Đọng: Quận Dovebrook", "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"]
     },
     "110435": {
         "id": "110435",
@@ -4792,7 +4866,7 @@
         "sub_type": "WeeklyMonsterDrop",
         "rarity": 4,
         "icon": "icon/item/110508.png",
-        "come_from": ["Dư Âm Chiến Đấu: {TextID#FloorName_20481001}"]
+        "come_from": ["Dư Âm Chiến Đấu: \"Bến Bờ Chôn Ký Ức\" Tàn Tích Thời Gian"]
     },
     "111000": {
         "id": "111000",
@@ -5460,6 +5534,15 @@
         "icon": "icon/item/121006.png",
         "come_from": []
     },
+    "121007": {
+        "id": "121007",
+        "name": "Băng Kỷ Niệm",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/121007.png",
+        "come_from": []
+    },
     "122000": {
         "id": "122000",
         "name": "Xu Aideen",
@@ -5486,6 +5569,15 @@
         "rarity": 3,
         "icon": "icon/item/123001.png",
         "come_from": []
+    },
+    "123002": {
+        "id": "123002",
+        "name": "Thẻ Quyền Hạn",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/123000.png",
+        "come_from": ["Nhận từ sự kiện \"Truy Tìm Di Sản\""]
     },
     "140000": {
         "id": "140000",
@@ -10203,6 +10295,24 @@
         "icon": "icon/item/140609.png",
         "come_from": []
     },
+    "140610": {
+        "id": "140610",
+        "name": "Bàn Tay Tròn Của Yêu Tinh Khai Phá (Trái)",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140610.png",
+        "come_from": []
+    },
+    "140611": {
+        "id": "140611",
+        "name": "Cúp \"Đấng Bảo Vệ Hành Tinh Xanh\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140611.png",
+        "come_from": []
+    },
     "149957": {
         "id": "149957",
         "name": "Ảnh Chụp Cùng March 7th",
@@ -11344,6 +11454,15 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/150100.png",
+        "come_from": []
+    },
+    "150101": {
+        "id": "150101",
+        "name": "Huy Hiệu \"Tuần Báo Furbobo\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/150101.png",
         "come_from": []
     },
     "180001": {
@@ -20167,7 +20286,7 @@
     },
     "191997": {
         "id": "191997",
-        "name": "Truyền Thuyết Quỷ Trời Bên Ngoài Ranh Giới",
+        "name": "Truyền Thuyết Thiên Ma Bên Ngoài Bầu Trời",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -20730,6 +20849,276 @@
         "sub_type": "Book",
         "rarity": 1,
         "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192061": {
+        "id": "192061",
+        "name": "Phỏng Đoán Hợp Lý Về Cơ Chế Trò Chơi Ảo Nguyệt",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192062": {
+        "id": "192062",
+        "name": "Giới Thiệu Tập Đoàn Ploo",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192063": {
+        "id": "192063",
+        "name": "Sổ Tay Quan Trắc Tình Trạng Hoạt Động Rồng Sừng Sấm",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192064": {
+        "id": "192064",
+        "name": "Dẫn Luận Nguyện Lực Học Cơ Bản",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192065": {
+        "id": "192065",
+        "name": "Thư Kiến Nghị Chung Về Việc Khôi Phục Hình Thái Trong Tranh Của Thành Phố Seafeld",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192066": {
+        "id": "192066",
+        "name": "Ghi Chép Nuôi Dưỡng Vật Thí Nghiệm A",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192067": {
+        "id": "192067",
+        "name": "Kỷ Yếu Cựu Học Sinh Khóa 1984 - Fulwish",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192068": {
+        "id": "192068",
+        "name": "Về Kế Hoạch Chương Trình Giải Trí Của Fulwish",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192069": {
+        "id": "192069",
+        "name": "Nhãn Trên Búp Bê Sparkle",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192070": {
+        "id": "192070",
+        "name": "Những Điều Cần Biết Của Diễn Viên Quần Chúng",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192071": {
+        "id": "192071",
+        "name": "Ghi Chép Chẩn Trị Tâm Lý Trước Phẫu Thuật",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192072": {
+        "id": "192072",
+        "name": "Báo Cáo Về Biến Động Bất Thường Của Dòng Hải Lưu",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192073": {
+        "id": "192073",
+        "name": "Biên Niên Sử Đài Seafeld TV",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192074": {
+        "id": "192074",
+        "name": "Thư Gửi Đến Thám Tử",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192075": {
+        "id": "192075",
+        "name": "Cuộn Băng Xuất Sắc Nhất Lịch Sử",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192076": {
+        "id": "192076",
+        "name": "Tập Truyện Absenti",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192077": {
+        "id": "192077",
+        "name": "Rất Không Xin Lỗi Vì Phải Thông Báo Cho Bạn Theo Cách Này",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192078": {
+        "id": "192078",
+        "name": "Thư Gửi Toàn Thể Nhân Viên Đài Truyền Hình Fulwish",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192079": {
+        "id": "192079",
+        "name": "Nói Về Hội Nghiên Cứu Hạnh Phúc",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192080": {
+        "id": "192080",
+        "name": "Thư Của Yoyo",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192081": {
+        "id": "192081",
+        "name": "Khám Phá Khoa Học: Vùng Tối Thần Bí",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192082": {
+        "id": "192082",
+        "name": "Tìm Kiếm \"Kraken\"",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192083": {
+        "id": "192083",
+        "name": "Vừa Gần, Vừa Đẹp, Cuối Tuần Đến Seafeld",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192084": {
+        "id": "192084",
+        "name": "Bảng Thông Báo Bến Cảng",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192085": {
+        "id": "192085",
+        "name": "Truyền Thuyết Thần Mộc Trên Đảo Bay",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192086": {
+        "id": "192086",
+        "name": "Ước Định Hạnh Phúc Seafeld",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192087": {
+        "id": "192087",
+        "name": "Kịch Bản Phát Thanh Đêm Khuya",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192088": {
+        "id": "192088",
+        "name": "Khảo Cứu Văn Hóa \"Murata\"",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192089": {
+        "id": "192089",
+        "name": "Ký Sự Mỡ Nổi: Chương Ếch (III)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192090": {
+        "id": "192090",
+        "name": "Ký Sự Mỡ Nổi: Chương Hồ Ly (VII)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
         "come_from": []
     },
     "210001": {
@@ -22640,6 +23029,78 @@
         "icon": "icon/item/210001.png",
         "come_from": []
     },
+    "210462": {
+        "id": "210462",
+        "name": "\"Sóng Điện Trống Rỗng\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210463": {
+        "id": "210463",
+        "name": "\"Vui Vẻ Đến Chết\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210464": {
+        "id": "210464",
+        "name": "\"Thời Đại Đại Truyền Thông\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210465": {
+        "id": "210465",
+        "name": "\"Trên Cao Nhìn Xuống\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210466": {
+        "id": "210466",
+        "name": "\"Thành Phố Nhỏ Ven Biển\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210467": {
+        "id": "210467",
+        "name": "\"Lơ Lửng\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210468": {
+        "id": "210468",
+        "name": "\"Sinh Trưởng Tùy Ý\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210469": {
+        "id": "210469",
+        "name": "\"Cái Chết Và Tái Sinh\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
     "215001": {
         "id": "215001",
         "name": "\"Tí Tách\"",
@@ -22670,6 +23131,15 @@
     "215004": {
         "id": "215004",
         "name": "\"Lách Tách\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "215008": {
+        "id": "215008",
+        "name": "\"Lời Của Cây\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -25360,7 +25830,7 @@
         "sub_type": "PlayerOutfit",
         "rarity": 5,
         "icon": "icon/item/227007.png",
-        "come_from": ["Hộp \"Phụ Kiện Tóc Thời Thượng\""]
+        "come_from": ["Nhận tại Cửa Hàng \"Vật Phẩm Thời Trang\""]
     },
     "227008": {
         "id": "227008",
@@ -25372,6 +25842,42 @@
         "come_from": [
             "Thời Trang Khai Phá nhận được từ phần thưởng cấp độ bán chạy của \"Thời Sự Furbobocom\""
         ]
+    },
+    "227009": {
+        "id": "227009",
+        "name": "Đỉnh Lưu Hoàn Vũ - Tai Nghe Tai Mèo Neon",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227009.png",
+        "come_from": ["Nhận tại Cửa Hàng \"Món Quà Ánh Sao\""]
+    },
+    "227010": {
+        "id": "227010",
+        "name": "Gấu Mèo Lột Xác Thành Cáo Evane",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 5,
+        "icon": "icon/item/227010.png",
+        "come_from": ["Hộp \"Phi Ảnh Hồ Ly\"", "Nhận tại Cửa Hàng \"Vật Phẩm Thời Trang\""]
+    },
+    "227012": {
+        "id": "227012",
+        "name": "Kính Furbo",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227012.png",
+        "come_from": ["Nhận tại Cửa Hàng \"Món Quà Ánh Sao\""]
+    },
+    "227013": {
+        "id": "227013",
+        "name": "Kính Ngầu Ngầu Ngầu",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 5,
+        "icon": "icon/item/227013.png",
+        "come_from": ["Hộp \"Speedrun Vũ Trụ\""]
     },
     "229001": {
         "id": "229001",
@@ -27497,6 +28003,15 @@
         "icon": "icon/item/251003.png",
         "come_from": []
     },
+    "251004": {
+        "id": "251004",
+        "name": "Đoàn Phóng Viên Furbo",
+        "type": "Pet",
+        "sub_type": "NormalPet",
+        "rarity": 5,
+        "icon": "icon/item/251004.png",
+        "come_from": []
+    },
     "252000": {
         "id": "252000",
         "name": "Đồng Phục Lái Tàu Đỏ Đô Nghiêm Trang",
@@ -27522,6 +28037,24 @@
         "sub_type": "PamSkin",
         "rarity": 4,
         "icon": "icon/item/252002.png",
+        "come_from": ["Nhận tại Cửa Hàng \"Món Quà Ánh Sao\""]
+    },
+    "252003": {
+        "id": "252003",
+        "name": "Bộ Lễ Phục Năm Tháng Khai Phá!",
+        "type": "Usable",
+        "sub_type": "PamSkin",
+        "rarity": 4,
+        "icon": "icon/item/252003.png",
+        "come_from": ["Nhận khi trò chuyện với Pom-Pom trong \"Pom-Pom Trợ Giúp\""]
+    },
+    "252004": {
+        "id": "252004",
+        "name": "Bộ Lễ Phục Mộng Đẹp Hoàng Kim!",
+        "type": "Usable",
+        "sub_type": "PamSkin",
+        "rarity": 5,
+        "icon": "icon/item/252004.png",
         "come_from": ["Nhận tại Cửa Hàng \"Món Quà Ánh Sao\""]
     },
     "252100": {
@@ -29180,6 +29713,15 @@
         "icon": "icon/item/253003.png",
         "come_from": []
     },
+    "253004": {
+        "id": "253004",
+        "name": "Tiến Lên Thiên Đường Vui Vẻ",
+        "type": "Usable",
+        "sub_type": "PersonalCard",
+        "rarity": 5,
+        "icon": "icon/item/253004.png",
+        "come_from": ["Hộp \"Speedrun Vũ Trụ\""]
+    },
     "254000": {
         "id": "254000",
         "name": "Ý Chí Tự Do của {NICKNAME}",
@@ -29875,6 +30417,96 @@
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": ["Mua trong \"Gói Mở Rộng 1\" tại Cửa Hàng Băng Lực Chiến Vũ Trụ"]
     },
+    "264026": {
+        "id": "264026",
+        "name": "Sói Bạc LV.999",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Mua trong \"Gói Mở Rộng 2\" tại Cửa Hàng Băng Lực Chiến Vũ Trụ"]
+    },
+    "264027": {
+        "id": "264027",
+        "name": "Evanescia",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Mua trong \"Gói Mở Rộng 2\" tại Cửa Hàng Băng Lực Chiến Vũ Trụ"]
+    },
+    "264028": {
+        "id": "264028",
+        "name": "{NICKNAME}",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Mua trong \"Gói Mở Rộng 2\" tại Cửa Hàng Băng Lực Chiến Vũ Trụ"]
+    },
+    "264029": {
+        "id": "264029",
+        "name": "Ashveil",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Mua trong \"Gói Mở Rộng 2\" tại Cửa Hàng Băng Lực Chiến Vũ Trụ"]
+    },
+    "264030": {
+        "id": "264030",
+        "name": "Sunday",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Mua trong \"Gói Mở Rộng 2\" tại Cửa Hàng Băng Lực Chiến Vũ Trụ"]
+    },
+    "264031": {
+        "id": "264031",
+        "name": "Blade",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Mua trong \"Gói Mở Rộng 2\" tại Cửa Hàng Băng Lực Chiến Vũ Trụ"]
+    },
+    "264032": {
+        "id": "264032",
+        "name": "Hysilens",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Mua trong \"Gói Mở Rộng 2\" tại Cửa Hàng Băng Lực Chiến Vũ Trụ"]
+    },
+    "264033": {
+        "id": "264033",
+        "name": "Tribbie",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Mua trong \"Gói Mở Rộng 2\" tại Cửa Hàng Băng Lực Chiến Vũ Trụ"]
+    },
+    "264034": {
+        "id": "264034",
+        "name": "Ruan Mei",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
+        "come_from": ["Mua trong \"Gói Mở Rộng 2\" tại Cửa Hàng Băng Lực Chiến Vũ Trụ"]
+    },
+    "264035": {
+        "id": "264035",
+        "name": "Himeko",
+        "type": "Material",
+        "sub_type": "DiceCombatAvatar",
+        "rarity": 3,
+        "icon": "icon/item/264035.png",
+        "come_from": ["Hoàn thành nhiệm vụ \"Huyết Mạch Sói Cô Độc\""]
+    },
     "264101": {
         "id": "264101",
         "name": "",
@@ -29944,7 +30576,7 @@
         "type": "Material",
         "sub_type": "DiceCombatDice",
         "rarity": 3,
-        "icon": "icon/item/264405.png",
+        "icon": "icon/item/264428.png",
         "come_from": ["Mua trong \"Gói Mở Rộng 1\" tại Cửa Hàng Băng Lực Chiến Vũ Trụ"]
     },
     "264406": {
@@ -30082,6 +30714,60 @@
         "icon": "icon/item/264422.png",
         "come_from": ["Mua trong \"Gói Mở Rộng 1\" tại Cửa Hàng Băng Lực Chiến Vũ Trụ"]
     },
+    "264423": {
+        "id": "264423",
+        "name": "\"Thực - Chất Độc\"",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264423.png",
+        "come_from": ["Mua trong \"Gói Mở Rộng 2\" tại Cửa Hàng Băng Lực Chiến Vũ Trụ"]
+    },
+    "264424": {
+        "id": "264424",
+        "name": "\"Thực - Tụ Lực\"",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264426.png",
+        "come_from": ["Mua trong \"Gói Mở Rộng 2\" tại Cửa Hàng Băng Lực Chiến Vũ Trụ"]
+    },
+    "264425": {
+        "id": "264425",
+        "name": "\"Thực - May Mắn\"",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264425.png",
+        "come_from": ["Mua trong \"Gói Mở Rộng 2\" tại Cửa Hàng Băng Lực Chiến Vũ Trụ"]
+    },
+    "264426": {
+        "id": "264426",
+        "name": "\"Thực - Mãnh Công\"",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264424.png",
+        "come_from": ["Mua trong \"Gói Mở Rộng 2\" tại Cửa Hàng Băng Lực Chiến Vũ Trụ"]
+    },
+    "264427": {
+        "id": "264427",
+        "name": "\"Thực - Cố Thủ\"",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264427.png",
+        "come_from": ["Mua trong \"Gói Mở Rộng 2\" tại Cửa Hàng Băng Lực Chiến Vũ Trụ"]
+    },
+    "264428": {
+        "id": "264428",
+        "name": "\"Thực - Nhẫn Nại\"",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264428.png",
+        "come_from": ["Mua trong \"Gói Mở Rộng 2\" tại Cửa Hàng Băng Lực Chiến Vũ Trụ"]
+    },
     "264502": {
         "id": "264502",
         "name": "",
@@ -30115,7 +30801,7 @@
         "type": "Material",
         "sub_type": "DiceCombatDice",
         "rarity": 3,
-        "icon": "icon/item/264405.png",
+        "icon": "icon/item/264428.png",
         "come_from": []
     },
     "264506": {
@@ -30253,6 +30939,24 @@
         "icon": "icon/item/264422.png",
         "come_from": []
     },
+    "264523": {
+        "id": "264523",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264426.png",
+        "come_from": []
+    },
+    "264524": {
+        "id": "264524",
+        "name": "",
+        "type": "Material",
+        "sub_type": "DiceCombatDice",
+        "rarity": 3,
+        "icon": "icon/item/264423.png",
+        "come_from": []
+    },
     "264996": {
         "id": "264996",
         "name": "Xu Lực Chiến",
@@ -30283,7 +30987,8 @@
         "icon": "icon/item/264998.png",
         "come_from": [
             "Tham gia sự kiện \"Đổ Xúc Xắc Nào! Băng Lực Chiến!\" để nhận",
-            "Nhận được sau khi đấu với các bài thủ trong quá trình khám phá Planarcadia"
+            "Nhận được sau khi đấu với các bài thủ trong quá trình khám phá Planarcadia",
+            "Tham gia sự kiện \"Lại Đổ Xúc Xắc Nào! Băng Lực Chiến!\" để nhận"
         ]
     },
     "264999": {
@@ -30295,7 +31000,8 @@
         "icon": "icon/item/264999.png",
         "come_from": [
             "Tham gia sự kiện \"Đổ Xúc Xắc Nào! Băng Lực Chiến!\" để nhận",
-            "Nhận được sau khi đấu với các bài thủ trong quá trình khám phá Planarcadia"
+            "Nhận được sau khi đấu với các bài thủ trong quá trình khám phá Planarcadia",
+            "Tham gia sự kiện \"Lại Đổ Xúc Xắc Nào! Băng Lực Chiến!\" để nhận"
         ]
     },
     "265001": {
@@ -30730,6 +31436,51 @@
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
     },
+    "266001": {
+        "id": "266001",
+        "name": "Xu Vàng",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266001.png",
+        "come_from": []
+    },
+    "266002": {
+        "id": "266002",
+        "name": "Điểm Thiên Phú",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266002.png",
+        "come_from": []
+    },
+    "266003": {
+        "id": "266003",
+        "name": "Rương Bất Ngờ",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266003.png",
+        "come_from": []
+    },
+    "266004": {
+        "id": "266004",
+        "name": "",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/300103.png",
+        "come_from": []
+    },
+    "266005": {
+        "id": "266005",
+        "name": "Kim Cương",
+        "type": "Material",
+        "sub_type": "IdleLiveItem",
+        "rarity": 4,
+        "icon": "icon/item/266005.png",
+        "come_from": []
+    },
     "267001": {
         "id": "267001",
         "name": "",
@@ -30738,6 +31489,15 @@
         "rarity": 4,
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
+    },
+    "269001": {
+        "id": "269001",
+        "name": "Xu Lực Chiến Sắc Màu",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/269001.png",
+        "come_from": ["Tham gia sự kiện \"Lại Đổ Xúc Xắc Nào! Băng Lực Chiến!\" để nhận"]
     },
     "270000": {
         "id": "270000",
@@ -31564,6 +32324,15 @@
         "sub_type": "Gift",
         "rarity": 5,
         "icon": "icon/item/310013.png",
+        "come_from": []
+    },
+    "310014": {
+        "id": "310014",
+        "name": "Hộp \"Speedrun Vũ Trụ\"",
+        "type": "Usable",
+        "sub_type": "Gift",
+        "rarity": 5,
+        "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
     },
     "311000": {

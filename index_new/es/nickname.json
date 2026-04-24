@@ -79,6 +79,8 @@
         "1501": ["Chispa"],
         "1502": ["Yao Guang"],
         "1504": ["Ashveil"],
+        "1505": ["Evanescia"],
+        "1506": ["Silver Wolf Niv. 999"],
         "8001": ["{NICKNAME}"],
         "8002": ["{NICKNAME}"],
         "8003": ["{NICKNAME}"],
@@ -86,7 +88,9 @@
         "8005": ["{NICKNAME}"],
         "8006": ["{NICKNAME}"],
         "8007": ["{NICKNAME}"],
-        "8008": ["{NICKNAME}"]
+        "8008": ["{NICKNAME}"],
+        "8009": ["{NICKNAME}"],
+        "8010": ["{NICKNAME}"]
     },
     "light_cones": {
         "20000": ["Flechas"],
@@ -184,6 +188,7 @@
         "22004": ["El gran negocio cósmico"],
         "22005": ["Viandas sin fin"],
         "22006": ["Volando hacia un mañana rosado"],
+        "22007": ["Juntos hacia el futuro"],
         "23000": ["Noche en la Vía Láctea"],
         "23001": ["En la noche"],
         "23002": ["Algo insustituible"],
@@ -240,6 +245,8 @@
         "23053": ["El cautivador mundochispa"],
         "23054": ["Cuando se decidió a ver"],
         "23056": ["El final de una mentira"],
+        "23057": ["Bienvenidos a la ciudad cósmica"],
+        "23058": ["Encuentro en la próxima primavera"],
         "24000": ["Sobre la caída de un Eón"],
         "24001": ["Crucero estelar"],
         "24002": ["La textura de los recuerdos"],
