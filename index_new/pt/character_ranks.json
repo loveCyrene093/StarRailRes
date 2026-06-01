@@ -6648,6 +6648,80 @@
         "level_up_skills": [],
         "icon": "icon/skill/1506_rank6.png"
     },
+    "150701": {
+        "id": "150701",
+        "name": "Antes da Minha Morte, Eu Era Incompleto",
+        "rank": 1,
+        "desc": "Enquanto o Campo está ativo, reduz a RES Todos os Tipos de todos os inimigos em 20%. Após usar a Perícia extra do Talento, a contagem regressiva de \"Fúria Infinita\" tem sua ação atrasada em 15%.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank1.png"
+    },
+    "150702": {
+        "id": "150702",
+        "name": "Meu Coração Era Cinza, Mas a Chama Permaneceu",
+        "rank": 2,
+        "desc": "Quando um personagem aliado usa a Perícia Suprema para causar Dano, considera-se como se ele tivesse utilizado um Ataque Extra. O Dano causado pelo Ataque Extra de aliados-alvo aumenta em 75%. O limite superior de Carga de Mortenax Blade diminui em 7.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank2.png"
+    },
+    "150703": {
+        "id": "150703",
+        "name": "Além da Margem, a Ira Revelada",
+        "rank": 3,
+        "desc": "Nv. da Perícia Suprema +2, até no máximo Nv. 15.\nNv. do Talento +2, até no máximo Nv. 15.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150703", "num": 2 },
+            { "id": "150704", "num": 2 },
+            { "id": "150714", "num": 2 }
+        ],
+        "icon": "icon/skill/1507_ultimate.png"
+    },
+    "150704": {
+        "id": "150704",
+        "name": "O Ressentimento Forjado, a Lâmina Originou",
+        "rank": 4,
+        "desc": "\"Coração, Refinado ao Infinito\" aumenta adicionalmente o Dano causado dos aliados-alvo em 50%.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank4.png"
+    },
+    "150705": {
+        "id": "150705",
+        "name": "Rompi Meus Infortúnios, Sabendo que a Morte Gera Vida",
+        "rank": 5,
+        "desc": "Nv. da Perícia +2, até no máximo Nv. 15.\nNv. do ATQ Básico +1, até no máximo Nv. 10.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150702", "num": 2 },
+            { "id": "150701", "num": 1 },
+            { "id": "150708", "num": 1 }
+        ],
+        "icon": "icon/skill/1507_skill.png"
+    },
+    "150706": {
+        "id": "150706",
+        "name": "Se a Imortalidade Pudesse Morrer, Eu Tomaria SUA Vida",
+        "rank": 6,
+        "desc": "Enquanto o Campo persistir, quando Mortenax Blade recebe Dano ou consome PV, ele ganha 1 Carga. Esse efeito pode ativar novamente após o término da rodada de qualquer alvo. O multiplicador de Dano de \"Tenax Per Ignem\" aumenta para 150% do valor original.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank6.png"
+    },
     "800101": {
         "id": "800101",
         "name": "Uma Estrela Cadente",

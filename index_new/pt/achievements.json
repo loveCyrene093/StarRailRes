@@ -1623,6 +1623,46 @@
         "hide_desc": "※ Aceite o pedido de Evanescia",
         "hide": false
     },
+    "4035301": {
+        "id": "4035301",
+        "series_id": "3",
+        "title": "Dedução Proibida",
+        "desc": "A dedução vem depois do brinde",
+        "hide_desc": "※ Vá à taverna investigar pistas sobre Asat Pramad",
+        "hide": false
+    },
+    "4035302": {
+        "id": "4035302",
+        "series_id": "3",
+        "title": "Acenda as Luzes do Passado",
+        "desc": "Vem pra guerra de bolas de neve!",
+        "hide_desc": "※ Invoque Graphia usando o método de uma promessa feita há muito tempo",
+        "hide": false
+    },
+    "4035303": {
+        "id": "4035303",
+        "series_id": "3",
+        "title": "Um Momento na Margem Distante",
+        "desc": "Pule e se dissolva naquele Vórtice Azul.",
+        "hide_desc": "※ Testemunhe a jornada de Blade até o fim do Mundo de Telas",
+        "hide": false
+    },
+    "4035304": {
+        "id": "4035304",
+        "series_id": "3",
+        "title": "A Natureza de Blade",
+        "desc": "O que faz uma lâmina? O que se desgasta até virar pó e despedaça os inimigos?",
+        "hide_desc": "※ Blade encontrou a sua resposta",
+        "hide": false
+    },
+    "4035305": {
+        "id": "4035305",
+        "series_id": "3",
+        "title": "Uma Piada Que Se Perde no Vazio",
+        "desc": "Nada mata uma piada tão rápido quanto explicá-la",
+        "hide_desc": "※ Testemunhe a revelação da verdadeira identidade de Asat Pramad",
+        "hide": false
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -4276,6 +4316,62 @@
         "series_id": "4",
         "title": "Variação de Arcádia: Canção da Capivara",
         "desc": "Toque uma Melodia Bizarra e encontre a criatura misteriosa escondida na Cidade de Felipe de Noronha",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045301": {
+        "id": "4045301",
+        "series_id": "4",
+        "title": "Uma Vida Solitária",
+        "desc": "Conclua a \"Hora de Saltar\" no Retiro Purificarte",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045302": {
+        "id": "4045302",
+        "series_id": "4",
+        "title": "Desvie do Assassino",
+        "desc": "Conclua a \"Hora de Saltar\" no Retiro Purificarte sem ser {F#atingida}{M#atingido} por nenhum Ouriçae",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045303": {
+        "id": "4045303",
+        "series_id": "4",
+        "title": "O Último Gigante de Gelo",
+        "desc": "Nocauteie Gaspar",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045304": {
+        "id": "4045304",
+        "series_id": "4",
+        "title": "As Terras Invernais",
+        "desc": "Encontre o baú escondido no castelo durante a guerra de bolas de neve com Gaspar no \"Salto Interplanar!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045305": {
+        "id": "4045305",
+        "series_id": "4",
+        "title": "Boas-vindas à Plataforma de Vapor",
+        "desc": "Tome um banho nas termas nevadas do Retiro Purificarte",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045306": {
+        "id": "4045306",
+        "series_id": "4",
+        "title": "Contos do Cavaleiro Sem Cabeça",
+        "desc": "Chute a cabeça de todos os \"Bonecos de Neve Comuns\" no Retiro Purificarte",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045307": {
+        "id": "4045307",
+        "series_id": "4",
+        "title": "Variação de Arcádia: Criança de Neve",
+        "desc": "Toque uma Melodia Bizarra e encontre a criatura misteriosa escondida no Retiro Purificarte",
         "hide_desc": "",
         "hide": false
     },
@@ -9703,6 +9799,102 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055301": {
+        "id": "4055301",
+        "series_id": "5",
+        "title": "Partiu, Ônibus Astral!",
+        "desc": "Pergunte à Nihilux sobre a história dos Novos Jogos da Lua Fantasma",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055302": {
+        "id": "4055302",
+        "series_id": "5",
+        "title": "Lendas Infinitas",
+        "desc": "Apoie a continuação do desenvolvimento de Coelho Estelar",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055303": {
+        "id": "4055303",
+        "series_id": "5",
+        "title": "E Assim, Viveu Feliz Para Sempre...",
+        "desc": "Oponha-se à continuação do desenvolvimento de Coelho Estelar",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055304": {
+        "id": "4055304",
+        "series_id": "5",
+        "title": "Guardião do Mundo de Telas",
+        "desc": "Invoque \"Graphia\" no círculo mágico do Retiro Purificarte",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055305": {
+        "id": "4055305",
+        "series_id": "5",
+        "title": "Pessoa de Alta Energia",
+        "desc": "Encontre e converse com o Sombrinho tanto no Distrito Solaranjas quanto no Retiro Purificarte, uma vez em cada local",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055306": {
+        "id": "4055306",
+        "series_id": "5",
+        "title": "Romance da Ginkgo",
+        "desc": "Observe dois transeuntes se despedindo com carinho em frente à estação",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055307": {
+        "id": "4055307",
+        "series_id": "5",
+        "title": "Arma de Combate Decisiva Definitiva",
+        "desc": "No \"Combate dos Aviões Pixelados\", melhore um equipamento de núcleo para 3 estrelas pela primeira vez",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055308": {
+        "id": "4055308",
+        "series_id": "5",
+        "title": "Canção de Sparxie Continuada",
+        "desc": "No \"Combate dos Aviões Pixelados\", derrote Sparxie usando \"Magia do Circuito\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055309": {
+        "id": "4055309",
+        "series_id": "5",
+        "title": "Aliança Sob o Azul",
+        "desc": "Desbloqueie todos os aviões pixelados no \"Combate dos Aviões Pixelados\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055310": {
+        "id": "4055310",
+        "series_id": "5",
+        "title": "Ás do Combate Aéreo",
+        "desc": "No \"Combate dos Aviões Pixelados\", vença o Confronto Final sem perder nenhuma vida",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055311": {
+        "id": "4055311",
+        "series_id": "5",
+        "title": "Kit de Formatura",
+        "desc": "No \"Combate dos Aviões Pixelados\", possua 7 equipamentos de 3 estrelas simultaneamente em uma única partida",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055312": {
+        "id": "4055312",
+        "series_id": "5",
+        "title": "Ás de Todos os Modelos",
+        "desc": "No \"Combate dos Aviões Pixelados\", vença uma partida com cada avião",
+        "hide_desc": "",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -12347,7 +12539,7 @@
         "id": "4075201",
         "series_id": "7",
         "title": "Nada de Cara Feia",
-        "desc": "Em uma única batalha, use a Perícia Suprema {F#da Desbravadora}{M#do Desbravador} (A Euforia) em 4 aliados diferentes uma vez cada",
+        "desc": "Em uma única batalha, use a Perícia Suprema {F#da Desbravadora}{M#do Desbravador} (A Euforia) em 4 personagens diferentes uma vez cada",
         "hide_desc": "",
         "hide": true
     },
@@ -12422,6 +12614,46 @@
         "desc": "Na batalha contra \"Ascendente da Alegria\", derrote 4 ou mais \"Ascendente da Alegria: Final\" em um único ataque",
         "hide_desc": "",
         "hide": false
+    },
+    "4075301": {
+        "id": "4075301",
+        "series_id": "7",
+        "title": "Forja Eterna, Guerreiros Forjados",
+        "desc": "Mortenax Blade tem 1 PV restantes ao vencer a batalha",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075302": {
+        "id": "4075302",
+        "series_id": "7",
+        "title": "Embate de Lâminas, Eco de Martelos, Cada Nota um Testemunho",
+        "desc": "Em uma única rodada, use o personagem aliado Mortenax Blade para ativar \"Uma Chuva de Lâminas Sela o Destino\" um total de 4 vez(es)",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075303": {
+        "id": "4075303",
+        "series_id": "7",
+        "title": "Mestre do Fogo das Chamas Ardentes",
+        "desc": "No combate contra a Artista Fundadora, Murata Graphia, selecione \"Extinguir Chamas\" quando seus PV estiverem baixos e a taxa de sucesso de extinção estiver no mínimo, e então dissipe o estado de \"Rancor Flamejante\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075304": {
+        "id": "4075304",
+        "series_id": "7",
+        "title": "Faxina Intestinal",
+        "desc": "No combate contra a Prole Devoradora de Deuses, use o personagem aliado com o maior ATQ para remover o estado de \"Devorar\" e ganhar um bônus de ATQ",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075305": {
+        "id": "4075305",
+        "series_id": "7",
+        "title": "Condenação Eterna",
+        "desc": "Faça o personagem aliado Mortenax Blade usar \"Tenax Per Ignem\" 6 vez(es) durante uma única ativação do estado de \"Fúria Infinita\"",
+        "hide_desc": "",
+        "hide": true
     },
     "4080101": {
         "id": "4080101",
@@ -13022,6 +13254,14 @@
         "desc": "Seja {F#atingida}{M#atingido} por um hidro-carro durante uma sequência de \"Salto Interplanar!\"",
         "hide_desc": "",
         "hide": true
+    },
+    "4085301": {
+        "id": "4085301",
+        "series_id": "8",
+        "title": "Você Quer Brincar na Neve? Um Boneco Quer Fazer?",
+        "desc": "Fique {F#congelada}{M#congelado} em um bloco de gelo durante o \"Salto Interplanar!\"",
+        "hide_desc": "",
+        "hide": false
     },
     "4090201": {
         "id": "4090201",

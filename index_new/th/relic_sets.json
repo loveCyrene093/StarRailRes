@@ -445,6 +445,30 @@
         ],
         "icon": "icon/relic/130.png"
     },
+    "131": {
+        "id": "131",
+        "name": "",
+        "desc": ["", ""],
+        "properties": [
+            [
+                { "type": "AttackAddedRatio", "value": 0.12 }
+            ],
+            []
+        ],
+        "icon": "icon/relic/131.png"
+    },
+    "132": {
+        "id": "132",
+        "name": "",
+        "desc": ["", ""],
+        "properties": [
+            [
+                { "type": "HPAddedRatio", "value": 0.12 }
+            ],
+            []
+        ],
+        "icon": "icon/relic/132.png"
+    },
     "301": {
         "id": "301",
         "name": "Space Sealing Station",

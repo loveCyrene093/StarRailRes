@@ -1539,6 +1539,16 @@
         "preview": "image/light_cone_preview/23058.png",
         "portrait": "image/light_cone_portrait/23058.png"
     },
+    "23059": {
+        "id": "23059",
+        "name": "",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "",
+        "icon": "icon/light_cone/23059.png",
+        "preview": "image/light_cone_preview/23059.png",
+        "portrait": "image/light_cone_portrait/23059.png"
+    },
     "24000": {
         "id": "24000",
         "name": "어떤 에이언즈의 몰락",

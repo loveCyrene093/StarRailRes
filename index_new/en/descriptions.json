@@ -1979,6 +1979,16 @@
         "title": "Switching to Ashveil's POV...",
         "desc": "While tracking the culprit, Ashveil stops by the bridge as memories of the past come flooding back..."
     },
+    "20100": {
+        "id": "20100",
+        "title": "Switching to Ashveil's POV...",
+        "desc": "Returning to \"World's End,\" Ashveil locks onto an extremely dangerous target..."
+    },
+    "20101": {
+        "id": "20101",
+        "title": "Switching to Himeko's POV...",
+        "desc": "As Himeko pursues the mysteries surrounding her father, she briefly recalls those artworks related to the Destruction..."
+    },
     "20102": {
         "id": "20102",
         "title": "Switching to Evanescia's POV...",

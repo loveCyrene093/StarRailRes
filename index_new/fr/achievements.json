@@ -1623,6 +1623,46 @@
         "hide_desc": "※ Accepter la requête d'Evanescia",
         "hide": false
     },
+    "4035301": {
+        "id": "4035301",
+        "series_id": "3",
+        "title": "Déduction taboue",
+        "desc": "La déduction vient après le tintement des verres",
+        "hide_desc": "※ Se rendre à la taverne pour enquêter sur l'existence d'Asat Pramad",
+        "hide": false
+    },
+    "4035302": {
+        "id": "4035302",
+        "series_id": "3",
+        "title": "Rallumer les lampes d'antan",
+        "desc": "Venez faire une bataille de boules de neige !",
+        "hide_desc": "※ Invoquer Graphia comme promis il y a longtemps",
+        "hide": false
+    },
+    "4035303": {
+        "id": "4035303",
+        "series_id": "3",
+        "title": "Un instant sur l'autre rive",
+        "desc": "Saute et engouffre-toi dans cette Gueule azurée",
+        "hide_desc": "※ Assister au voyage de Blade jusqu'au bout du monde dans la Toile",
+        "hide": false
+    },
+    "4035304": {
+        "id": "4035304",
+        "series_id": "3",
+        "title": "Ce qu'est une lame",
+        "desc": "Qu'est-ce qu'une lame, en essence ? Qu'est-ce qui se réduit en poussière, déchire les ennemis ?",
+        "hide_desc": "※ Blade a trouvé sa réponse",
+        "hide": false
+    },
+    "4035305": {
+        "id": "4035305",
+        "series_id": "3",
+        "title": "Une plaisanterie qui s'évanouit dans le néant",
+        "desc": "Rien n'est plus détestable que d'expliquer une blague",
+        "hide_desc": "※ Être témoin de la véritable identité d'Asat Pramad",
+        "hide": false
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -4130,7 +4170,7 @@
     "4045113": {
         "id": "4045113",
         "series_id": "4",
-        "title": "Variations d'Arcadia : Boîte-de-conserve",
+        "title": "Variation arcadienne : Boîte-de-conserve",
         "desc": "Jouer une mélodie étrange et trouver la mystérieuse créature cachée à la Tour Perluxe",
         "hide_desc": "",
         "hide": true
@@ -4266,7 +4306,7 @@
     "4045216": {
         "id": "4045216",
         "series_id": "4",
-        "title": "Variation Arcadia : Princesse de l'orbe",
+        "title": "Variation arcadienne : Princesse de l'orbe",
         "desc": "Jouer une mélodie étrange et trouver la mystérieuse créature cachée à la Tour de télévision de Merchamps",
         "hide_desc": "",
         "hide": false
@@ -4276,6 +4316,62 @@
         "series_id": "4",
         "title": "Variation Arcadia : Chanson du capybara",
         "desc": "Jouer une mélodie étrange et découvrir la mystérieuse créature qui se cache à Merchamps",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045301": {
+        "id": "4045301",
+        "series_id": "4",
+        "title": "Une vie de solitude",
+        "desc": "Terminer l'Heure du saut au Picto-ermitage",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045302": {
+        "id": "4045302",
+        "series_id": "4",
+        "title": "Esquiver l'assassin",
+        "desc": "Terminer l'Heure du saut au Picto-ermitage en évitant tous les Hérissae",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045303": {
+        "id": "4045303",
+        "series_id": "4",
+        "title": "Le dernier géant de givre",
+        "desc": "Mettre Casper K.O",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045304": {
+        "id": "4045304",
+        "series_id": "4",
+        "title": "Le pays de l'hiver",
+        "desc": "Trouver le coffre caché dans le château tout en vous livrant à une bataille de boules de neige avec Casper lors d'un Saut interdimensionnel !",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045305": {
+        "id": "4045305",
+        "series_id": "4",
+        "title": "Bienvenue sur cette plateforme vapeur",
+        "desc": "Profiter des sources chaudes enneigées au Picto-ermitage",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045306": {
+        "id": "4045306",
+        "series_id": "4",
+        "title": "Contes du Cavalier sans tête",
+        "desc": "Faire tomber les têtes de tous les bonhommes de neige ordinaires au Picto-ermitage",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045307": {
+        "id": "4045307",
+        "series_id": "4",
+        "title": "Variation arcadienne : l'enfant des neiges",
+        "desc": "Jouer une mélodie étrange et découvrir la mystérieuse créature qui se cache au Picto-ermitage",
         "hide_desc": "",
         "hide": false
     },
@@ -9703,6 +9799,102 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055301": {
+        "id": "4055301",
+        "series_id": "5",
+        "title": "En route vers l'Astral bus !",
+        "desc": "Interroger Nihilux sur l'histoire des Nouveaux Jeux Fabulunaires",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055302": {
+        "id": "4055302",
+        "series_id": "5",
+        "title": "Tales of Planarcadia",
+        "desc": "Aider au développement de Lapin stellaire",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055303": {
+        "id": "4055303",
+        "series_id": "5",
+        "title": "Et il vécut heureux jusqu'à la fin des temps...",
+        "desc": "S'opposer au développement de Lapin stellaire",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055304": {
+        "id": "4055304",
+        "series_id": "5",
+        "title": "{M#Gardien}{F#Gardienne} du Pictomonde",
+        "desc": "Invoquer Graphia dans le cercle magique du Picto-ermitage",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055305": {
+        "id": "4055305",
+        "series_id": "5",
+        "title": "Où trouve-t-il toute cette énergie ?",
+        "desc": "Rencontrer et parler à Pluipara dans le quartier de Colombeaux et au Picto-ermitage",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055306": {
+        "id": "4055306",
+        "series_id": "5",
+        "title": "Amour du gingko",
+        "desc": "Regarder deux passants faire leurs adieux émus devant la gare",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055307": {
+        "id": "4055307",
+        "series_id": "5",
+        "title": "Arme ultime pour la bataille décisive",
+        "desc": "Améliorer un équipement principal jusqu'au niveau 3 étoiles pour la première fois dans Pixels en rafales",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055308": {
+        "id": "4055308",
+        "series_id": "5",
+        "title": "Suite du chat de Sparxie",
+        "desc": "Vaincre Sparxie en utilisant Magie du circuit dans Pixels en rafales",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055309": {
+        "id": "4055309",
+        "series_id": "5",
+        "title": "Promesse sous le ciel azur",
+        "desc": "Débloquer tous les avions pixélisés dans Pixels en rafales",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055310": {
+        "id": "4055310",
+        "series_id": "5",
+        "title": "L'as de l'aviation",
+        "desc": "Remporter le duel ultime sans perdre une seule vie dans Pixels en rafales",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055311": {
+        "id": "4055311",
+        "series_id": "5",
+        "title": "Panoplie ultime",
+        "desc": "Dans Pixels en rafales, avoir 7 équipements 3 étoiles simultanément en une seule session",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055312": {
+        "id": "4055312",
+        "series_id": "5",
+        "title": "Spécialiste de tous les modèles d'avion",
+        "desc": "Remporter un match avec chaque avion dans Pixels en rafales",
+        "hide_desc": "",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -11387,7 +11579,7 @@
         "id": "4073505",
         "series_id": "7",
         "title": "Aux antipodes",
-        "desc": "Déclencher les répliques de « Tour inactif » de Jiaoqiu et de « Début du tour 2 » de Jing Yuan au cours du même combat",
+        "desc": "Déclencher les répliques « Début du tour 2 » de Jiaoqiu et de « Tour inactif » de Jing Yuan au cours du même combat",
         "hide_desc": "",
         "hide": true
     },
@@ -12347,7 +12539,7 @@
         "id": "4075201",
         "series_id": "7",
         "title": "Interdiction de faire la tête",
-        "desc": "Au cours d'un même combat, utiliser l'ultime {M#du pionnier}{F#de la pionnière} (L'Allégresse) sur 4 coéquipiers différents une fois chacun",
+        "desc": "Au cours d'un même combat, utiliser l'ultime {M#du pionnier}{F#de la pionnière} (L'Allégresse) sur 4 personnages différents une fois chacun",
         "hide_desc": "",
         "hide": true
     },
@@ -12422,6 +12614,46 @@
         "desc": "Dans le combat contre les Ascendantes de la joie, éliminez 4 Ascendante de la joie : Omega ou plus en une seule attaque",
         "hide_desc": "",
         "hide": false
+    },
+    "4075301": {
+        "id": "4075301",
+        "series_id": "7",
+        "title": "Guerriers nés de mille forges",
+        "desc": "Faire en sorte que Blade Mortenax remporte un combat avec 1 de PV restants",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075302": {
+        "id": "4075302",
+        "series_id": "7",
+        "title": "Fracas de lames et martellement du fer, une symphonie pour les sens",
+        "desc": "En un seul tour, utiliser le personnage allié Blade Mortenax pour déclencher Inhumation sous la lame un total de 4 fois",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075303": {
+        "id": "4075303",
+        "series_id": "7",
+        "title": "Capitaine des flammes ardentes",
+        "desc": "Durant le combat contre Murata Graphia, Architecte de l'œuvre, sélectionner Extinction des feux lorsque les PV sont faibles et que le taux de réussite d'extinction est au plus bas, puis dissiper avec succès l'état Rancune enflammée",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075304": {
+        "id": "4075304",
+        "series_id": "7",
+        "title": "Libérateur d'entrailles",
+        "desc": "En combat contre le Rejeton du théophage, utiliser le personnage allié ayant l'ATQ la plus élevée pour dissiper l'état Dévoration et obtenir un bonus d'ATQ",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075305": {
+        "id": "4075305",
+        "series_id": "7",
+        "title": "Condamnation éternelle",
+        "desc": "Utiliser Tenax Per Ignem 6 fois en une seule activation avec le personnage allié Blade Mortenax dans l'état Courroux éternel",
+        "hide_desc": "",
+        "hide": true
     },
     "4080101": {
         "id": "4080101",
@@ -13022,6 +13254,14 @@
         "desc": "Se faire percuter par une hydrauto durant lors d'un Saut interdimensionnel !",
         "hide_desc": "",
         "hide": true
+    },
+    "4085301": {
+        "id": "4085301",
+        "series_id": "8",
+        "title": "Je voudrais un bonhomme de neige",
+        "desc": "Se faire congeler dans un bloc de glace lors d'un Saut interdimensionnel !",
+        "hide_desc": "",
+        "hide": false
     },
     "4090201": {
         "id": "4090201",

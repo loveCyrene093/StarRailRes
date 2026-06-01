@@ -3980,6 +3980,35 @@
             ]
         ]
     },
+    "23059": {
+        "id": "23059",
+        "skill": "Templado",
+        "desc": "Los PV máx. del portador aumentan en un #1[i]%. Cuando el portador comienza su turno, recupera #2[i] pts. de energía fijos. Este efecto se puede activar 1 vez por oleada. Después de que el portador lance su habilidad básica para atacar, afecta a los objetivos con Purgatorio durante #3[i] turnos. En el estado de Purgatorio, el Daño CRIT que un objetivo recibe aumenta en un #4[i]%, y el que recibe del portador aumenta en un #5[i]% adicional.",
+        "params": [
+            [0.3, 20, 2, 0.3, 0.3],
+            [0.375, 20, 2, 0.375, 0.375],
+            [0.45, 20, 2, 0.45, 0.45],
+            [0.525, 20, 2, 0.525, 0.525],
+            [0.6, 20, 2, 0.6, 0.6]
+        ],
+        "properties": [
+            [
+                { "type": "HPAddedRatio", "value": 0.3 }
+            ],
+            [
+                { "type": "HPAddedRatio", "value": 0.375 }
+            ],
+            [
+                { "type": "HPAddedRatio", "value": 0.45 }
+            ],
+            [
+                { "type": "HPAddedRatio", "value": 0.525 }
+            ],
+            [
+                { "type": "HPAddedRatio", "value": 0.6 }
+            ]
+        ]
+    },
     "24000": {
         "id": "24000",
         "skill": "Polilla a la luz",

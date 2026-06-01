@@ -1623,6 +1623,46 @@
         "hide_desc": "※Nhận ủy thác của Evanescia",
         "hide": false
     },
+    "4035301": {
+        "id": "4035301",
+        "series_id": "3",
+        "title": "Suy Luận Cấm Kỵ",
+        "desc": "Suy luận phải sau khi cụng ly",
+        "hide_desc": "※Đến \"Quán Rượu\" điều tra manh mối về sự tồn tại của Asat Pramad",
+        "hide": false
+    },
+    "4035302": {
+        "id": "4035302",
+        "series_id": "3",
+        "title": "Thắp Sáng Ngọn Đèn Năm Xưa",
+        "desc": "Ra đây chơi ném tuyết nào!",
+        "hide_desc": "※ Gọi Graphia đến bằng cách thức ước định trong quá khứ",
+        "hide": false
+    },
+    "4035303": {
+        "id": "4035303",
+        "series_id": "3",
+        "title": "Khoảnh Khắc Dừng Chân Nơi Bỉ Ngạn",
+        "desc": "Nhảy xuống đi, tan chảy trong Hố Xanh đó",
+        "hide_desc": "※ Chứng kiến Blade tiến đến tận cùng của Thế Giới Trong Tranh",
+        "hide": false
+    },
+    "4035304": {
+        "id": "4035304",
+        "series_id": "3",
+        "title": "Thứ Gì Là Lưỡi Kiếm",
+        "desc": "Thứ gì là lưỡi kiếm? Thứ gì bào mòn bản thân, xé nát kẻ thù?",
+        "hide_desc": "※Blade đã có được câu trả lời của anh ấy",
+        "hide": false
+    },
+    "4035305": {
+        "id": "4035305",
+        "series_id": "3",
+        "title": "Trò Đùa Chìm Vào Tĩnh Lặng",
+        "desc": "Giải thích chuyện cười, là hành vi tồi tệ nhất",
+        "hide_desc": "※ Chứng kiến Asat Pramad tiết lộ bộ mặt thật của mình",
+        "hide": false
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -4276,6 +4316,62 @@
         "series_id": "4",
         "title": "Biến Tấu Thiên Đường Vui Vẻ: Khúc Ca Capybara",
         "desc": "Diễn tấu Chương Nhạc Kỳ Dị, tìm ra sinh vật bí ẩn ẩn náu tại Thành Phố Seafeld",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045301": {
+        "id": "4045301",
+        "series_id": "4",
+        "title": "Kẻ Một Mình Trên Cao",
+        "desc": "Hoàn thành \"Thời Khắc Jump\" của Suối Ẩn Xuyên Tranh",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045302": {
+        "id": "4045302",
+        "series_id": "4",
+        "title": "Né Tránh Thích Khách",
+        "desc": "Vượt ải \"Thời Khắc Jump\" của Suối Ẩn Xuyên Tranh mà không bị Linh Thể Nhím chạm trúng",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045303": {
+        "id": "4045303",
+        "series_id": "4",
+        "title": "Người Khổng Lồ Băng Cuối Cùng",
+        "desc": "Đánh ngất Casper",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045304": {
+        "id": "4045304",
+        "series_id": "4",
+        "title": "Vương Quốc Tuyết",
+        "desc": "Tìm rương ẩn trong lâu đài khi chơi ném tuyết với Casper trong \"JUMP Không Gian 2D!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045305": {
+        "id": "4045305",
+        "series_id": "4",
+        "title": "Chào Mừng Đến Bệ Hơi Nước",
+        "desc": "Ngâm mình trong suối nước nóng trên tuyết ở Suối Ẩn Xuyên Tranh",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045306": {
+        "id": "4045306",
+        "series_id": "4",
+        "title": "Giai Thoại Kỵ Sĩ Không Đầu",
+        "desc": "Đá bay đầu của tất cả \"Người Tuyết Bình Thường\" ở Suối Ẩn Xuyên Tranh",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045307": {
+        "id": "4045307",
+        "series_id": "4",
+        "title": "Biến Tấu Thiên Đường Vui Vẻ: Đứa Bé Tuyết",
+        "desc": "Diễn tấu Chương Nhạc Kỳ Dị, tìm ra sinh vật bí ẩn trốn trong Suối Ẩn Xuyên Tranh",
         "hide_desc": "",
         "hide": false
     },
@@ -9703,6 +9799,102 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055301": {
+        "id": "4055301",
+        "series_id": "5",
+        "title": "Xuất Phát! Xe Buýt Astral!",
+        "desc": "Hỏi Nihilux về câu chuyện của \"Trò Chơi Ảo Nguyệt Mới\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055302": {
+        "id": "4055302",
+        "series_id": "5",
+        "title": "Truyền Thuyết Vô Tận",
+        "desc": "Ủng hộ tiếp tục phát triển \"Thỏ Đường Ray Tinh Cầu\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055303": {
+        "id": "4055303",
+        "series_id": "5",
+        "title": "Từ Đó, Nó Hạnh Phúc Mãi Mãi...",
+        "desc": "Phản đối tiếp tục phát triển \"Thỏ Đường Ray Tinh Cầu\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055304": {
+        "id": "4055304",
+        "series_id": "5",
+        "title": "Người Bảo Vệ Họa Giới",
+        "desc": "Triệu hồi \"Graphia\" trong pháp trận Suối Ẩn Xuyên Tranh",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055305": {
+        "id": "4055305",
+        "series_id": "5",
+        "title": "Người Dồi Dào Năng Lượng",
+        "desc": "Gặp gỡ Umbralle hai lần tại Quận Dovebrook và Suối Ẩn Xuyên Tranh, đồng thời tiến hành trò chuyện.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055306": {
+        "id": "4055306",
+        "series_id": "5",
+        "title": "Chuyện Tình Cây Ngân Hạnh",
+        "desc": "Chứng kiến hai người qua đường lưu luyến chia tay trước nhà ga",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055307": {
+        "id": "4055307",
+        "series_id": "5",
+        "title": "Vũ Khí Quyết Chiến Cuối Cùng",
+        "desc": "Trong \"Đại Chiến Máy Bay Pixel\", lần đầu nâng cấp 1 Trang Bị Lõi lên 3 sao",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055308": {
+        "id": "4055308",
+        "series_id": "5",
+        "title": "Khúc Ca Tiếp Nối Của Sparxie",
+        "desc": "Trong \"Đại Chiến Máy Bay Pixel\", sử dụng \"Ma Thuật Đường Đua\" đánh bại Sparxie",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055309": {
+        "id": "4055309",
+        "series_id": "5",
+        "title": "Ước Định Dưới Bầu Trời Xanh",
+        "desc": "Trong \"Đại Chiến Máy Bay Pixel\", mở khóa tất cả máy bay pixel",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055310": {
+        "id": "4055310",
+        "series_id": "5",
+        "title": "Không Chiến Át Chủ Bài",
+        "desc": "Trong \"Đại Chiến Máy Bay Pixel\", giành chiến thắng Quyết Đấu Đỉnh Cao mà không mất mạng",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055311": {
+        "id": "4055311",
+        "series_id": "5",
+        "title": "Bộ Tốt Nghiệp",
+        "desc": "Trong \"Đại Chiến Máy Bay Pixel\", sở hữu cùng lúc 7 trang bị 3 sao trong 1 ván",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055312": {
+        "id": "4055312",
+        "series_id": "5",
+        "title": "Chinh Phục Mọi Loại Hình",
+        "desc": "Trong \"Đại Chiến Máy Bay Pixel\", sử dụng từng chiếc máy bay để giành chiến thắng",
+        "hide_desc": "",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -12347,7 +12539,7 @@
         "id": "4075201",
         "series_id": "7",
         "title": "Đừng Ai Cau Có",
-        "desc": "Trong một trận chiến, dùng Nhà Khai Phá vận mệnh \"Vui Vẻ\" tích lũy thi triển 1 lần Tuyệt Kỹ lên 4 đồng đội khác nhau",
+        "desc": "Trong một trận chiến, dùng Nhà Khai Phá vận mệnh \"Vui Vẻ\" tích lũy thi triển 1 lần Tuyệt Kỹ lên 4 nhân vật khác nhau",
         "hide_desc": "",
         "hide": true
     },
@@ -12422,6 +12614,46 @@
         "desc": "Trong trận chiến với \"Lạc Biến Thiên Nhân\", 1 lần tấn công tiêu diệt cùng lúc từ 4 \"Lạc Biến Thiên Nhân - Kết Thúc\" trở lên",
         "hide_desc": "",
         "hide": false
+    },
+    "4075301": {
+        "id": "4075301",
+        "series_id": "7",
+        "title": "Lửa Lò Không Tắt, Bách Luyện Thành Binh",
+        "desc": "Khi chiến đấu thắng lợi, HP còn lại của Mortenax Blade là 1",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075302": {
+        "id": "4075302",
+        "series_id": "7",
+        "title": "Tiếng Đao, Tiếng Kiếm, Tiếng Rèn Sắt, Từng Tiếng Lọt Vào Tai",
+        "desc": "Trong một hiệp, sử dụng nhân vật phe ta Mortenax Blade thi triển 4 lần \"Mưa Kiếm, Quy Táng\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075303": {
+        "id": "4075303",
+        "series_id": "7",
+        "title": "Trưởng Đội Cứu Hỏa Rực Lửa",
+        "desc": "Trong trận chiến với \"Họa Sĩ Khởi Nguồn - Murata Graphia\", ở tình trạng HP bản thân khá thấp và tỷ lệ dập lửa thành công thấp nhất, chọn \"Dập Tắt Ngọn Lửa\" và giải trừ thành công trạng thái \"Lửa Oán Thiêu Thân\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075304": {
+        "id": "4075304",
+        "series_id": "7",
+        "title": "Kẻ Dọn Dẹp Dạ Dày",
+        "desc": "Trong chiến đấu với \"Hậu Duệ Nuốt Thần\", sử dụng nhân vật có Tấn Công cao nhất phe ta giải trừ trạng thái \"Nuốt Chửng\" và nhận thêm Tấn Công",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075305": {
+        "id": "4075305",
+        "series_id": "7",
+        "title": "Vạn Kiếp Bất Phục",
+        "desc": "Sử dụng nhân vật Mortenax Blade phe ta, trong thời gian duy trì một lần \"Vô Lượng Phẫn Nộ\" thi triển 6 lần \"Ngàn Lần Rèn Đúc, Vạn Kiếp Tẫn Diệt\"",
+        "hide_desc": "",
+        "hide": true
     },
     "4080101": {
         "id": "4080101",
@@ -13022,6 +13254,14 @@
         "desc": "Bị xe bay trên nước tông trúng trong \"JUMP Không Gian 2D!\"",
         "hide_desc": "",
         "hide": true
+    },
+    "4085301": {
+        "id": "4085301",
+        "series_id": "8",
+        "title": "Có Muốn Đắp Người Tuyết Không?",
+        "desc": "Trong \"JUMP Không Gian 2D!\", bị đóng băng trong khối băng",
+        "hide_desc": "",
+        "hide": false
     },
     "4090201": {
         "id": "4090201",

@@ -1623,6 +1623,46 @@
         "hide_desc": "※ Accept Evanescia's request",
         "hide": false
     },
+    "4035301": {
+        "id": "4035301",
+        "series_id": "3",
+        "title": "Forbidden Deduction",
+        "desc": "Deduction comes after the clink",
+        "hide_desc": "※ Head to the tavern to investigate clues about Asat Pramad",
+        "hide": false
+    },
+    "4035302": {
+        "id": "4035302",
+        "series_id": "3",
+        "title": "Light the Lamps of Yesteryear",
+        "desc": "Come out for a snowball fight!",
+        "hide_desc": "※ Summon Graphia using the method from a promise made long ago",
+        "hide": false
+    },
+    "4035303": {
+        "id": "4035303",
+        "series_id": "3",
+        "title": "A Moment on the Distant Shore",
+        "desc": "Jump down, and melt into that blue hole.",
+        "hide_desc": "※ Witness Blade's journey to the end of the World in Canvas",
+        "hide": false
+    },
+    "4035304": {
+        "id": "4035304",
+        "series_id": "3",
+        "title": "What Is a Blade",
+        "desc": "What makes a blade? What grinds itself to dust, tears enemies asunder?",
+        "hide_desc": "※ Blade has found his answer",
+        "hide": false
+    },
+    "4035305": {
+        "id": "4035305",
+        "series_id": "3",
+        "title": "A Jest That Fades Into the Void",
+        "desc": "Nothing kills a joke quite like explaining it",
+        "hide_desc": "※ Bear witness to Asat Pramad's revelation of his true identity",
+        "hide": false
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -4279,6 +4319,62 @@
         "hide_desc": "",
         "hide": false
     },
+    "4045301": {
+        "id": "4045301",
+        "series_id": "4",
+        "title": "A Solitary Life",
+        "desc": "Complete the \"Jump Time\" at Inkford Hermitage",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045302": {
+        "id": "4045302",
+        "series_id": "4",
+        "title": "Dodge the Assassin",
+        "desc": "Complete the \"Jump Time\" at Inkford Hermitage without being hit by any Hedgehogae",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045303": {
+        "id": "4045303",
+        "series_id": "4",
+        "title": "The Last Frost Giant",
+        "desc": "Knock out Casper",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045304": {
+        "id": "4045304",
+        "series_id": "4",
+        "title": "The Winterlands",
+        "desc": "Find the hidden chest in the castle while having a snowball fight with Casper during \"Interplanar Jump!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045305": {
+        "id": "4045305",
+        "series_id": "4",
+        "title": "Welcome to the Steam Platform",
+        "desc": "Soak in the snowside hot springs at Inkford Hermitage",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045306": {
+        "id": "4045306",
+        "series_id": "4",
+        "title": "Tales of the Headless Knight",
+        "desc": "Kick off the heads of all \"Unremarkable Snowmen\" in Inkford Hermitage",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045307": {
+        "id": "4045307",
+        "series_id": "4",
+        "title": "Arcadia Variation: Snow Child",
+        "desc": "Play a Bizarre Melody and find the mysterious creature hiding in Inkford Hermitage",
+        "hide_desc": "",
+        "hide": false
+    },
     "4051001": {
         "id": "4051001",
         "series_id": "5",
@@ -5258,8 +5354,8 @@
     "4052722": {
         "id": "4052722",
         "series_id": "5",
-        "title": "Journey to the Arctic Bear Cub",
-        "desc": "Interact warmly with the arctic bear cub",
+        "title": "Journey of the Ice Bear",
+        "desc": "Interact warmly with the Ice Bear cub",
         "hide_desc": "",
         "hide": true
     },
@@ -9703,6 +9799,102 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055301": {
+        "id": "4055301",
+        "series_id": "5",
+        "title": "Astral Bus, Here We Come!",
+        "desc": "Ask Nihilux about the story of Phantasmoon New Game",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055302": {
+        "id": "4055302",
+        "series_id": "5",
+        "title": "Infinite Legends",
+        "desc": "Support the continued development of Star Rabbit",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055303": {
+        "id": "4055303",
+        "series_id": "5",
+        "title": "And So, It Lived Happily Ever After...",
+        "desc": "Oppose the continued development of Star Rabbit",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055304": {
+        "id": "4055304",
+        "series_id": "5",
+        "title": "Guardian of the World in Canvas",
+        "desc": "Summon \"Graphia\" within the magic circle at Inkford Hermitage",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055305": {
+        "id": "4055305",
+        "series_id": "5",
+        "title": "High-Energy Type",
+        "desc": "Encounter and speak with Umbralle in both Dovebrook District and Inkford Hermitage, once in each location",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055306": {
+        "id": "4055306",
+        "series_id": "5",
+        "title": "Ginkgo Tree Romance",
+        "desc": "Witness two passersby bidding a fond farewell in front of the station",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055307": {
+        "id": "4055307",
+        "series_id": "5",
+        "title": "Ultimate Decisive Battle Weapon",
+        "desc": "In \"Pixel Plane Rumble,\" upgrade a core equipment to 3-star for the first time",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055308": {
+        "id": "4055308",
+        "series_id": "5",
+        "title": "Song of Sparxie Continued",
+        "desc": "In \"Pixel Plane Rumble,\" defeat Sparxie using \"Track Magic\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055309": {
+        "id": "4055309",
+        "series_id": "5",
+        "title": "Covenant Beneath the Azure",
+        "desc": "Unlock all pixel planes in \"Pixel Plane Rumble\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055310": {
+        "id": "4055310",
+        "series_id": "5",
+        "title": "Ace in the Air",
+        "desc": "In \"Pixel Plane Rumble,\" win the Ultimate Showdown without losing a single life",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055311": {
+        "id": "4055311",
+        "series_id": "5",
+        "title": "Graduation Set",
+        "desc": "In \"Pixel Plane Rumble,\" possess 7 3-star equipment simultaneously in a single run",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055312": {
+        "id": "4055312",
+        "series_id": "5",
+        "title": "Ace of All Models",
+        "desc": "In \"Pixel Plane Rumble,\" win a match with every plane",
+        "hide_desc": "",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -12347,7 +12539,7 @@
         "id": "4075201",
         "series_id": "7",
         "title": "No Frowns Allowed",
-        "desc": "In a single battle, use Trailblazer (Elation)'s Ultimate on 4 different teammates once each",
+        "desc": "In a single battle, use Trailblazer (Elation)'s Ultimate on 4 different characters once each",
         "hide_desc": "",
         "hide": true
     },
@@ -12422,6 +12614,46 @@
         "desc": "In the battle against \"Joy Ascendant\", defeat 4 or more \"Joy Ascendant: Finale\" in a single attack",
         "hide_desc": "",
         "hide": false
+    },
+    "4075301": {
+        "id": "4075301",
+        "series_id": "7",
+        "title": "Forge Everlasting, Warriors Forged",
+        "desc": "When winning the battle, Mortenax Blade's remaining HP is 1.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075302": {
+        "id": "4075302",
+        "series_id": "7",
+        "title": "Clash of Blades, Ring of Hammers, Each Note a Testament",
+        "desc": "In a single turn, use ally character Mortenax Blade to trigger \"A Rain of Blades Seals Fate\" a total of 4 time(s)",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075303": {
+        "id": "4075303",
+        "series_id": "7",
+        "title": "Flame-Flame Firemaster",
+        "desc": "During combat with Murata Graphia, Founding Artist, select \"Extinguish Flames\" when your HP is low and the success rate for extinguishing is at its lowest, then successfully dispel the \"Grudge Ablaze\" state",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075304": {
+        "id": "4075304",
+        "series_id": "7",
+        "title": "Gut Liberator",
+        "desc": "In combat against God-Devourer Offspring, use ally character with the highest ATK to dispel the \"Devour\" state and gain bonus ATK",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075305": {
+        "id": "4075305",
+        "series_id": "7",
+        "title": "Eternal Condemnation",
+        "desc": "Have ally character Mortenax Blade use \"Tenax Per Ignem\" 6 time(s) during a single activation of the \"Infinite Fury\" state",
+        "hide_desc": "",
+        "hide": true
     },
     "4080101": {
         "id": "4080101",
@@ -13022,6 +13254,14 @@
         "desc": "Hit by a hydro-car during an Interplanar Jump! sequence",
         "hide_desc": "",
         "hide": true
+    },
+    "4085301": {
+        "id": "4085301",
+        "series_id": "8",
+        "title": "Do You Wanna Build a Snowman?",
+        "desc": "Frozen in an ice block during \"Interplanar Jump!\"",
+        "hide_desc": "",
+        "hide": false
     },
     "4090201": {
         "id": "4090201",

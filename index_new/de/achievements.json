@@ -1623,6 +1623,46 @@
         "hide_desc": "※ Nimm Evanescias Auftrag an.",
         "hide": false
     },
+    "4035301": {
+        "id": "4035301",
+        "series_id": "3",
+        "title": "Verbotene Deduktion",
+        "desc": "Die Deduktion kommt nach dem Anstoßen.",
+        "hide_desc": "※ Begib dich in die Taverne, um Hinweise auf Asat Pramad zu untersuchen.",
+        "hide": false
+    },
+    "4035302": {
+        "id": "4035302",
+        "series_id": "3",
+        "title": "Entzünde die Lampen von einst",
+        "desc": "Komm raus zur Schneeballschlacht!",
+        "hide_desc": "※ Rufe Graphia mit der Methode aus einem vor langer Zeit gegebenen Versprechen herbei.",
+        "hide": false
+    },
+    "4035303": {
+        "id": "4035303",
+        "series_id": "3",
+        "title": "Ein Augenblick am anderen Ufer",
+        "desc": "Spring hinab und verschmilz mit dem Azurschlund.",
+        "hide_desc": "※ Werde Zeuge, wie Blade sich ans Ende der Welt auf Leinwand begibt.",
+        "hide": false
+    },
+    "4035304": {
+        "id": "4035304",
+        "series_id": "3",
+        "title": "Was ist eine Klinge?",
+        "desc": "Was macht eine Klinge aus? Was zermahlt sich zu Staub, reißt Gegner in Stücke?",
+        "hide_desc": "※ Blade hat seine Antwort gefunden.",
+        "hide": false
+    },
+    "4035305": {
+        "id": "4035305",
+        "series_id": "3",
+        "title": "Ein Scherz, der in der Leere vergeht",
+        "desc": "Nichts ruiniert einen Witz so sehr, wie ihn zu erklären.",
+        "hide_desc": "※ Werde Zeuge von Asat Pramads wahrer Identität.",
+        "hide": false
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -4276,6 +4316,62 @@
         "series_id": "4",
         "title": "Arcadia-Variation: Capybaralied",
         "desc": "Spiele die seltsame Melodie und finde die mysteriöse Kreatur, die sich in Seafeld City versteckt.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045301": {
+        "id": "4045301",
+        "series_id": "4",
+        "title": "Ein einsames Leben",
+        "desc": "Schließe „Sprung-Zeit“ im Hotel „Artford Crossing“ ab.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045302": {
+        "id": "4045302",
+        "series_id": "4",
+        "title": "Entgehe dem Attentäter",
+        "desc": "Schließe „Sprung-Zeit“ im Hotel „Artford Crossing“ ab, ohne dabei von einem Igelgeist getroffen zu werden.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045303": {
+        "id": "4045303",
+        "series_id": "4",
+        "title": "Der letzte Frostriese",
+        "desc": "Schalte Casper aus.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045304": {
+        "id": "4045304",
+        "series_id": "4",
+        "title": "Die Winterlande",
+        "desc": "Finde die versteckte Truhe im Schloss, während du dir in „Interplanarer Sprung!“ eine Schneeballschlacht mit Casper lieferst.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045305": {
+        "id": "4045305",
+        "series_id": "4",
+        "title": "Willkommen auf der dampfenden Plattform",
+        "desc": "Bade in den verschneiten heißen Quellen des Hotels „Artford Crossing“.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045306": {
+        "id": "4045306",
+        "series_id": "4",
+        "title": "Geschichten des kopflosen Ritters",
+        "desc": "Tritt allen unscheinbaren Schneemännern im Hotel „Artford Crossing“ die Köpfe ab.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045307": {
+        "id": "4045307",
+        "series_id": "4",
+        "title": "Arcadia-Variation: Schneekind",
+        "desc": "Spiele die Seltsame Melodie und finde die mysteriöse Kreatur, die sich im Hotel „Artford Crossing“ versteckt.",
         "hide_desc": "",
         "hide": false
     },
@@ -9703,6 +9799,102 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055301": {
+        "id": "4055301",
+        "series_id": "5",
+        "title": "Astralbus, wir kommen!",
+        "desc": "Frage Nihilux nach der Geschichte des Neuen Phantasmond-Spiels.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055302": {
+        "id": "4055302",
+        "series_id": "5",
+        "title": "Unendliche Legenden",
+        "desc": "Unterstütze die Weiterentwicklung von Sternhase.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055303": {
+        "id": "4055303",
+        "series_id": "5",
+        "title": "Und so lebte es glücklich bis zuletzt ...",
+        "desc": "Sei gegen die Weiterentwicklung von Sternhase.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055304": {
+        "id": "4055304",
+        "series_id": "5",
+        "title": "Wächterin der Welt auf Leinwand",
+        "desc": "Beschwöre Graphia im Magiekreis des Hotels „Artford Crossing“.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055305": {
+        "id": "4055305",
+        "series_id": "5",
+        "title": "Energiegeladener Typ",
+        "desc": "Triff Umbrall sowohl in Dovebrook als auch im Hotel „Artford Crossing“ und sprich jeweils einmal mit ihm.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055306": {
+        "id": "4055306",
+        "series_id": "5",
+        "title": "Die Liebe des Ginkgobaums",
+        "desc": "Werde vor der Station Zeuge des wehmütigen Abschieds zweier Passanten.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055307": {
+        "id": "4055307",
+        "series_id": "5",
+        "title": "Ultimative Entscheidungswaffe für den Kampf",
+        "desc": "Werte im Kampf der Pixelflugzeuge zum ersten Mal eine Kernausrüstung auf 3 Sterne auf.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055308": {
+        "id": "4055308",
+        "series_id": "5",
+        "title": "Das Lied von Sparxie geht weiter",
+        "desc": "Besiege Sparxie im Kampf der Pixelflugzeuge mithilfe von „Streckenmagie“.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055309": {
+        "id": "4055309",
+        "series_id": "5",
+        "title": "Das Versprechen unter dem blauen Himmel",
+        "desc": "Schalte in „Kampf der Pixelflugzeuge“ alle Pixelflugzeuge frei.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055310": {
+        "id": "4055310",
+        "series_id": "5",
+        "title": "Ass der Lüfte",
+        "desc": "Gewinne den ultimativen Showdown des Kampfs der Pixelflugzeuge, ohne dabei ein Leben zu verlieren.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055311": {
+        "id": "4055311",
+        "series_id": "5",
+        "title": "Abschluss-Set",
+        "desc": "Besitze im Kampf der Pixelflugzeuge in einem Spiel gleichzeitig 3-Sterne-Ausrüstung ×7.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055312": {
+        "id": "4055312",
+        "series_id": "5",
+        "title": "Ass aller Modelle",
+        "desc": "Gewinne im Kampf der Pixelflugzeuge ein Match mit jedem Flugzeug.",
+        "hide_desc": "",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -12347,7 +12539,7 @@
         "id": "4075201",
         "series_id": "7",
         "title": "Keine langen Gesichter",
-        "desc": "Setze in einem einzigen Kampf den Ultimate des Trailblazers (Das Hochgefühl) bei 4 verschiedenen Verbündeten jeweils einmal ein.",
+        "desc": "Setze in einem einzigen Kampf den Ultimate des Trailblazers (Das Hochgefühl) bei 4 verschiedenen Figuren jeweils einmal ein.",
         "hide_desc": "",
         "hide": true
     },
@@ -12422,6 +12614,46 @@
         "desc": "Besiege im Kampf gegen „Aszendent der Freude“ mit einem einzigen Angriff gleichzeitig 4 oder mehr „Aszendent der Freude: Finale“.",
         "hide_desc": "",
         "hide": false
+    },
+    "4075301": {
+        "id": "4075301",
+        "series_id": "7",
+        "title": "Ewige Schmiede, geschmiedete Krieger",
+        "desc": "Nach einem gewonnenen Kampf betragen die verbleibenden LP von Mortenax Blade 1.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075302": {
+        "id": "4075302",
+        "series_id": "7",
+        "title": "Klingenklirren, Hämmerdröhnen, jede Note ein Schwur",
+        "desc": "Setze in einer einzigen Runde mit der verbündeten Figur Mortenax Blade 4-mal „Unter der Klinge, letzte Ruhe“ ein.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075303": {
+        "id": "4075303",
+        "series_id": "7",
+        "title": "Feuermeister der Flammen",
+        "desc": "Wähle im Kampf gegen Gründungsmalerin Murata Graphia „Flammen löschen“, wenn deine LP niedrig sind und die Erfolgsquote beim Löschen am niedrigsten ist, und hebe dann erfolgreich den Status „Brennender Groll“ auf.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075304": {
+        "id": "4075304",
+        "series_id": "7",
+        "title": "Magenreiniger",
+        "desc": "Verwende im Kampf gegen Gottverschlingende Brut den Verbündeten mit dem höchsten ANG, um den Status „Verschlingen“ aufzuheben und zusätzlich ANG-Bonus zu erhalten.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075305": {
+        "id": "4075305",
+        "series_id": "7",
+        "title": "Ewige Verdammnis",
+        "desc": "Verwende die verbündete Figur Mortenax Blade, um während einer einzigen Dauer von „Grenzenloser Zorn“ 6-mal „Schmiede des Einen, Vergessen des Allen“ einzusetzen.",
+        "hide_desc": "",
+        "hide": true
     },
     "4080101": {
         "id": "4080101",
@@ -13022,6 +13254,14 @@
         "desc": "Werde beim „Interplanarer Sprung!“ von einem Jetski angefahren.",
         "hide_desc": "",
         "hide": true
+    },
+    "4085301": {
+        "id": "4085301",
+        "series_id": "8",
+        "title": "Willst du einen Schneemann bauen?",
+        "desc": "Werde während „Interplanarer Sprung!“ in einem Eisblock eingefroren.",
+        "hide_desc": "",
+        "hide": false
     },
     "4090201": {
         "id": "4090201",

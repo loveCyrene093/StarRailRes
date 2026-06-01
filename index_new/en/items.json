@@ -495,7 +495,8 @@
         "come_from": [
             "Redeemable after obtaining a duplicate of a 5-star character with maxed Eidolons twice",
             "Redeemable after obtaining a duplicate of a 5-star character with maxed Eidolons twice",
-            "Stellar Companions"
+            "Stellar Companions",
+            "Stellar Companions (already claimed for this period)"
         ]
     },
     "282": {
@@ -1316,6 +1317,15 @@
     "11506": {
         "id": "11506",
         "name": "Silver Wolf LV.999's Eidolon",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11507": {
+        "id": "11507",
+        "name": "Mortenax Blade's Eidolon",
         "type": "Material",
         "sub_type": "Eidolon",
         "rarity": 5,
@@ -2728,6 +2738,84 @@
         "rarity": 5,
         "icon": "icon/item/71053.png",
         "come_from": ["Cavern of Corrosion \"Graphia Academy\"", "Omni-Synthesizer — Relic Synthesis"]
+    },
+    "81311": {
+        "id": "81311",
+        "name": "As Navigator Isee Sees It",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71056.png",
+        "come_from": []
+    },
+    "81312": {
+        "id": "81312",
+        "name": "As Navigator Isee Sees It",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71056.png",
+        "come_from": []
+    },
+    "81313": {
+        "id": "81313",
+        "name": "As Navigator Isee Sees It",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71056.png",
+        "come_from": []
+    },
+    "81314": {
+        "id": "81314",
+        "name": "As Navigator Isee Sees It",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71056.png",
+        "come_from": [
+            "Cavern of Corrosion: Lookout Cloud Station",
+            "Omni-Synthesizer — Relic Synthesis"
+        ]
+    },
+    "81321": {
+        "id": "81321",
+        "name": "Divine-Querying Master Smith",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71057.png",
+        "come_from": []
+    },
+    "81322": {
+        "id": "81322",
+        "name": "Divine-Querying Master Smith",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71057.png",
+        "come_from": []
+    },
+    "81323": {
+        "id": "81323",
+        "name": "Divine-Querying Master Smith",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71057.png",
+        "come_from": []
+    },
+    "81324": {
+        "id": "81324",
+        "name": "Divine-Querying Master Smith",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71057.png",
+        "come_from": [
+            "Cavern of Corrosion: Lookout Cloud Station",
+            "Omni-Synthesizer — Relic Synthesis"
+        ]
     },
     "83011": {
         "id": "83011",
@@ -4479,6 +4567,86 @@
             "Omni-Synthesizer — Material Exchange"
         ]
     },
+    "110281": {
+        "id": "110281",
+        "name": "Four Phases, Crossing the River to Check the King",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 2,
+        "icon": "icon/item/110281.png",
+        "come_from": [
+            "Calyx: Inkford Hermitage",
+            "Embers Exchange",
+            "Omni-Synthesizer — Material Exchange"
+        ]
+    },
+    "110282": {
+        "id": "110282",
+        "name": "Sixen, King-Rook Fork",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 3,
+        "icon": "icon/item/110282.png",
+        "come_from": [
+            "Calyx: Inkford Hermitage",
+            "Omni-Synthesizer — Material Synthesis",
+            "Embers Exchange",
+            "Omni-Synthesizer — Material Exchange"
+        ]
+    },
+    "110283": {
+        "id": "110283",
+        "name": "Omnicolor, Fool's Own",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 4,
+        "icon": "icon/item/110283.png",
+        "come_from": [
+            "Calyx: Inkford Hermitage",
+            "Omni-Synthesizer — Material Synthesis",
+            "Omni-Synthesizer — Material Exchange"
+        ]
+    },
+    "110291": {
+        "id": "110291",
+        "name": "Celestial Globe",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 2,
+        "icon": "icon/item/110291.png",
+        "come_from": [
+            "Calyx: Seafeld TV Tower",
+            "Embers Exchange",
+            "Omni-Synthesizer — Material Exchange"
+        ]
+    },
+    "110292": {
+        "id": "110292",
+        "name": "Galaxy Framework",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 3,
+        "icon": "icon/item/110292.png",
+        "come_from": [
+            "Calyx: Seafeld TV Tower",
+            "Omni-Synthesizer — Material Synthesis",
+            "Embers Exchange",
+            "Omni-Synthesizer — Material Exchange"
+        ]
+    },
+    "110293": {
+        "id": "110293",
+        "name": "Cosmic Sandpit",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 4,
+        "icon": "icon/item/110293.png",
+        "come_from": [
+            "Calyx: Seafeld TV Tower",
+            "Omni-Synthesizer — Material Synthesis",
+            "Omni-Synthesizer — Material Exchange"
+        ]
+    },
     "110311": {
         "id": "110311",
         "name": "Tear of Phagousa",
@@ -4822,6 +4990,15 @@
             "Omni-Synthesizer — Material Exchange"
         ]
     },
+    "110443": {
+        "id": "110443",
+        "name": "Sneering Harlequin",
+        "type": "Material",
+        "sub_type": "AvatarRank",
+        "rarity": 4,
+        "icon": "icon/item/110443.png",
+        "come_from": ["Stagnant Shadow: Inkford Hermitage", "Omni-Synthesizer — Material Exchange"]
+    },
     "110501": {
         "id": "110501",
         "name": "Destroyer's Final Road",
@@ -4893,6 +5070,15 @@
         "rarity": 4,
         "icon": "icon/item/110508.png",
         "come_from": ["Echo of War: \"Memortis Shore\" Ruins of Time"]
+    },
+    "110610": {
+        "id": "110610",
+        "name": "Tears of Rail",
+        "type": "Material",
+        "sub_type": "WeeklyMonsterDrop",
+        "rarity": 4,
+        "icon": "icon/item/110610.png",
+        "come_from": []
     },
     "111000": {
         "id": "111000",
@@ -5573,6 +5759,33 @@
         "rarity": 3,
         "icon": "icon/item/122000.png",
         "come_from": ["Aideen Token Shop", "Exploring Penacony"]
+    },
+    "122001": {
+        "id": "122001",
+        "name": "Limited-Time Clearance Medal of Forgotten Hall",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/295532.png",
+        "come_from": []
+    },
+    "122002": {
+        "id": "122002",
+        "name": "Limited-Time Clearance Medal of Pure Fiction",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/295533.png",
+        "come_from": []
+    },
+    "122003": {
+        "id": "122003",
+        "name": "Limited-Time Clearance Medal of Apocalyptic Shadow",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/295534.png",
+        "come_from": []
     },
     "123000": {
         "id": "123000",
@@ -10333,6 +10546,15 @@
         "sub_type": "Mission",
         "rarity": 4,
         "icon": "icon/item/140611.png",
+        "come_from": []
+    },
+    "140612": {
+        "id": "140612",
+        "name": "Ashveil's Detective Notes",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/190016.png",
         "come_from": []
     },
     "149957": {
@@ -21153,6 +21375,150 @@
         "icon": "icon/item/190021.png",
         "come_from": []
     },
+    "192091": {
+        "id": "192091",
+        "name": "Graphia Sighting Report",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192092": {
+        "id": "192092",
+        "name": "Kappa Chronicles",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192093": {
+        "id": "192093",
+        "name": "Umbralle's Notes",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192094": {
+        "id": "192094",
+        "name": "Notice to Local Residents",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192095": {
+        "id": "192095",
+        "name": "Death Is A Sleep Without Sorrow",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192096": {
+        "id": "192096",
+        "name": "Inkford Hermitage Set Menu Pricing",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192097": {
+        "id": "192097",
+        "name": "Guest Services Memo",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192098": {
+        "id": "192098",
+        "name": "Wishpower Recovery Insights",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192099": {
+        "id": "192099",
+        "name": "Hot Spring Festival Initiative",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192100": {
+        "id": "192100",
+        "name": "Unfulfilled Wish List",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192101": {
+        "id": "192101",
+        "name": "To the One Who Dwells at Dovebrook's End",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192102": {
+        "id": "192102",
+        "name": "Ballad of Myriad Wish Grove",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192103": {
+        "id": "192103",
+        "name": "How to Poke an Aeon and Get Away",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192104": {
+        "id": "192104",
+        "name": "Ballad of Encanvasing",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192105": {
+        "id": "192105",
+        "name": "Ashveil's Detective Notes",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192106": {
+        "id": "192106",
+        "name": "Floating Grease Chronicles: Chapter of the Frog (VI)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
     "210001": {
         "id": "210001",
         "name": "\"Dawn of Disaster\"",
@@ -23133,6 +23499,69 @@
         "icon": "icon/item/210001.png",
         "come_from": []
     },
+    "210470": {
+        "id": "210470",
+        "name": "The Hermitage",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210471": {
+        "id": "210471",
+        "name": "Blank Space",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210472": {
+        "id": "210472",
+        "name": "Born Here, Raised Here",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210473": {
+        "id": "210473",
+        "name": "Hometown in the Hearth",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210474": {
+        "id": "210474",
+        "name": "Bone Deep",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210475": {
+        "id": "210475",
+        "name": "Snow and Blood",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210476": {
+        "id": "210476",
+        "name": "The Founding Artist",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
     "215001": {
         "id": "215001",
         "name": "Pitter-Patter",
@@ -23172,6 +23601,42 @@
     "215008": {
         "id": "215008",
         "name": "Arboreal Whispers",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "215009": {
+        "id": "215009",
+        "name": "Rustle",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "215010": {
+        "id": "215010",
+        "name": "Tenebrous",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "215011": {
+        "id": "215011",
+        "name": "Daybreak",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "215012": {
+        "id": "215012",
+        "name": "Baking",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23279,6 +23744,15 @@
         "rarity": 4,
         "icon": "icon/item/220010.png",
         "come_from": ["Chat Box obtained from the \"Wispae War Saga\" event"]
+    },
+    "220012": {
+        "id": "220012",
+        "name": "Above the Firmament",
+        "type": "Usable",
+        "sub_type": "ChatBubble",
+        "rarity": 4,
+        "icon": "icon/item/220012.png",
+        "come_from": ["Chat Box obtained from the \"Pixel Plane Rumble\" event"]
     },
     "221000": {
         "id": "221000",
@@ -25888,7 +26362,7 @@
         "sub_type": "PlayerOutfit",
         "rarity": 5,
         "icon": "icon/item/227010.png",
-        "come_from": ["\"Fox's Evanescent Shadow\" Giftbox", "Obtained from the Fashion Item store"]
+        "come_from": ["Obtained from the Fashion Item store"]
     },
     "227012": {
         "id": "227012",
@@ -25906,7 +26380,16 @@
         "sub_type": "PlayerOutfit",
         "rarity": 5,
         "icon": "icon/item/227013.png",
-        "come_from": ["\"Cosmic Speedrun\" Giftbox"]
+        "come_from": ["Obtained from the Fashion Item store"]
+    },
+    "227015": {
+        "id": "227015",
+        "name": "Karmic Fire of the Distant Shore",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 5,
+        "icon": "icon/item/227015.png",
+        "come_from": []
     },
     "229001": {
         "id": "229001",
@@ -28075,7 +28558,7 @@
         "sub_type": "PamSkin",
         "rarity": 4,
         "icon": "icon/item/252003.png",
-        "come_from": ["Obtained from talking to Pom-Pom in Pom-Pom's Assistance"]
+        "come_from": ["Redeemable through Herta's Store"]
     },
     "252004": {
         "id": "252004",
@@ -29749,7 +30232,7 @@
         "sub_type": "PersonalCard",
         "rarity": 5,
         "icon": "icon/item/253004.png",
-        "come_from": ["\"Cosmic Speedrun\" Giftbox"]
+        "come_from": ["Obtained from the Fashion Item store"]
     },
     "254000": {
         "id": "254000",
@@ -31519,6 +32002,15 @@
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
     },
+    "268201": {
+        "id": "268201",
+        "name": "Pixel Core Cartridge",
+        "type": "Material",
+        "sub_type": "PixAirMaterial",
+        "rarity": 5,
+        "icon": "icon/item/268201.png",
+        "come_from": []
+    },
     "269001": {
         "id": "269001",
         "name": "Painted Power Tokens",
@@ -33093,6 +33585,15 @@
         "icon": "icon/item/402036.png",
         "come_from": ["Omni-Synthesizer", "Graphia Academy General Store"]
     },
+    "402037": {
+        "id": "402037",
+        "name": "Vibrant Zest-Core",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/402037.png",
+        "come_from": ["\"Omni-Synthesizer\""]
+    },
     "403001": {
         "id": "403001",
         "name": "Disposable Kinetic Arm",
@@ -33919,6 +34420,15 @@
         "sub_type": "Formula",
         "rarity": 3,
         "icon": "icon/item/404001.png",
+        "come_from": []
+    },
+    "406037": {
+        "id": "406037",
+        "name": "Recipe: Vibrant Zest-Core",
+        "type": "Usable",
+        "sub_type": "Formula",
+        "rarity": 3,
+        "icon": "icon/item/406037.png",
         "come_from": []
     },
     "407001": {

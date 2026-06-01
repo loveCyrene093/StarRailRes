@@ -1623,6 +1623,46 @@
         "hide_desc": "※Acepta el encargo de Evanescia.",
         "hide": false
     },
+    "4035301": {
+        "id": "4035301",
+        "series_id": "3",
+        "title": "Deducción prohibida",
+        "desc": "Las deducciones vienen después del brindis.",
+        "hide_desc": "※Dirígete a la taberna e investiga pistas sobre la existencia de Asat Pramad.",
+        "hide": false
+    },
+    "4035302": {
+        "id": "4035302",
+        "series_id": "3",
+        "title": "Enciende el fuego del pasado",
+        "desc": "¡Ven a jugar a una guerra de bolas de nieve!",
+        "hide_desc": "※Invoca a Grafía utilizando el método acordado en el pasado.",
+        "hide": false
+    },
+    "4035303": {
+        "id": "4035303",
+        "series_id": "3",
+        "title": "Un instante en la otra orilla",
+        "desc": "Salta y fúndete en esa Boca Azul",
+        "hide_desc": "※Observa a Blade dirigirse al extremo del mundo del cuadro.",
+        "hide": false
+    },
+    "4035304": {
+        "id": "4035304",
+        "series_id": "3",
+        "title": "La esencia de una espada",
+        "desc": "¿Qué es una espada? ¿Qué se desgasta a sí misma para despedazar a sus enemigos?",
+        "hide_desc": "※Blade obtiene su respuesta.",
+        "hide": false
+    },
+    "4035305": {
+        "id": "4035305",
+        "series_id": "3",
+        "title": "Una broma que cae en el vacío",
+        "desc": "Explicar un chiste es lo peor que se puede hacer.",
+        "hide_desc": "※Presencia la revelación del verdadero rostro de Asat Pramad.",
+        "hide": false
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -4235,7 +4275,7 @@
         "id": "4045212",
         "series_id": "4",
         "title": "Cazadores de la isla perdida",
-        "desc": "Alcanza antes que nadie la cima de la isla misteriosa en la carrera de sombras de Salto bidimensional en Manamar.",
+        "desc": "Alcanza antes que nadie la cima de la isla misteriosa en la Carrera de sombras de Salto bidimensional en Manamar.",
         "hide_desc": "",
         "hide": false
     },
@@ -4276,6 +4316,62 @@
         "series_id": "4",
         "title": "Variaciones de la arcadia: La canción del carpincho",
         "desc": "Toca la melodía extraña y encuentra a la misteriosa criatura oculta en Manamar.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045301": {
+        "id": "4045301",
+        "series_id": "4",
+        "title": "Una vida solitaria",
+        "desc": "Completa \"Hora del salto\" en el Hotel Retiro Pictovado.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045302": {
+        "id": "4045302",
+        "series_id": "4",
+        "title": "Esquiva al asesino",
+        "desc": "Completa \"Hora del salto\" en el Hotel Retiro Pictovado sin que te toque ningún fabuespín.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045303": {
+        "id": "4045303",
+        "series_id": "4",
+        "title": "El último gigante de hielo",
+        "desc": "Aturde a Casper.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045304": {
+        "id": "4045304",
+        "series_id": "4",
+        "title": "Reino nevado",
+        "desc": "Encuentra el cofre oculto en el castillo durante la guerra de bolas de nieve con Casper en Salto bidimensional.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045305": {
+        "id": "4045305",
+        "series_id": "4",
+        "title": "¡Más vapor!",
+        "desc": "Toma un baño en las aguas termales entre la nieve del Hotel Retiro Pictovado.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045306": {
+        "id": "4045306",
+        "series_id": "4",
+        "title": "La leyenda del jinete sin cabeza",
+        "desc": "Patea las cabezas de todos los muñecos de nieve comunes y corrientes del Hotel Retiro Pictovado.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045307": {
+        "id": "4045307",
+        "series_id": "4",
+        "title": "Variación de la arcadia: el niño de nieve",
+        "desc": "Toca una melodía extraña y encuentra a la misteriosa criatura oculta en el Hotel Retiro Pictovado.",
         "hide_desc": "",
         "hide": false
     },
@@ -9703,6 +9799,102 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055301": {
+        "id": "4055301",
+        "series_id": "5",
+        "title": "¡En marcha, Bus Astral!",
+        "desc": "Pregunta a Nihilux sobre la historia del Nuevo juego Fabuluna.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055302": {
+        "id": "4055302",
+        "series_id": "5",
+        "title": "Leyenda sin fin",
+        "desc": "Elige que sigan desarrollando Conejo estelar.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055303": {
+        "id": "4055303",
+        "series_id": "5",
+        "title": "Final feliz",
+        "desc": "Oponte a que sigan desarrollando Conejo estelar.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055304": {
+        "id": "4055304",
+        "series_id": "5",
+        "title": "Guardiana del mundo del cuadro",
+        "desc": "Invoca a Grafía en el círculo mágico del Hotel Retiro Pictovado.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055305": {
+        "id": "4055305",
+        "series_id": "5",
+        "title": "Cuánta energía",
+        "desc": "Encuentra a Umbrello en el distrito Palomaguas y en el Hotel Retiro Pictovado y habla con él.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055306": {
+        "id": "4055306",
+        "series_id": "5",
+        "title": "Amor de ginkgo",
+        "desc": "Presencia la emotiva despedida de dos transeúntes frente a la estación.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055307": {
+        "id": "4055307",
+        "series_id": "5",
+        "title": "Arma decisiva definitiva",
+        "desc": "En «Batalla de aviones pixelados», mejora un equipamiento principal a 3 estrellas por primera vez.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055308": {
+        "id": "4055308",
+        "series_id": "5",
+        "title": "Canción de la Chispa continua",
+        "desc": "Derrota a Chispa usando Magia del Circuito en «Batalla de aviones pixelados».",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055309": {
+        "id": "4055309",
+        "series_id": "5",
+        "title": "Promesa bajo el cielo azul",
+        "desc": "Desbloquea todos los aviones pixelados en «Batalla de aviones pixelados»",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055310": {
+        "id": "4055310",
+        "series_id": "5",
+        "title": "As del combate aéreo",
+        "desc": "Gana el duelo culminante en «Batalla de aviones pixelados» sin perder ninguna vida.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055311": {
+        "id": "4055311",
+        "series_id": "5",
+        "title": "Conjunto de equipamiento definitivo",
+        "desc": "Ten 7 piezas de equipamiento de 3 estrellas a la vez en una misma partida de «Batalla de aviones pixelados».",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055312": {
+        "id": "4055312",
+        "series_id": "5",
+        "title": "Dominio de todos los modelos",
+        "desc": "Gana una partida con cada avión en «Batalla de aviones pixelados».",
+        "hide_desc": "",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -12347,7 +12539,7 @@
         "id": "4075201",
         "series_id": "7",
         "title": "Nada de caras largas",
-        "desc": "En una sola batalla, usa {F#a la}{M#al} Trazacaminos de la Vía de la Exultación para lanzar la habilidad definitiva una vez sobre 4 compañeros de equipo diferentes.",
+        "desc": "En una sola batalla, usa {F#a la}{M#al} Trazacaminos de la Vía de la Exultación para lanzar la habilidad definitiva una vez sobre 4 personajes diferentes.",
         "hide_desc": "",
         "hide": true
     },
@@ -12422,6 +12614,46 @@
         "desc": "En una batalla contra Ascendentes del Gozo, elimina a 4 o más Ascendente del Gozo: Final con un solo ataque.",
         "hide_desc": "",
         "hide": false
+    },
+    "4075301": {
+        "id": "4075301",
+        "series_id": "7",
+        "title": "Guerrero forjado en la fragua eterna",
+        "desc": "Al ganar la batalla, los PV restantes de Mortenax Blade son 1.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075302": {
+        "id": "4075302",
+        "series_id": "7",
+        "title": "Fragor de martillos y espadas",
+        "desc": "En un solo turno, usa al personaje aliado Mortenax Blade para lanzar Tumba bajo las espadas 4 veces.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075303": {
+        "id": "4075303",
+        "series_id": "7",
+        "title": "Jef{F#a}{M#e} de bomberos al rojo vivo",
+        "desc": "En el combate contra Grafía Murata, Artista Original, selecciona Extinción de llamas cuando tengas pocos PV y tu probabilidad de extinción sea mínima, y logra disipar el estado de Pira del rencor.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075304": {
+        "id": "4075304",
+        "series_id": "7",
+        "title": "Limpiador gastrointestinal",
+        "desc": "En la batalla contra Vástago Devorador de Dioses, usa el personaje aliado con el ATQ más alto para disipar el estado de Devoración y obtener una bonificación de ATQ adicional.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075305": {
+        "id": "4075305",
+        "series_id": "7",
+        "title": "Condena eterna",
+        "desc": "Usa al personaje aliado Mortenax Blade para lanzar Forja de uno, olvido de todos 6 veces durante una sola activación de Ira inconmensurable.",
+        "hide_desc": "",
+        "hide": true
     },
     "4080101": {
         "id": "4080101",
@@ -13022,6 +13254,14 @@
         "desc": "Sé atropellad{F#a}{M#o} por un volauto en el agua en Salto bidimensional.",
         "hide_desc": "",
         "hide": true
+    },
+    "4085301": {
+        "id": "4085301",
+        "series_id": "8",
+        "title": "¿Quieres hacer un muñeco de nieve?",
+        "desc": "Queda congelad{F#a}{M#o} en un bloque de hielo en Salto bidimensional.",
+        "hide_desc": "",
+        "hide": false
     },
     "4090201": {
         "id": "4090201",

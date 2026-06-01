@@ -6648,6 +6648,80 @@
         "level_up_skills": [],
         "icon": "icon/skill/1506_rank6.png"
     },
+    "150701": {
+        "id": "150701",
+        "name": "Leben ohne Gestalt, Formung durch den Tod",
+        "rank": 1,
+        "desc": "Während das Kraftfeld aktiv ist, wird der WDS aller Typen aller Gegner um 20% verringert. Nach dem Einsatz der zusätzlichen Fertigkeit des Talents wird die Aktion des Countdowns von „Grenzenloser Zorn“ um 15% verzögert.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank1.png"
+    },
+    "150702": {
+        "id": "150702",
+        "name": "Aschenes Herz, lodernder Ofen",
+        "rank": 2,
+        "desc": "Wenn verbündete Figuren durch Ultimates SCH verursachen, wird der Angriff als Folgeangriff gewertet. Erhöht den von Verbündeten verursachten Folgeangriff-SCH um 75%. Reduziert die max. Aufladung von Mortenax Blade auf 7.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank2.png"
+    },
+    "150703": {
+        "id": "150703",
+        "name": "Übergang ins Jenseits, wahre Gestalt des Zorns",
+        "rank": 3,
+        "desc": "Ultimate-Stufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150703", "num": 2 },
+            { "id": "150704", "num": 2 },
+            { "id": "150714", "num": 2 }
+        ],
+        "icon": "icon/skill/1507_ultimate.png"
+    },
+    "150704": {
+        "id": "150704",
+        "name": "Schmiede den Groll, forme die Klinge",
+        "rank": 4,
+        "desc": "„Zehntausendfach gehärtetes Herz“ erhöht den von Verbündeten verursachten SCH zusätzlich um 50%.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank4.png"
+    },
+    "150705": {
+        "id": "150705",
+        "name": "Beenden des Leids, Beginnen des Lebens",
+        "rank": 5,
+        "desc": "Fertigkeitsstufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150702", "num": 2 },
+            { "id": "150701", "num": 1 },
+            { "id": "150708", "num": 1 }
+        ],
+        "icon": "icon/skill/1507_skill.png"
+    },
+    "150706": {
+        "id": "150706",
+        "name": "Fall der Unsterblichkeit, Schwur der Vernichtung",
+        "rank": 6,
+        "desc": "Während das Kraftfeld aktiv ist, erhält Mortenax Blade 1 Pkt. Aufladung, wenn er SCH erleidet oder LP verbraucht. Dieser Effekt kann nach dem Ende der Runde eines beliebigen Ziels erneut ausgelöst werden. Der SCH-Multiplikator von „Schmiede des Einen, Vergessen des Allen“ wird auf 150% des ursprünglichen Multiplikators erhöht.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank6.png"
+    },
     "800101": {
         "id": "800101",
         "name": "Verstreute Sterne",

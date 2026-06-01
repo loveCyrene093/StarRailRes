@@ -6648,6 +6648,80 @@
         "level_up_skills": [],
         "icon": "icon/skill/1506_rank6.png"
     },
+    "150701": {
+        "id": "150701",
+        "name": "Trước Khi Ta Chết, Ta Vẫn Chưa Thành Hình",
+        "rank": 1,
+        "desc": "Trong thời gian duy trì Kết Giới, giảm 20% Kháng Toàn Thuộc Tính của toàn phe địch, sau khi thi triển Chiến Kỹ tăng thêm của Thiên Phú, khiến đếm ngược \"Vô Lượng Phẫn Nộ\" Trì Hoãn Hành Động 15%.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank1.png"
+    },
+    "150702": {
+        "id": "150702",
+        "name": "Tâm Như Tro Tàn, Nhưng Lửa Lò Chưa Tắt",
+        "rank": 2,
+        "desc": "Khi nhân vật phe ta thi triển Tuyệt Kỹ gây sát thương, sẽ xem như là phát động Đòn Đánh Theo Sau, sát thương Đòn Đánh Theo Sau do mục tiêu phe ta gây ra tăng 75%. Giới hạn điểm Nạp Năng Lượng của Mortenax Blade giảm xuống còn 7.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank2.png"
+    },
+    "150703": {
+        "id": "150703",
+        "name": "Thân Vượt Bỉ Ngạn, Bộc Lộ Bản Tướng Phẫn Nộ",
+        "rank": 3,
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150703", "num": 2 },
+            { "id": "150704", "num": 2 },
+            { "id": "150714", "num": 2 }
+        ],
+        "icon": "icon/skill/1507_ultimate.png"
+    },
+    "150704": {
+        "id": "150704",
+        "name": "Rèn Tan Di Hận, Cốt Kiếm Tự Thành Hình",
+        "rank": 4,
+        "desc": "\"Trái Tim Vạn Lần Tôi Luyện\" khiến sát thương mục tiêu phe ta gây ra tăng thêm 50%.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank4.png"
+    },
+    "150705": {
+        "id": "150705",
+        "name": "Đoạn Tuyệt Khổ Đau, Hiểu Cửa Tử Cầu Tân Sinh",
+        "rank": 5,
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150702", "num": 2 },
+            { "id": "150701", "num": 1 },
+            { "id": "150708", "num": 1 }
+        ],
+        "icon": "icon/skill/1507_skill.png"
+    },
+    "150706": {
+        "id": "150706",
+        "name": "Nếu Thần Có Thể Chết, Thề Tự Tay Diệt Thọ Ôn",
+        "rank": 6,
+        "desc": "Trong thời gian duy trì Kết Giới, khi Mortenax Blade chịu sát thương hoặc tiêu hao HP, nhận 1 điểm Nạp Năng Lượng, hiệu ứng này có thể kích hoạt lại sau khi hiệp của mục tiêu bất kỳ kết thúc. Bội Số Sát Thương của \"Ngàn Lần Rèn Đúc, Vạn Kiếp Tẫn Diệt\" tăng bằng 150% bội số ban đầu.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank6.png"
+    },
     "800101": {
         "id": "800101",
         "name": "Ánh Sao Soi Chiếu Vạn Giới",

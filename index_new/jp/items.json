@@ -484,7 +484,8 @@
         "come_from": [
             "星魂が上限に達した★5キャラクターを新たに2回獲得すると交換可能",
             "星魂が上限に達した★5キャラクターを新たに2回獲得すると交換可能",
-            "千星、旅は道づれ"
+            "千星、旅は道づれ",
+            "千星、旅は道づれ（今期は受取済み）"
         ]
     },
     "282": {
@@ -1300,6 +1301,15 @@
     "11506": {
         "id": "11506",
         "name": "「銀狼LV.999」の星魂",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11507": {
+        "id": "11507",
+        "name": "「千冶・刃」の星魂",
         "type": "Material",
         "sub_type": "Eidolon",
         "rarity": 5,
@@ -2661,6 +2671,78 @@
         "rarity": 5,
         "icon": "icon/item/71053.png",
         "come_from": ["侵蝕トンネル「グラフィエ{RUBY_B#がくいん}学院{RUBY_E#}」", "「万能合成マシン」- 遺物合成"]
+    },
+    "81311": {
+        "id": "81311",
+        "name": "星巡るナビゲーター「シケン」",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71056.png",
+        "come_from": []
+    },
+    "81312": {
+        "id": "81312",
+        "name": "星巡るナビゲーター「シケン」",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71056.png",
+        "come_from": []
+    },
+    "81313": {
+        "id": "81313",
+        "name": "星巡るナビゲーター「シケン」",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71056.png",
+        "come_from": []
+    },
+    "81314": {
+        "id": "81314",
+        "name": "星巡るナビゲーター「シケン」",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71056.png",
+        "come_from": ["侵蝕トンネル「{RUBY_B#くも}雲{RUBY_E#}の{RUBY_B#しまえき}島駅{RUBY_E#}」", "「万能合成マシン」- 遺物合成"]
+    },
+    "81321": {
+        "id": "81321",
+        "name": "神業を探求する名匠",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71057.png",
+        "come_from": []
+    },
+    "81322": {
+        "id": "81322",
+        "name": "神業を探求する名匠",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71057.png",
+        "come_from": []
+    },
+    "81323": {
+        "id": "81323",
+        "name": "神業を探求する名匠",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71057.png",
+        "come_from": []
+    },
+    "81324": {
+        "id": "81324",
+        "name": "神業を探求する名匠",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71057.png",
+        "come_from": ["侵蝕トンネル「{RUBY_B#くも}雲{RUBY_E#}の{RUBY_B#しまえき}島駅{RUBY_E#}」", "「万能合成マシン」- 遺物合成"]
     },
     "83011": {
         "id": "83011",
@@ -4124,6 +4206,70 @@
             "「万能合成マシン」- 素材交換"
         ]
     },
+    "110281": {
+        "id": "110281",
+        "name": "四相、過河照君",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 2,
+        "icon": "icon/item/110281.png",
+        "come_from": ["疑似花萼「{RUBY_B#とがせんいん}渡画泉隠{RUBY_E#}」", "エンバー交換", "「万能合成マシン」- 素材交換"]
+    },
+    "110282": {
+        "id": "110282",
+        "name": "六合、王手飛車取り",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 3,
+        "icon": "icon/item/110282.png",
+        "come_from": [
+            "疑似花萼「{RUBY_B#とがせんいん}渡画泉隠{RUBY_E#}」",
+            "「万能合成マシン」- 素材合成",
+            "エンバー交換",
+            "「万能合成マシン」- 素材交換"
+        ]
+    },
+    "110283": {
+        "id": "110283",
+        "name": "万色、愚者のメイト",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 4,
+        "icon": "icon/item/110283.png",
+        "come_from": ["疑似花萼「{RUBY_B#とがせんいん}渡画泉隠{RUBY_E#}」", "「万能合成マシン」- 素材合成", "「万能合成マシン」- 素材交換"]
+    },
+    "110291": {
+        "id": "110291",
+        "name": "天体模型",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 2,
+        "icon": "icon/item/110291.png",
+        "come_from": ["疑似花萼「{RUBY_B#うなばら}海原{RUBY_E#}テレビタワー」", "エンバー交換", "「万能合成マシン」- 素材交換"]
+    },
+    "110292": {
+        "id": "110292",
+        "name": "星系模型",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 3,
+        "icon": "icon/item/110292.png",
+        "come_from": [
+            "疑似花萼「{RUBY_B#うなばら}海原{RUBY_E#}テレビタワー」",
+            "「万能合成マシン」- 素材合成",
+            "エンバー交換",
+            "「万能合成マシン」- 素材交換"
+        ]
+    },
+    "110293": {
+        "id": "110293",
+        "name": "銀河のサンドボックス",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 4,
+        "icon": "icon/item/110293.png",
+        "come_from": ["疑似花萼「{RUBY_B#うなばら}海原{RUBY_E#}テレビタワー」", "「万能合成マシン」- 素材合成", "「万能合成マシン」- 素材交換"]
+    },
     "110311": {
         "id": "110311",
         "name": "ファジェイナの涙",
@@ -4431,6 +4577,15 @@
         "icon": "icon/item/110437.png",
         "come_from": ["凝結虚影「『運命の深淵』ヤヌサポリス」", "「万能合成マシン」- 素材交換"]
     },
+    "110443": {
+        "id": "110443",
+        "name": "嗤うピエロの面",
+        "type": "Material",
+        "sub_type": "AvatarRank",
+        "rarity": 4,
+        "icon": "icon/item/110443.png",
+        "come_from": ["凝結虚影「{RUBY_B#とがせんいん}渡画泉隠{RUBY_E#}」", "「万能合成マシン」- 素材交換"]
+    },
     "110501": {
         "id": "110501",
         "name": "壊滅者の末路",
@@ -4504,6 +4659,15 @@
         "come_from": [
             "歴戦余韻「「{RUBY_B#ほうむ}葬{RUBY_E#}られし{RUBY_B#きおく}記憶{RUBY_E#}の{RUBY_B#ひがん}彼岸{RUBY_E#}」{RUBY_B#とき}時{RUBY_E#}の{RUBY_B#は}果{RUBY_E#}て」"
         ]
+    },
+    "110610": {
+        "id": "110610",
+        "name": "軌跡の涙",
+        "type": "Material",
+        "sub_type": "WeeklyMonsterDrop",
+        "rarity": 4,
+        "icon": "icon/item/110610.png",
+        "come_from": []
     },
     "111000": {
         "id": "111000",
@@ -5180,6 +5344,33 @@
         "rarity": 3,
         "icon": "icon/item/122000.png",
         "come_from": ["エディオンコインショップ", "「ピノコニー」での探索で獲得"]
+    },
+    "122001": {
+        "id": "122001",
+        "name": "忘却の庭の期間限定勲章",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/295532.png",
+        "come_from": []
+    },
+    "122002": {
+        "id": "122002",
+        "name": "虚構叙事の期間限定勲章",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/295533.png",
+        "come_from": []
+    },
+    "122003": {
+        "id": "122003",
+        "name": "末日の幻影の期間限定勲章",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/295534.png",
+        "come_from": []
     },
     "123000": {
         "id": "123000",
@@ -9940,6 +10131,15 @@
         "sub_type": "Mission",
         "rarity": 4,
         "icon": "icon/item/140611.png",
+        "come_from": []
+    },
+    "140612": {
+        "id": "140612",
+        "name": "不死途の探偵手帳",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/190016.png",
         "come_from": []
     },
     "149957": {
@@ -20677,6 +20877,150 @@
         "icon": "icon/item/190021.png",
         "come_from": []
     },
+    "192091": {
+        "id": "192091",
+        "name": "グラフィエ目撃報告",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192092": {
+        "id": "192092",
+        "name": "河童の系譜",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192093": {
+        "id": "192093",
+        "name": "アンブレラのノート",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192094": {
+        "id": "192094",
+        "name": "地域住民の皆さんへのお知らせ",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192095": {
+        "id": "192095",
+        "name": "死とは憂いなき安眠である",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192096": {
+        "id": "192096",
+        "name": "渡画泉隠サービス料金表",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192097": {
+        "id": "192097",
+        "name": "宿泊客へのサービスに関するメモ",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192098": {
+        "id": "192098",
+        "name": "願力保養の心得",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192099": {
+        "id": "192099",
+        "name": "温泉祭りの提案書",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192100": {
+        "id": "192100",
+        "name": "未達成のウィッシュリスト",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192101": {
+        "id": "192101",
+        "name": "鳩川のほとりの君へ",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192102": {
+        "id": "192102",
+        "name": "「千願の木陰」の唄",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192103": {
+        "id": "192103",
+        "name": "星神避難ガイド",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192104": {
+        "id": "192104",
+        "name": "「俗世入画」の唄",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192105": {
+        "id": "192105",
+        "name": "不死途の探偵手帳",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192106": {
+        "id": "192106",
+        "name": "浮脂紀事 蛙の章 其の6",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
     "210001": {
         "id": "210001",
         "name": "『禍災の黎明』",
@@ -22657,6 +23001,69 @@
         "icon": "icon/item/210001.png",
         "come_from": []
     },
+    "210470": {
+        "id": "210470",
+        "name": "『泉隠の秘境』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210471": {
+        "id": "210471",
+        "name": "『余白』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210472": {
+        "id": "210472",
+        "name": "『ここで生まれ、ここで育つ』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210473": {
+        "id": "210473",
+        "name": "『炉の中の故郷』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210474": {
+        "id": "210474",
+        "name": "『徹骨』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210475": {
+        "id": "210475",
+        "name": "『雪と血』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210476": {
+        "id": "210476",
+        "name": "『創始の絵師』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
     "215001": {
         "id": "215001",
         "name": "『ひらりはらり』",
@@ -22696,6 +23103,42 @@
     "215008": {
         "id": "215008",
         "name": "『樹々のことば』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "215009": {
+        "id": "215009",
+        "name": "『さらさら』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "215010": {
+        "id": "215010",
+        "name": "『青鈍』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "215011": {
+        "id": "215011",
+        "name": "『夜明け』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "215012": {
+        "id": "215012",
+        "name": "『焼き上がり』",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22800,6 +23243,15 @@
         "rarity": 4,
         "icon": "icon/item/220010.png",
         "come_from": ["イベント「初の乱世録」で獲得できるチャットの吹き出し"]
+    },
+    "220012": {
+        "id": "220012",
+        "name": "蒼穹の上",
+        "type": "Usable",
+        "sub_type": "ChatBubble",
+        "rarity": 4,
+        "icon": "icon/item/220012.png",
+        "come_from": ["イベント「ドット絵飛行機ウォーズ」で獲得できるチャットの吹き出し"]
     },
     "221000": {
         "id": "221000",
@@ -25409,7 +25861,7 @@
         "sub_type": "PlayerOutfit",
         "rarity": 5,
         "icon": "icon/item/227010.png",
-        "come_from": ["ギフトボックス「緋狐ノ影」", "ショップ「ファッションアイテム」で獲得"]
+        "come_from": ["ショップ「ファッションアイテム」で獲得"]
     },
     "227012": {
         "id": "227012",
@@ -25427,7 +25879,16 @@
         "sub_type": "PlayerOutfit",
         "rarity": 5,
         "icon": "icon/item/227013.png",
-        "come_from": ["ギフトボックス「銀河スピードクリア」"]
+        "come_from": ["ショップ「ファッションアイテム」で獲得"]
+    },
+    "227015": {
+        "id": "227015",
+        "name": "彼岸の業火",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 5,
+        "icon": "icon/item/227015.png",
+        "come_from": []
     },
     "229001": {
         "id": "229001",
@@ -27596,7 +28057,7 @@
         "sub_type": "PamSkin",
         "rarity": 4,
         "icon": "icon/item/252003.png",
-        "come_from": ["「おたすけパム」でパムと会話して獲得"]
+        "come_from": ["「ヘルタショップ」にて交換可能"]
     },
     "252004": {
         "id": "252004",
@@ -29270,7 +29731,7 @@
         "sub_type": "PersonalCard",
         "rarity": 5,
         "icon": "icon/item/253004.png",
-        "come_from": ["ギフトボックス「銀河スピードクリア」"]
+        "come_from": ["ショップ「ファッションアイテム」で獲得"]
     },
     "254000": {
         "id": "254000",
@@ -31035,6 +31496,15 @@
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
     },
+    "268201": {
+        "id": "268201",
+        "name": "ドットコアのカセット",
+        "type": "Material",
+        "sub_type": "PixAirMaterial",
+        "rarity": 5,
+        "icon": "icon/item/268201.png",
+        "come_from": []
+    },
     "269001": {
         "id": "269001",
         "name": "彩色戦力コイン",
@@ -32601,6 +33071,15 @@
         "icon": "icon/item/402036.png",
         "come_from": ["「万能合成マシン」", "グラフィエ学院売店"]
     },
+    "402037": {
+        "id": "402037",
+        "name": "弾むオレンジハート",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/402037.png",
+        "come_from": ["「万能合成マシン」"]
+    },
     "403001": {
         "id": "403001",
         "name": "使い捨て動力アーム",
@@ -33427,6 +33906,15 @@
         "sub_type": "Formula",
         "rarity": 3,
         "icon": "icon/item/404001.png",
+        "come_from": []
+    },
+    "406037": {
+        "id": "406037",
+        "name": "レシピ：弾むオレンジハート",
+        "type": "Usable",
+        "sub_type": "Formula",
+        "rarity": 3,
+        "icon": "icon/item/406037.png",
         "come_from": []
     },
     "407001": {

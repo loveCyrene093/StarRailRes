@@ -448,6 +448,36 @@
         ],
         "icon": "icon/relic/130.png"
     },
+    "131": {
+        "id": "131",
+        "name": "Wie Navigator Isee es sieht",
+        "desc": [
+            "Erhöht den ANG um 12%.",
+            "Wenn der Träger den Kampf betritt oder seine Fertigkeit einsetzt, wird der verursachte SCH durch Fertigkeiten und Ultimates um 18% erhöht. Dieser Effekt ist bis zu 3-fach stapelbar. Entfernt zu Beginn der Runde des Trägers bzw. nach dem Einsatz des Ultimates 1 Stapelung dieses Effekts."
+        ],
+        "properties": [
+            [
+                { "type": "AttackAddedRatio", "value": 0.12 }
+            ],
+            []
+        ],
+        "icon": "icon/relic/131.png"
+    },
+    "132": {
+        "id": "132",
+        "name": "Götterbefragender Meisterschmied",
+        "desc": [
+            "Erhöht die max. LP um 12%.",
+            "Erhöht den KRIT-SCH, den der Träger Gegnern im Status „VTD-Reduktion“ zufügt, um 28%. Nachdem der Träger einem Gegner den Status VTD-Reduktion zugefügt hat, erhalten alle Verbündeten für 2 Rd. „Brandbeschleuniger“. Dieser Effekt ist nicht stapelbar. Der von Verbündeten mit Brandbeschleuniger verursachte SCH wird um 15% erhöht. Dieser Effekt kann erneut ausgelöst werden, nachdem der Träger einen Angriff ausgeführt hat."
+        ],
+        "properties": [
+            [
+                { "type": "HPAddedRatio", "value": 0.12 }
+            ],
+            []
+        ],
+        "icon": "icon/relic/132.png"
+    },
     "301": {
         "id": "301",
         "name": "Raumstation für Versiegelung",

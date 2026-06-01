@@ -4646,7 +4646,7 @@
         "id": "130902",
         "name": "Afternoon Tea For Two",
         "rank": 2,
-        "desc": "While the Concerto state is active, all allies' SPD increases by 16%. The Talent's Energy Regeneration effect additionally increases by 1.",
+        "desc": "While the \"Concerto\" state is active, all allies' SPD increases by 16%. The Talent's Energy Regeneration effect additionally increases by 1.",
         "materials": [
             { "id": "11309", "num": 1 }
         ],
@@ -6647,6 +6647,80 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1506_rank6.png"
+    },
+    "150701": {
+        "id": "150701",
+        "name": "Ere My Death, I Stood Unmade",
+        "rank": 1,
+        "desc": "While the Zone is active, decreases all enemies' All-Type RES by 20%. After using the extra Skill from Talent, the \"Infinite Fury\" countdown has its action delayed by 15%.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank1.png"
+    },
+    "150702": {
+        "id": "150702",
+        "name": "Ash Was My Heart, Yet the Flame Stayed",
+        "rank": 2,
+        "desc": "When an ally character uses Ultimate to deal DMG, it is considered as having launched Follow-Up ATK. And the Follow-Up ATK DMG dealt by ally targets increases by 75%. The upper limit of Mortenax Blade's Charge decreases to 7.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank2.png"
+    },
+    "150703": {
+        "id": "150703",
+        "name": "Across the Shore, Wrath Laid Bare",
+        "rank": 3,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150703", "num": 2 },
+            { "id": "150704", "num": 2 },
+            { "id": "150714", "num": 2 }
+        ],
+        "icon": "icon/skill/1507_ultimate.png"
+    },
+    "150704": {
+        "id": "150704",
+        "name": "Odium I've Smitten, Thence Came the Blade",
+        "rank": 4,
+        "desc": "\"Heart, Refined ad Infinitum\" additionally increases ally targets' DMG dealt by 50%.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank4.png"
+    },
+    "150705": {
+        "id": "150705",
+        "name": "I Severed My Woes, Knowing Death Begets Life",
+        "rank": 5,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150702", "num": 2 },
+            { "id": "150701", "num": 1 },
+            { "id": "150708", "num": 1 }
+        ],
+        "icon": "icon/skill/1507_skill.png"
+    },
+    "150706": {
+        "id": "150706",
+        "name": "If Immortality Could Die, I Swore THEM Slain",
+        "rank": 6,
+        "desc": "As the Zone persists, when Mortenax Blade takes DMG or consumes HP, he gains 1 Charge. This effect can trigger again after any target's turn ends. The DMG multiplier of \"Tenax Per Ignem\" increases to 150% of its original value.",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank6.png"
     },
     "800101": {
         "id": "800101",

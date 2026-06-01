@@ -1623,6 +1623,46 @@
         "hide_desc": "※ Menerima permintaan Evanescia",
         "hide": false
     },
+    "4035301": {
+        "id": "4035301",
+        "series_id": "3",
+        "title": "Deduksi Terlarang",
+        "desc": "Deduksi harus dilakukan setelah bersulang",
+        "hide_desc": "※ Pergi ke \"bar\" untuk menyelidiki keberadaan Asat Pramad",
+        "hide": false
+    },
+    "4035302": {
+        "id": "4035302",
+        "series_id": "3",
+        "title": "Nyalakan Pelita Masa Lalu",
+        "desc": "Ayo main perang bola salju!",
+        "hide_desc": "※ Panggil Graphia dengan cara yang sudah disepakati di masa lalu",
+        "hide": false
+    },
+    "4035303": {
+        "id": "4035303",
+        "series_id": "3",
+        "title": "Berhenti Sejenak di Seberang",
+        "desc": "Lompatlah ke bawah, melebur di dalam Lubang Biru itu",
+        "hide_desc": "※ Saksikan Blade menuju ujung Dunia dalam Lukisan",
+        "hide": false
+    },
+    "4035304": {
+        "id": "4035304",
+        "series_id": "3",
+        "title": "Apa itu Bilah",
+        "desc": "Apa itu bilah? Apa yang mengikis diri sendiri dan mencabik-cabik musuh?",
+        "hide_desc": "※ Blade telah mendapatkan jawabannya",
+        "hide": false
+    },
+    "4035305": {
+        "id": "4035305",
+        "series_id": "3",
+        "title": "Lelucon yang Lenyap dalam Kesunyian",
+        "desc": "Menjelaskan lelucon adalah tindakan yang paling buruk",
+        "hide_desc": "※ Saksikan Asat Pramad mengungkap jati dirinya",
+        "hide": false
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -4276,6 +4316,62 @@
         "series_id": "4",
         "title": "Variasi Utopia: Lagu Kapibara",
         "desc": "Mainkan Simfoni Aneh dan temukan makhluk misterius yang bersembunyi di Kota Seafeld",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045301": {
+        "id": "4045301",
+        "series_id": "4",
+        "title": "Sang Penyendiri",
+        "desc": "Selesaikan \"Momen Jump\" di Pertapaan Inkford",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045302": {
+        "id": "4045302",
+        "series_id": "4",
+        "title": "Hindari Pembunuh",
+        "desc": "Selesaikan \"Momen Jump\" di Pertapaan Inkford tanpa tersentuh Hedgehogae",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045303": {
+        "id": "4045303",
+        "series_id": "4",
+        "title": "Raksasa Es Terakhir",
+        "desc": "Lumpuhkan Casper",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045304": {
+        "id": "4045304",
+        "series_id": "4",
+        "title": "Negeri Salju",
+        "desc": "Temukan peti harta yang tersembunyi di dalam kastil saat bermain perang salju dengan Casper di \"Jump 2D!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045305": {
+        "id": "4045305",
+        "series_id": "4",
+        "title": "Selamat Datang di Platform Uap",
+        "desc": "Berendam di pemandian air panas di \"Pertapaan Inkford\" yang tertutup salju",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045306": {
+        "id": "4045306",
+        "series_id": "4",
+        "title": "Kisah Kesatria Tanpa Kepala",
+        "desc": "Tendang semua kepala \"manusia salju yang biasa saja\" di \"Pertapaan Inkford\" sampai terlepas",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045307": {
+        "id": "4045307",
+        "series_id": "4",
+        "title": "Variasi Utopia: Anak Salju",
+        "desc": "Mainkan simfoni aneh dan temukan makhluk misterius yang bersembunyi di \"Pertapaan Inkford\"",
         "hide_desc": "",
         "hide": false
     },
@@ -9703,6 +9799,102 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055301": {
+        "id": "4055301",
+        "series_id": "5",
+        "title": "Bus Astral, Berangkat!",
+        "desc": "Pelajari kisah \"Permainan Baru Bulan Imajinasi\" dari Nihilux",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055302": {
+        "id": "4055302",
+        "series_id": "5",
+        "title": "Legenda Tanpa Akhir",
+        "desc": "Dukung pengembangan \"Kelinci Rel Bintang\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055303": {
+        "id": "4055303",
+        "series_id": "5",
+        "title": "Dan Ia Hidup Bahagia Selamanya ....",
+        "desc": "Tolak pengembangan \"Kelinci Rel Bintang\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055304": {
+        "id": "4055304",
+        "series_id": "5",
+        "title": "Pelindung Dunia Lukisan",
+        "desc": "Panggil \"Graphia\" melalui lingkaran sihir Pertapaan Inkford",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055305": {
+        "id": "4055305",
+        "series_id": "5",
+        "title": "Orang Berstamina Tinggi",
+        "desc": "Temui dan bicara dengan Umbralle dua kali, di Distrik Dovebrook dan Pertapaan Inkford",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055306": {
+        "id": "4055306",
+        "series_id": "5",
+        "title": "Cinta Pohon Ginkgo",
+        "desc": "Menyaksikan dua pejalan kaki berpisah dengan berat hati di depan stasiun",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055307": {
+        "id": "4055307",
+        "series_id": "5",
+        "title": "Senjata Pertempuran Final",
+        "desc": "Tingkatkan satu equipment inti ke 3★ untuk pertama kalinya di \"Pertempuran Pesawat Piksel\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055308": {
+        "id": "4055308",
+        "series_id": "5",
+        "title": "Lanjutan Nyanyian Sparxie",
+        "desc": "Gunakan \"Sulap Lintasan\" untuk mengalahkan Sparxie di \"Pertempuran Pesawat Piksel\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055309": {
+        "id": "4055309",
+        "series_id": "5",
+        "title": "Janji di Bawah Langit Biru",
+        "desc": "Buka semua Pesawat Piksel di \"Pertempuran Pesawat Piksel\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055310": {
+        "id": "4055310",
+        "series_id": "5",
+        "title": "Pertarungan Udara Para Elite",
+        "desc": "Menangkan pertarungan puncak tanpa kehilangan HP di \"Pertempuran Pesawat Piksel\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055311": {
+        "id": "4055311",
+        "series_id": "5",
+        "title": "Set Kelulusan",
+        "desc": "Miliki 7 equipment 3★ secara bersamaan dalam satu ronde di \"Pertempuran Pesawat Piksel\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055312": {
+        "id": "4055312",
+        "series_id": "5",
+        "title": "Dominasi Semua Model",
+        "desc": "Gunakan setiap pesawat untuk memenangkan pertandingan di \"Pertempuran Pesawat Piksel\"",
+        "hide_desc": "",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -12347,7 +12539,7 @@
         "id": "4075201",
         "series_id": "7",
         "title": "Jangan Ada yang Cemberut",
-        "desc": "Dalam 1 pertempuran, gunakan Trailblazer dengan Path \"Elation\" untuk melancarkan Ultimate pada 4 rekan berbeda masing-masing 1 kali.",
+        "desc": "Dalam 1 pertempuran, gunakan Trailblazer dengan Path \"Elation\" untuk melancarkan Ultimate pada 4 karakter berbeda masing-masing 1 kali",
         "hide_desc": "",
         "hide": true
     },
@@ -12355,7 +12547,7 @@
         "id": "4075202",
         "series_id": "7",
         "title": "Terima Kasih Buat Tipnya",
-        "desc": "Dalam satu pertempuran, gunakan Trailblazer Path \"Elation\" untuk melancarkan Ultimate pada Sparxie sebanyak total 5 kali",
+        "desc": "Dalam 1 pertempuran, gunakan Trailblazer Path \"Elation\" untuk melancarkan Ultimate pada Sparxie sebanyak total 5 kali",
         "hide_desc": "",
         "hide": true
     },
@@ -12422,6 +12614,46 @@
         "desc": "Di pertempuran \"Joy Ascendant\", kalahkan 4 \"Joy Ascendant: Finale\" atau lebih sekaligus dalam satu serangan",
         "hide_desc": "",
         "hide": false
+    },
+    "4075301": {
+        "id": "4075301",
+        "series_id": "7",
+        "title": "Api Tanpa Akhir dan Penempaan",
+        "desc": "Saat memenangkan pertempuran, sisa HP Mortenax Blade adalah 1",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075302": {
+        "id": "4075302",
+        "series_id": "7",
+        "title": "Dentang Senjata yang Tak Henti",
+        "desc": "Dalam satu giliran, gunakan karakter tim Mortenax Blade untuk melancarkan \"A Rain of Blades Seals Fate\" sebanyak 4 kali",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4075303": {
+        "id": "4075303",
+        "series_id": "7",
+        "title": "Ketua Tim Pemadam Berapi-Api",
+        "desc": "Dalam pertempuran melawan \"Murata Graphia, Founding Artist\", pilih \"Extinguish Flames\" saat HP diri rendah dan tingkat keberhasilan memadamkan api berada di titik terendah, serta berhasil menghapus status \"Grudge Ablaze\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075304": {
+        "id": "4075304",
+        "series_id": "7",
+        "title": "Pembersih Saluran Cerna",
+        "desc": "Dalam pertempuran melawan \"God-Devourer Offspring\", gunakan karakter tim dengan ATK tertinggi untuk menghapus status \"Devour\" dan memperoleh bonus ATK tambahan",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075305": {
+        "id": "4075305",
+        "series_id": "7",
+        "title": "Kehancuran Abadi",
+        "desc": "Gunakan karakter tim Mortenax Blade untuk melancarkan \"Tenax Per Ignem\" sebanyak 6 kali selama 1 kali durasi \"Infinite Fury\"",
+        "hide_desc": "",
+        "hide": true
     },
     "4080101": {
         "id": "4080101",
@@ -13022,6 +13254,14 @@
         "desc": "Tertabrak kendaraan air di \"Jump 2D!\"",
         "hide_desc": "",
         "hide": true
+    },
+    "4085301": {
+        "id": "4085301",
+        "series_id": "8",
+        "title": "Mau Buat Boneka Salju?",
+        "desc": "Dibekukan di dalam balok es di \"Jump 2D!\"",
+        "hide_desc": "",
+        "hide": false
     },
     "4090201": {
         "id": "4090201",

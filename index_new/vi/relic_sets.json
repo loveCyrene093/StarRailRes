@@ -448,6 +448,36 @@
         ],
         "icon": "icon/relic/130.png"
     },
+    "131": {
+        "id": "131",
+        "name": "Biển Sao Như Hoa Tiêu Isee Nhìn Thấy",
+        "desc": [
+            "Tấn Công tăng 12%.",
+            "Khi người trang bị vào chiến đấu/thi triển Chiến Kỹ, sẽ khiến sát thương Chiến Kỹ và Tuyệt Kỹ gây ra tăng 18%, tối đa cộng dồn 3 tầng, khi bắt đầu hiệp của người trang bị/sau khi thi triển Tuyệt Kỹ, xóa 1 tầng hiệu ứng này."
+        ],
+        "properties": [
+            [
+                { "type": "AttackAddedRatio", "value": 0.12 }
+            ],
+            []
+        ],
+        "icon": "icon/relic/131.png"
+    },
+    "132": {
+        "id": "132",
+        "name": "Bậc Thầy Rèn Đúc Thỉnh Vấn Tạo Hóa",
+        "desc": [
+            "Giới Hạn HP tăng 12%.",
+            "Sát Thương Bạo Kích mà người trang bị gây ra cho mục tiêu phe địch ở trạng thái giảm Phòng Thủ tăng 28%. Sau khi người trang bị thi triển trạng thái giảm Phòng Thủ cho mục tiêu phe địch, khiến toàn thể phe ta nhận \"Tiếp Lửa\", duy trì 2 hiệp, hiệu ứng này không thể cộng dồn, sát thương do mục tiêu phe ta có hiệu ứng \"Tiếp Lửa\" gây ra tăng 15%. Hiệu ứng này có thể kích hoạt lại sau khi người trang bị thi triển tấn công."
+        ],
+        "properties": [
+            [
+                { "type": "HPAddedRatio", "value": 0.12 }
+            ],
+            []
+        ],
+        "icon": "icon/relic/132.png"
+    },
     "301": {
         "id": "301",
         "name": "Trạm Phong Ấn Không Gian",

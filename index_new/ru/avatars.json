@@ -1353,6 +1353,18 @@
         "rarity": 5,
         "icon": "icon/avatar/IconHead_200156.png"
     },
+    "200157": {
+        "id": "200157",
+        "name": "",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_200157.png"
+    },
+    "200158": {
+        "id": "200158",
+        "name": "",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_200158.png"
+    },
     "201001": { "id": "201001", "name": "Март 7 (Сохранение)", "icon": "icon/avatar/1001.png" },
     "201002": { "id": "201002", "name": "Дань Хэн", "icon": "icon/avatar/1002.png" },
     "201003": { "id": "201003", "name": "Химеко", "icon": "icon/avatar/1003.png" },
@@ -1442,6 +1454,7 @@
     "201504": { "id": "201504", "name": "", "icon": "icon/avatar/1504.png" },
     "201505": { "id": "201505", "name": "", "icon": "icon/avatar/1505.png" },
     "201506": { "id": "201506", "name": "", "icon": "icon/avatar/1506.png" },
+    "201507": { "id": "201507", "name": "", "icon": "icon/avatar/1507.png" },
     "202001": {
         "id": "202001",
         "name": "Вуббабу",

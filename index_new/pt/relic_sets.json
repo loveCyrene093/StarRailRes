@@ -451,6 +451,36 @@
         ],
         "icon": "icon/relic/130.png"
     },
+    "131": {
+        "id": "131",
+        "name": "Como o Navegador Isee Vê",
+        "desc": [
+            "Aumenta o ATQ em 12%.",
+            "Quando o usuário entra em combate ou usa a Perícia, o Dano causado pela Perícia e pela Perícia Suprema aumenta em 18%, acumulando até 3 vez(es). No início da rodada do usuário ou após usar a Perícia Suprema, remove 1 acúmulo(s) deste efeito."
+        ],
+        "properties": [
+            [
+                { "type": "AttackAddedRatio", "value": 0.12 }
+            ],
+            []
+        ],
+        "icon": "icon/relic/131.png"
+    },
+    "132": {
+        "id": "132",
+        "name": "Mestre Ferreiro da Consulta Divina",
+        "desc": [
+            "Aumenta os PV máximos em 12%.",
+            "Aumenta o Dano CRIT causado pelo usuário a inimigos-alvo no estado de redução de DEF em 28%. Depois que o usuário inflige o estado de redução de DEF a um inimigo-alvo, todos os aliados ganham \"Comburente\" por 2 rodada(s). Esse efeito não pode ser acumulado. O Dano causado por aliados-alvo com \"Comburente\" aumenta em 15%. Esse efeito pode ser ativado novamente depois que o usuário usa um ataque."
+        ],
+        "properties": [
+            [
+                { "type": "HPAddedRatio", "value": 0.12 }
+            ],
+            []
+        ],
+        "icon": "icon/relic/132.png"
+    },
     "301": {
         "id": "301",
         "name": "Estação de Vedação Espacial",

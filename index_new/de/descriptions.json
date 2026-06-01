@@ -706,7 +706,7 @@
     },
     "10143": {
         "id": "10143",
-        "title": "#27 Rubert",
+        "title": "Nr. 27 Rubert",
         "desc": "Mitglied Nr. 27 der Geniusgesellschaft, der selbsternannte „Kaiser“, der die Antiorganische Gleichung aufstellte. Löste den „ersten Krieg des Kaisers“ aus, der das ganze Universum erfasste."
     },
     "10144": {
@@ -1978,6 +1978,16 @@
         "id": "20099",
         "title": "Wechsel zur Perspektive von Ashveil ...",
         "desc": "Auf der Suche nach dem Täter kommt Ashveil an der Brücke vorbei, als die Erinnerungen an die Vergangenheit wieder auftauchen ..."
+    },
+    "20100": {
+        "id": "20100",
+        "title": "Wechsel zur Perspektive von Ashveil ...",
+        "desc": "Ashveil kehrt ans „Ende der Welt“ zurück und nimmt erneut ein sehr gefährliches Ziel ins Visier ..."
+    },
+    "20101": {
+        "id": "20101",
+        "title": "Wechsel zur Perspektive von Himeko ...",
+        "desc": "Während Himeko den Geheimnissen um ihren Vater nachgeht, erinnert sie sich kurz an die Kunstwerke, die mit der Zerstörung in Verbindung stehen ..."
     },
     "20102": {
         "id": "20102",

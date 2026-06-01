@@ -1361,6 +1361,18 @@
         "rarity": 5,
         "icon": "icon/avatar/IconHead_200156.png"
     },
+    "200157": {
+        "id": "200157",
+        "name": "Mortenax Blade: Llama Perpetua",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_200157.png"
+    },
+    "200158": {
+        "id": "200158",
+        "name": "Yunli: Llama Perpetua",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_200158.png"
+    },
     "201001": {
         "id": "201001",
         "name": "Siete de Marzo (Conservación)",
@@ -1458,6 +1470,7 @@
     "201504": { "id": "201504", "name": "Ashveil", "icon": "icon/avatar/1504.png" },
     "201505": { "id": "201505", "name": "Evanescia", "icon": "icon/avatar/1505.png" },
     "201506": { "id": "201506", "name": "Silver Wolf Niv. 999", "icon": "icon/avatar/1506.png" },
+    "201507": { "id": "201507", "name": "Mortenax Blade", "icon": "icon/avatar/1507.png" },
     "202001": {
         "id": "202001",
         "name": "Buabuabó",

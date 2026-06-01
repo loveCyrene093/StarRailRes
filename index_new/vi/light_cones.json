@@ -1539,6 +1539,16 @@
         "preview": "image/light_cone_preview/23058.png",
         "portrait": "image/light_cone_portrait/23058.png"
     },
+    "23059": {
+        "id": "23059",
+        "name": "Hình Hài Tái Sinh Từ Hỏa Ngục",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "Một khắc, là dòng nước cuộn trào. Cơ thể dần chìm xuống, rơi vào nơi sâu thẳm nhất của vực xanh.\nMột khắc, là hòn đảo hoang vu, âm thanh của quá khứ vang vọng từ trong mây mù, trôi xa, rồi lại trôi xa.\nMột khắc, là cánh đồng hoa bỉ ngạn đỏ rực, tàn kiếm bị thiêu đốt trong ngọn lửa dữ, tái tạo, và cuối cùng hòa làm một.\n\"Nếu thời khắc chưa tới, vậy hãy đúc lại thành một cái mới.\"\nLấy tuyệt cảnh làm lò, lấy thân này làm mồi dẫn, anh đã không nhớ nổi đây là lần thứ bao nhiêu cảm nhận nỗi đau nhường này.\n\"Ta sẽ lấy cái chết làm búa, và cũng sẽ... chặt đứt số mệnh!\"\nKhoảnh khắc tắm lửa tái sinh, ngọn lửa dữ bùng tỏa khắp nơi, ánh lửa lao thẳng lên trời cao, rực cháy một mạch đến tận cùng bỉ ngạn.\nKhi ấy, mọi túc nghiệp đều được chấm dứt. Cơ thể mới trải qua ngàn lần tôi luyện đó, nay đã được đúc thành.",
+        "icon": "icon/light_cone/23059.png",
+        "preview": "image/light_cone_preview/23059.png",
+        "portrait": "image/light_cone_portrait/23059.png"
+    },
     "24000": {
         "id": "24000",
         "name": "Sự Sụp Đổ Của Aeon",

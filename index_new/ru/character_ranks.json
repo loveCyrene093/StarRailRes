@@ -6648,6 +6648,80 @@
         "level_up_skills": [],
         "icon": "icon/skill/1506_rank6.png"
     },
+    "150701": {
+        "id": "150701",
+        "name": "",
+        "rank": 1,
+        "desc": "",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank1.png"
+    },
+    "150702": {
+        "id": "150702",
+        "name": "",
+        "rank": 2,
+        "desc": "",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank2.png"
+    },
+    "150703": {
+        "id": "150703",
+        "name": "",
+        "rank": 3,
+        "desc": "",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150703", "num": 2 },
+            { "id": "150704", "num": 2 },
+            { "id": "150714", "num": 2 }
+        ],
+        "icon": "icon/skill/1507_ultimate.png"
+    },
+    "150704": {
+        "id": "150704",
+        "name": "",
+        "rank": 4,
+        "desc": "",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank4.png"
+    },
+    "150705": {
+        "id": "150705",
+        "name": "",
+        "rank": 5,
+        "desc": "",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150702", "num": 2 },
+            { "id": "150701", "num": 1 },
+            { "id": "150708", "num": 1 }
+        ],
+        "icon": "icon/skill/1507_skill.png"
+    },
+    "150706": {
+        "id": "150706",
+        "name": "",
+        "rank": 6,
+        "desc": "",
+        "materials": [
+            { "id": "11507", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1507_rank6.png"
+    },
     "800101": {
         "id": "800101",
         "name": "Падающая звезда",

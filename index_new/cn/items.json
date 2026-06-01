@@ -467,7 +467,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/281.png",
-        "come_from": ["重复获取2次星魂已满的5星角色时可兑换", "重复获取2次星魂已满的5星角色时可兑换", "千星旅伴"]
+        "come_from": ["重复获取2次星魂已满的5星角色时可兑换", "重复获取2次星魂已满的5星角色时可兑换", "千星旅伴", "千星旅伴（本期已领取）"]
     },
     "282": {
         "id": "282",
@@ -1282,6 +1282,15 @@
     "11506": {
         "id": "11506",
         "name": "【银狼LV.999】的星魂",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11507": {
+        "id": "11507",
+        "name": "【千冶•刃】的星魂",
         "type": "Material",
         "sub_type": "Eidolon",
         "rarity": 5,
@@ -2637,6 +2646,78 @@
         "rarity": 5,
         "icon": "icon/item/71053.png",
         "come_from": ["侵蚀隧洞【绘世学院】", "「万能合成机」- 遗器合成"]
+    },
+    "81311": {
+        "id": "81311",
+        "name": "星如我见的领航员",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71056.png",
+        "come_from": []
+    },
+    "81312": {
+        "id": "81312",
+        "name": "星如我见的领航员",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71056.png",
+        "come_from": []
+    },
+    "81313": {
+        "id": "81313",
+        "name": "星如我见的领航员",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71056.png",
+        "come_from": []
+    },
+    "81314": {
+        "id": "81314",
+        "name": "星如我见的领航员",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71056.png",
+        "come_from": ["侵蚀隧洞【观览云岛站】", "「万能合成机」- 遗器合成"]
+    },
+    "81321": {
+        "id": "81321",
+        "name": "叩问天工的名冶",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71057.png",
+        "come_from": []
+    },
+    "81322": {
+        "id": "81322",
+        "name": "叩问天工的名冶",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71057.png",
+        "come_from": []
+    },
+    "81323": {
+        "id": "81323",
+        "name": "叩问天工的名冶",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71057.png",
+        "come_from": []
+    },
+    "81324": {
+        "id": "81324",
+        "name": "叩问天工的名冶",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71057.png",
+        "come_from": ["侵蚀隧洞【观览云岛站】", "「万能合成机」- 遗器合成"]
     },
     "83011": {
         "id": "83011",
@@ -4087,6 +4168,60 @@
         "icon": "icon/item/110273.png",
         "come_from": ["拟造花萼【「葬忆彼岸」时光归墟】", "「万能合成机」- 材料合成", "「万能合成机」- 材料置换"]
     },
+    "110281": {
+        "id": "110281",
+        "name": "四相，过河照君",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 2,
+        "icon": "icon/item/110281.png",
+        "come_from": ["拟造花萼【渡画泉隐】", "余烬兑换", "「万能合成机」- 材料置换"]
+    },
+    "110282": {
+        "id": "110282",
+        "name": "六合，王手飞车",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 3,
+        "icon": "icon/item/110282.png",
+        "come_from": ["拟造花萼【渡画泉隐】", "「万能合成机」- 材料合成", "余烬兑换", "「万能合成机」- 材料置换"]
+    },
+    "110283": {
+        "id": "110283",
+        "name": "万色，愚者自将",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 4,
+        "icon": "icon/item/110283.png",
+        "come_from": ["拟造花萼【渡画泉隐】", "「万能合成机」- 材料合成", "「万能合成机」- 材料置换"]
+    },
+    "110291": {
+        "id": "110291",
+        "name": "天体模型",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 2,
+        "icon": "icon/item/110291.png",
+        "come_from": ["拟造花萼【海原电视塔】", "余烬兑换", "「万能合成机」- 材料置换"]
+    },
+    "110292": {
+        "id": "110292",
+        "name": "星系框架",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 3,
+        "icon": "icon/item/110292.png",
+        "come_from": ["拟造花萼【海原电视塔】", "「万能合成机」- 材料合成", "余烬兑换", "「万能合成机」- 材料置换"]
+    },
+    "110293": {
+        "id": "110293",
+        "name": "银河沙盘",
+        "type": "Material",
+        "sub_type": "TracePath",
+        "rarity": 4,
+        "icon": "icon/item/110293.png",
+        "come_from": ["拟造花萼【海原电视塔】", "「万能合成机」- 材料合成", "「万能合成机」- 材料置换"]
+    },
     "110311": {
         "id": "110311",
         "name": "法吉娜之泪",
@@ -4375,6 +4510,15 @@
         "icon": "icon/item/110437.png",
         "come_from": ["凝滞虚影【「命运重渊」雅努萨波利斯】", "「万能合成机」- 材料置换"]
     },
+    "110443": {
+        "id": "110443",
+        "name": "嗤笑丑面",
+        "type": "Material",
+        "sub_type": "AvatarRank",
+        "rarity": 4,
+        "icon": "icon/item/110443.png",
+        "come_from": ["凝滞虚影【渡画泉隐】", "「万能合成机」- 材料置换"]
+    },
     "110501": {
         "id": "110501",
         "name": "毁灭者的末路",
@@ -4446,6 +4590,15 @@
         "rarity": 4,
         "icon": "icon/item/110508.png",
         "come_from": ["历战余响【「葬忆彼岸」时光归墟】"]
+    },
+    "110610": {
+        "id": "110610",
+        "name": "轨之珠泪",
+        "type": "Material",
+        "sub_type": "WeeklyMonsterDrop",
+        "rarity": 4,
+        "icon": "icon/item/110610.png",
+        "come_from": []
     },
     "111000": {
         "id": "111000",
@@ -5122,6 +5275,33 @@
         "rarity": 3,
         "icon": "icon/item/122000.png",
         "come_from": ["艾迪恩游戏币商店", "「匹诺康尼」探索获得"]
+    },
+    "122001": {
+        "id": "122001",
+        "name": "忘却之庭限时通关勋章",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/295532.png",
+        "come_from": []
+    },
+    "122002": {
+        "id": "122002",
+        "name": "虚构叙事限时通关勋章",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/295533.png",
+        "come_from": []
+    },
+    "122003": {
+        "id": "122003",
+        "name": "末日幻影限时通关勋章",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/295534.png",
+        "come_from": []
     },
     "123000": {
         "id": "123000",
@@ -9882,6 +10062,15 @@
         "sub_type": "Mission",
         "rarity": 4,
         "icon": "icon/item/140611.png",
+        "come_from": []
+    },
+    "140612": {
+        "id": "140612",
+        "name": "不死途的侦探笔记",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/190016.png",
         "come_from": []
     },
     "149957": {
@@ -20594,6 +20783,150 @@
         "icon": "icon/item/190021.png",
         "come_from": []
     },
+    "192091": {
+        "id": "192091",
+        "name": "绘世目击报告",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192092": {
+        "id": "192092",
+        "name": "河童族书",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192093": {
+        "id": "192093",
+        "name": "暗布雷拉的笔记",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192094": {
+        "id": "192094",
+        "name": "告当地居民书",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192095": {
+        "id": "192095",
+        "name": "死是无忧的安眠",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192096": {
+        "id": "192096",
+        "name": "渡画泉隐套餐价目表",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192097": {
+        "id": "192097",
+        "name": "住客服务备忘",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192098": {
+        "id": "192098",
+        "name": "愿力疗养心得",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192099": {
+        "id": "192099",
+        "name": "温泉庆典倡议",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192100": {
+        "id": "192100",
+        "name": "未尽愿望单",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192101": {
+        "id": "192101",
+        "name": "君住鸽川尾",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192102": {
+        "id": "192102",
+        "name": "「千愿之荫」谣",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192103": {
+        "id": "192103",
+        "name": "星神逃生指南",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192104": {
+        "id": "192104",
+        "name": "「凡世入画」谣",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192105": {
+        "id": "192105",
+        "name": "不死途的侦探笔记",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192106": {
+        "id": "192106",
+        "name": "浮脂记事 蛙之章 其六",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
     "210001": {
         "id": "210001",
         "name": "《灾虐的黎明》",
@@ -22574,6 +22907,69 @@
         "icon": "icon/item/210001.png",
         "come_from": []
     },
+    "210470": {
+        "id": "210470",
+        "name": "《泉隐秘境》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210471": {
+        "id": "210471",
+        "name": "《留白》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210472": {
+        "id": "210472",
+        "name": "《生于斯，长于斯》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210473": {
+        "id": "210473",
+        "name": "《炉中故里》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210474": {
+        "id": "210474",
+        "name": "《彻骨》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210475": {
+        "id": "210475",
+        "name": "《雪与血》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210476": {
+        "id": "210476",
+        "name": "《始作画者》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
     "215001": {
         "id": "215001",
         "name": "《淅沥》",
@@ -22613,6 +23009,42 @@
     "215008": {
         "id": "215008",
         "name": "《树语》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "215009": {
+        "id": "215009",
+        "name": "《簌簌》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "215010": {
+        "id": "215010",
+        "name": "《黝黯》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "215011": {
+        "id": "215011",
+        "name": "《破晓》",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "215012": {
+        "id": "215012",
+        "name": "《烘焙》",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22717,6 +23149,15 @@
         "rarity": 4,
         "icon": "icon/item/220010.png",
         "come_from": ["「尘灵乱世录」活动获得的聊天气泡"]
+    },
+    "220012": {
+        "id": "220012",
+        "name": "苍穹之上",
+        "type": "Usable",
+        "sub_type": "ChatBubble",
+        "rarity": 4,
+        "icon": "icon/item/220012.png",
+        "come_from": ["「像素飞机大乱斗」活动获得的聊天气泡"]
     },
     "221000": {
         "id": "221000",
@@ -25326,7 +25767,7 @@
         "sub_type": "PlayerOutfit",
         "rarity": 5,
         "icon": "icon/item/227010.png",
-        "come_from": ["「狐狐绯影」礼盒", "商店「时尚单品」处获取"]
+        "come_from": ["商店「时尚单品」处获取"]
     },
     "227012": {
         "id": "227012",
@@ -25344,7 +25785,16 @@
         "sub_type": "PlayerOutfit",
         "rarity": 5,
         "icon": "icon/item/227013.png",
-        "come_from": ["「银河速通」礼盒"]
+        "come_from": ["商店「时尚单品」处获取"]
+    },
+    "227015": {
+        "id": "227015",
+        "name": "彼岸业火",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 5,
+        "icon": "icon/item/227015.png",
+        "come_from": []
     },
     "229001": {
         "id": "229001",
@@ -27513,7 +27963,7 @@
         "sub_type": "PamSkin",
         "rarity": 4,
         "icon": "icon/item/252003.png",
-        "come_from": ["在「帕姆帮帮」中与帕姆对话获得"]
+        "come_from": ["「黑塔的商店」兑换获得"]
     },
     "252004": {
         "id": "252004",
@@ -29187,7 +29637,7 @@
         "sub_type": "PersonalCard",
         "rarity": 5,
         "icon": "icon/item/253004.png",
-        "come_from": ["「银河速通」礼盒"]
+        "come_from": ["商店「时尚单品」处获取"]
     },
     "254000": {
         "id": "254000",
@@ -30944,6 +31394,15 @@
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
     },
+    "268201": {
+        "id": "268201",
+        "name": "像素核心卡带",
+        "type": "Material",
+        "sub_type": "PixAirMaterial",
+        "rarity": 5,
+        "icon": "icon/item/268201.png",
+        "come_from": []
+    },
     "269001": {
         "id": "269001",
         "name": "绘彩战力币",
@@ -32510,6 +32969,15 @@
         "icon": "icon/item/402036.png",
         "come_from": ["「万能合成机」", "绘世学院小卖部"]
     },
+    "402037": {
+        "id": "402037",
+        "name": "悦动橙心",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/402037.png",
+        "come_from": ["「万能合成机」"]
+    },
     "403001": {
         "id": "403001",
         "name": "一次性动力臂",
@@ -33336,6 +33804,15 @@
         "sub_type": "Formula",
         "rarity": 3,
         "icon": "icon/item/404001.png",
+        "come_from": []
+    },
+    "406037": {
+        "id": "406037",
+        "name": "配方：悦动橙心",
+        "type": "Usable",
+        "sub_type": "Formula",
+        "rarity": 3,
+        "icon": "icon/item/406037.png",
         "come_from": []
     },
     "407001": {
